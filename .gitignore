@@ -1,0 +1,22 @@
+# Ignore node tools if used locally
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS-specific stuff
+.DS_Store
+Thumbs.db
+
+# Editor junk
+*.swp
+*.swo
+*.bak
+.idea/
+.vscode/
+
+# Drafts (optional - ignore local-only drafts)
+drafts/
+
+# Ignore logs or temp build scripts
+*.log
+temp/
