@@ -57,7 +57,7 @@ A game that reminded everyone that highly immersive single-player RPGs are still
 }
 ```
 
-I haven’t played Assassin’s Creed since the Ezio days, and it seems like the series has evolved quite a bit. The reception is mostly positive (81%), but many players are frustrated by technical issues and the inclusion of microtransactions in a full-price single-player game.
+I haven’t played Assassin’s Creed since the Ezio days, and it seems like the series has evolved quite a bit. The reception is mostly positive (81% at the time of writing), but many players are frustrated by technical issues and the inclusion of microtransactions in a full-price single-player game.
 
 ---
 
@@ -75,9 +75,9 @@ We saw a few high-profile launches stumble out of the gate:
 
 * **Sid Meier’s Civilization VII** — Players cite an unfinished feel and poor UI. I was personally excited about this one, but I’m holding off until it gets patched.
 
-* **Monster Hunter Wilds** — Selling well, but still only at 59% positive. Major issues with performance, even on high-end rigs.
+* **Monster Hunter Wilds** — Selling well, but still only around 58-60% positive. Major issues with performance, even on high-end rigs.
 
-* **GTA V: Enhanced Edition** — The new version replaced the old one on the store, and users are struggling with migration issues. It’s sitting at just 57% positive.
+* **GTA V: Enhanced Edition** — The new version replaced the old one on the store, and users are struggling with migration issues. It’s sitting at just 63% positive at the time of writing.
 
 Combined with rising prices and increasing development costs, it begs the question: Are big-budget releases becoming too risky?
 
