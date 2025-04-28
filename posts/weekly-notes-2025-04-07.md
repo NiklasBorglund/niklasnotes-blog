@@ -1,5 +1,5 @@
 ﻿---
-title: "Weekly Notes: April 7–13, 2025"
+title: "Weekly Notes (April 7–13): Nostalgia and Puzzles"
 slug: "weekly-notes-2025-04-07"
 date: "2025-04-19"
 description: "A look at some of the standout releases and review trends from the second week of April 2025 — including Crashlands 2, Blue Prince, and more."
