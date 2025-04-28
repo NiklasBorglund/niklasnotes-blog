@@ -32,7 +32,7 @@ Players are thrilled to revisit a classic RPG—nostalgia and the remaster’s i
 }
 ```
 
-The day after Bethesda’s surprise, Sandfall Interactive launched *Clair Obscur: Expedition 33*—a more traditional release with reviews, hype-building, and a set date.
+Two days after Bethesda’s surprise, Sandfall Interactive launched *Clair Obscur: Expedition 33*—a more traditional release with reviews, hype-building, and a set date.
 
 I wondered if *Oblivion’s* drop would overshadow them, given the shared RPG space. But they’ve done more than alright—over **1 million copies sold** in under a week and a **90%+ positive rating**.
 
