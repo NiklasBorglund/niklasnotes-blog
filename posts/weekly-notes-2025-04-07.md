@@ -4,8 +4,10 @@ slug: "weekly-notes-2025-04-07"
 date: "2025-04-19"
 description: "A look at some of the standout releases and review trends from the second week of April 2025 — including Crashlands 2, Blue Prince, and more."
 tags: ["Weekly Recap", "Game Analysis", "April 2025", "Crashlands 2", "Indie Games"]
-image: ""
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png"
 ---
+
+![Blog Banner](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png)
 
 We got a lot of releases this week, so I wanted to share a few personal notes on the ones that stood out — along with the full top list at the bottom.
 

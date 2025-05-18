@@ -4,8 +4,10 @@ slug: "weekly-notes-2025-05-05"
 date: "2025-05-12"
 description: "A claymation adventure from Gothenburg, literal money laundering, and multiple big-name DLCs with rough launches. Here's what Steam players actually thought — language by language."
 tags: ["Weekly Notes", "Steam Reviews", "Game Analysis", "Audience Breakdown", "Indie Games", "Simulator", "Early Access", "DLC", "Stellaris", "Among Us", "Yes Your Grace", "The Midnight Walk"]
-image: ""
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-05/hero.jpg"
 ---
+
+![Blog Banner](./hero.jpg)
 
 Happy Monday! Time for another round of Weekly Notes - a breakdown of the most interesting releases on Steam from last week, and what players actually thought about them.
 

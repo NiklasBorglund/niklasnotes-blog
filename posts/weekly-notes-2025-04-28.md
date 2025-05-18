@@ -4,8 +4,10 @@ slug: "weekly-notes-2025-04-28"
 date: "2025-05-05"
 description: "Roguelite shooters, fashion RPGs, and Diablo-likes walk into Early Access. Here's what happened — and what players really thought, language by language."
 tags: ["Weekly Notes", "Steam Reviews", "Audience Breakdown", "RPG", "April 2025", "Game Analysis", "Early Access", "Conquest Dark", "Infinity Nikki", "Deadzone Rogue"]
-image: ""
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-28/hero.png"
 ---
+
+![Blog Banner](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-28/hero.png)
 
 Happy Monday everybody! Last week's notes brought the bombshell drop of Oblivion Remastered and the breakout debut of Clair Obscur. This week? Not quite the same headlines — but still packed with interesting launches and promising Early Access graduates
 

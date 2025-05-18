@@ -4,8 +4,10 @@ slug: "weekly-notes-2025-04-21"
 date: "2025-04-28"
 description: "This week’s notes include Oblivion Remastered, Clair Obscur’s strong debut which creates a great week for RPGs"
 tags: ["Weekly Recap", "Game Analysis", "April 2025", "Oblivion Remastered", "Clair Obscur", "Indie Games", "RPG"]
-image: ""
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-21/hero.png"
 ---
+
+![Blog Banner](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-21/hero.png)
 
 ## 🛠️ The Elder Scrolls IV: Oblivion Remastered — Bethesda Game Studios
 

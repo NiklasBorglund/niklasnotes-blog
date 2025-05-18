@@ -4,8 +4,10 @@ slug: "q1-2025-game-releases"
 date: "2025-04-13"
 description: "An analytical recap of Q1 2025’s most notable game releases — from standout indies to rocky AAA launches."
 tags: ["Q1 2025", "Game Analysis", "Indie Games", "AAA Games", "Release Trends"]
-image: "" # Optional — you can leave this blank or remove it entirely for now
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q1-2025-game-releases/hero.png"
 ---
+
+![Blog Banner](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q1-2025-game-releases/hero.png)
 
 This is the first post on the blog — short and to the point, while I’m still building out the system. But I didn’t want to let Q1 slip by without sharing a few thoughts on what’s been released so far in 2025.
 
