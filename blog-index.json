@@ -5,7 +5,7 @@
     "date": "2025-04-13",
     "description": "An analytical recap of Q1 2025’s most notable game releases — from standout indies to rocky AAA launches.",
     "tags": ["Q1 2025", "Game Analysis", "Indie Games", "AAA Games", "Release Trends"],
-    "image": ""
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q1-2025-game-releases/hero.png"
   },
   {
     "title": "Weekly Notes: April 7–13, 2025",
@@ -13,7 +13,7 @@
     "date": "2025-04-19",
     "description": "A look at some of the standout releases and review trends from the second week of April 2025 — including Crashlands 2, Blue Prince, and more.",
     "tags": ["Weekly Recap", "Game Analysis", "April 2025", "Crashlands 2", "Indie Games"],
-    "image": ""
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png"
   },
   {
     "title": "Weekly Notes (April 14–20): Surprise Hits and RTS Flashbacks",
@@ -21,7 +21,7 @@
     "date": "2025-04-21",
     "description": "This week’s notes include RuneScape: Dragonwilds, a surprise DLC success, and a Command & Conquer throwback with Tempest Rising.",
     "tags": ["Weekly Recap", "Game Analysis", "April 2025", "RuneScape", "Tempest Rising", "Indie Games"],
-    "image": ""
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-14/hero.png"
   },
   {
     "title": "Weekly Notes (April 21–27): A Great Week for RPG Fans",
@@ -29,7 +29,7 @@
     "date": "2025-04-28",
     "description": "This week’s notes include Oblivion Remastered, Clair Obscur’s strong debut which creates a great week for RPGs",
     "tags": ["Weekly Recap", "Game Analysis", "April 2025", "Oblivion Remastered", "Clair Obscur", "Indie Games", "RPG"],
-    "image": ""
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-21/hero.png"
   },
   {
     "title": "Weekly Notes (April 28 - May 04): Builds, Cozy Catastrophes, and Audience Anomalies",
@@ -37,7 +37,7 @@
     "date": "2025-05-05",
     "description": "Roguelite shooters, fashion RPGs, and Diablo-likes walk into Early Access. Here's what happened — and what players really thought, language by language.",
     "tags": ["Weekly Notes", "Steam Reviews", "Audience Breakdown", "RPG", "April 2025", "Game Analysis", "Early Access", "Conquest Dark", "Infinity Nikki", "Deadzone Rogue"],
-    "image": ""
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-28/hero.png"
   },
   {
     "title": "Weekly Notes (May 5–11): Indie Wins, Franchise Fails, and a Claymation Surprise",
@@ -45,6 +45,14 @@
     "date": "2025-05-12",
     "description": "A claymation adventure from Gothenburg, literal money laundering, and multiple big-name DLCs with rough launches. Here's what Steam players actually thought - language by language.",
     "tags": ["Weekly Notes", "Steam Reviews", "Game Analysis", "Audience Breakdown", "Indie Games", "Simulator", "Early Access", "DLC", "Stellaris", "Among Us", "Yes Your Grace", "The Midnight Walk"],
-    "image": ""
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-05/hero.jpg"
+  },
+  {
+    "title": "Weekly Notes (May 12–18): Why DOOM Dominated - and Slormancer Struggled Across Asia",
+    "slug": "weekly-notes-2025-05-12",
+    "date": "2025-05-19",
+    "description": "Fast-paced FPS, nostalgic Flash revivals, and ARPGs struggling to communicate - this week’s game releases reveal what players love and what drives them away",
+    "tags": ["Weekly Notes", "Steam", "New Releases", "Game Reviews", "Localization", "Audience Analysis", "DOOM The Dark Ages", "The Slormancer", "Early Access", "Regional Reception"],
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-12/hero.jpg"
   }
 ]
