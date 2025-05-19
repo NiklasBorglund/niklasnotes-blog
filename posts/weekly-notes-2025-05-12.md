@@ -94,7 +94,7 @@ Games Included:
 ---
 
 
-🛡️ Kingdom Come: Deliverance II – Brushes with Death by Warhorse Studios
+## 🛡️ Kingdom Come: Deliverance II – Brushes with Death by Warhorse Studios
 ***Largest audiences**: ~43% English Speakers, ~19% Chinese (Simplified), ~13% Russian*
 
 ```condensedgamecard
