@@ -11,7 +11,7 @@ image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blo
 
 Happy Monday! A new week, a new crop of game launches - and some really interesting patterns in how different regions are reacting. Here's what stood out from May 12–18.
 
-## DOOM: The Dark Ages by id Software
+## 🔫 DOOM: The Dark Ages by id Software
 ***Largest audiences**: ~66% English Speakers, ~11% Chinese (Simplified), ~8% Russian*
 
 ```condensedgamecard-grid
@@ -31,7 +31,7 @@ Beyond that, reviews are mixed on a few other fronts. Some miss the glory kills 
 
 ---
 
-## 💸 The Precinct by Fallen Tree Games Ltd
+## 🚓 The Precinct by Fallen Tree Games Ltd
 ***Largest audiences**: ~52% English Speakers, ~9% Chinese (Simplified), ~7% German*
 
 ```condensedgamecard
@@ -51,7 +51,7 @@ I went through the top upvoted Chinese reviews manually, and while the themes of
 
 ---
 
-## 💸 Jacksmith: Weapons and Warriors by Flipline Studios
+## 🛠️ Jacksmith: Weapons and Warriors by Flipline Studio
 ***Largest audiences**: ~63% English Speakers, ~9% Polish, ~8% Russian*
 
 ```condensedgamecard
@@ -69,7 +69,7 @@ A few players express disappointment with the lack of new feature and the repeti
 
 ---
 
-## 💸 Capcom Fighting Collection 2 by Capcom Co. Ltd.
+## 🕹️ Capcom Fighting Collection 2 by Capcom Co. Ltd.
 ***Largest audiences**: ~69% English Speakers, ~6% Japanese, ~5% Portuguese (Brazil)*
 
 ```condensedgamecard
@@ -93,7 +93,7 @@ Games Included:
 
 ---
 
-## Early Access Graduate: The Slormancer by Slormite Studios
+## ⚔️ Early Access Graduate: The Slormancer by Slormite Studios
 ***Largest audiences**: ~42% English Speakers, ~27% Chinese (Simplified), ~9% French*
 
 ```condensedgamecard
@@ -129,7 +129,7 @@ Some also write that the game spent too long in Early Access with too little to 
 
 ---
 
-## Full List: Top Releases for May 12–18 (2025)
+## 📊 Full List: Top Releases for May 12–18 (2025)
 
 ```customlist
 {
