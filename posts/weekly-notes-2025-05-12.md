@@ -3,7 +3,7 @@ title: "Weekly Notes (May 12–18): Why DOOM Dominated - and Slormancer Struggle
 slug: "weekly-notes-2025-05-12"
 date: "2025-05-19"
 description: "Fast-paced FPS, nostalgic Flash revivals, and ARPGs struggling to communicate - this week’s game releases reveal what players love and what drives them away"
-tags: ["Weekly Notes", "Steam", "New Releases", "Game Reviews", "Localization", "Audience Analysis", "DOOM The Dark Ages", "The Slormancer", "Early Access", "Regional Reception"]
+tags: ["Weekly Notes", "Kingdom Come Deliverance II", "Steam", "New Releases", "Game Reviews", "Localization", "Audience Analysis", "DOOM The Dark Ages", "The Slormancer", "Early Access", "Regional Reception"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-12/hero.jpg"
 ---
 
@@ -92,6 +92,22 @@ Games Included:
 * Plasma Sword: Nightmare of Bilstein
 
 ---
+
+
+🛡️ Kingdom Come: Deliverance II – Brushes with Death by Warhorse Studios
+***Largest audiences**: ~43% English Speakers, ~19% Chinese (Simplified), ~13% Russian*
+
+```condensedgamecard
+{
+"gameId": "204866"
+}
+```
+
+Kingdom Come: Deliverance II just dropped its first expansion, Brushes with Death, where you help a mysterious artist uncover his past.
+Players praise the engaging story, the addition of shield customization, and the affordable price. Some feel it’s a bit short and would have liked more depth, but overall the reception is positive.
+
+---
+
 
 ## ⚔️ Early Access Graduate: The Slormancer by Slormite Studios
 ***Largest audiences**: ~42% English Speakers, ~27% Chinese (Simplified), ~9% French*
