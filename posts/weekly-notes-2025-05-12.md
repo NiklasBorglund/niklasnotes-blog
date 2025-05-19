@@ -104,7 +104,7 @@ Games Included:
 ```
 
 Kingdom Come: Deliverance II just dropped its first expansion, Brushes with Death, where you help a mysterious artist uncover his past.
-Players praise the engaging story, the addition of shield customization, and the affordable price. Some feel it’s a bit short and would have liked more depth, but overall the reception is positive.
+Players praise the engaging story, the addition of shield customization, and the affordable price. Some feel it’s a bit short, overly reliant on fetch quests and would have liked more depth, but overall the reception is positive.
 
 ---
 
