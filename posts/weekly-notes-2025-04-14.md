@@ -7,8 +7,6 @@ tags: ['Weekly Recap', 'Game Analysis', 'April 2025', 'RuneScape', 'Tempest Risi
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-14/hero.png"
 ---
 
-![Blog Banner](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-14/hero.png)
-
 ## 🛠️ RuneScape: Dragonwilds by Jagex
 
 ```condensedgamecard

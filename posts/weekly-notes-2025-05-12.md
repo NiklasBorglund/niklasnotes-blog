@@ -7,8 +7,6 @@ tags: ["Weekly Notes", "Kingdom Come Deliverance II", "Steam", "New Releases", "
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-12/hero.jpg"
 ---
 
-![Blog Banner](./hero.jpg)
-
 Happy Monday! A new week, a new crop of game launches - and some really interesting patterns in how different regions are reacting. Here's what stood out from May 12–18.
 
 ## 🔫 DOOM: The Dark Ages by id Software

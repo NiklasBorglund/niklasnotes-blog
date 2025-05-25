@@ -7,8 +7,6 @@ tags: ["Weekly Notes", "Steam Reviews", "Game Analysis", "Audience Breakdown", "
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-05/hero.jpg"
 ---
 
-![Blog Banner](./hero.jpg)
-
 Happy Monday! Time for another round of Weekly Notes - a breakdown of the most interesting releases on Steam from last week, and what players actually thought about them.
 
 ## 🧙‍♂️ Ithya: Magic Studies by BlueTurtle

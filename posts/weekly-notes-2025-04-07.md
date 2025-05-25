@@ -7,8 +7,6 @@ tags: ["Weekly Recap", "Game Analysis", "April 2025", "Crashlands 2", "Indie Gam
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png"
 ---
 
-![Blog Banner](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png)
-
 We got a lot of releases this week, so I wanted to share a few personal notes on the ones that stood out — along with the full top list at the bottom.
 
 ---
