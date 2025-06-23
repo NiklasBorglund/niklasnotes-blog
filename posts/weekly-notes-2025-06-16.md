@@ -76,7 +76,7 @@ Still, Landfall keeps showing how to make something that gets people talking - a
 
 ```condensedgamecard
 {
-"gameId": "2138720"
+"gameId": "123005"
 }
 ```
 
