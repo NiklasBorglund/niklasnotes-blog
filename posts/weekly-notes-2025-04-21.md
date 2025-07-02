@@ -2,8 +2,9 @@
 title: "Weekly Notes (April 21–27): A Great Week for RPG Fans"
 slug: "weekly-notes-2025-04-21"
 date: "2025-04-28"
+category: "Weekly Notes"
 description: "This week’s notes include Oblivion Remastered, Clair Obscur’s strong debut which creates a great week for RPGs"
-tags: ["Weekly Recap", "Game Analysis", "April 2025", "Oblivion Remastered", "Clair Obscur", "Indie Games", "RPG"]
+tags: ["Weekly Recap", "Game Analysis", "April 2025", "Oblivion Remastered", "Clair Obscur", "Indie Games", "RPG", "The Elder Scrolls", "Expedition 33", "The Hundred Line", "Dinkum", "Survivalist: Invisible Strain", "SpellRogue"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-21/hero.png"
 ---
 

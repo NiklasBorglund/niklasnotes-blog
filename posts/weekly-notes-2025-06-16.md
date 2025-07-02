@@ -2,8 +2,9 @@
 title: "Weekly Notes (Jun 16 – Jun 22): Roots, Chinese Revenge Dramas & Co-op Chaos"
 slug: "weekly-notes-2025-06-16"
 date: "2025-06-23"
+category: "Weekly Notes"
 description: "A packed week of Steam releases, including the Roots DLC launch for Songs of Conquest, a hit narrative game from China, Landfall’s new viral co-op title, and Remedy’s new co-op game"
-tags: ["Weekly Notes", "Steam Releases", "Songs of Conquest", "Chinese Narrative Games", "Co-op Games", "Firebreak", "Broken Arrow", "Landfall", "Early Access Graduates"]
+tags: ["Weekly Notes", "Steam Releases", "Songs of Conquest", "Chinese Narrative Games", "Co-op Games", "Firebreak", "Broken Arrow", "Landfall","Supermarket Simulator", "Early Access Graduates", "Roots", "PEAK", "FBC: Firebreak"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-16/hero.jpg"
 ---
 

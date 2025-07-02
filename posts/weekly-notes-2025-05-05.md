@@ -2,8 +2,9 @@
 title: "Weekly Notes (May 5–11): Indie Wins, Franchise Fails, and a Claymation Surprise"
 slug: "weekly-notes-2025-05-05"
 date: "2025-05-12"
+category: "Weekly Notes"
 description: "A claymation adventure from Gothenburg, literal money laundering, and multiple big-name DLCs with rough launches. Here's what Steam players actually thought — language by language."
-tags: ["Weekly Notes", "Steam Reviews", "Game Analysis", "Audience Breakdown", "Indie Games", "Simulator", "Early Access", "DLC", "Stellaris", "Among Us", "Yes Your Grace", "The Midnight Walk"]
+tags: ["Weekly Notes", "Steam Reviews", "Game Analysis", "Audience Breakdown", "Indie Games", "Simulator", "Early Access", "DLC", "Stellaris", "Among Us", "Ithya", "Cash Cleaner Simulator", "Yes Your Grace", "The Midnight Walk", "Drop Duchy", "Age of Empires II"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-05/hero.jpg"
 ---
 

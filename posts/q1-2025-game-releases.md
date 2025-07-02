@@ -2,8 +2,9 @@
 title: "Q1 2025: A Surprisingly Strong Start for Games"
 slug: "q1-2025-game-releases"
 date: "2025-04-13"
+category: "Quarterly Breakdown"
 description: "An analytical recap of Q1 2025’s most notable game releases — from standout indies to rocky AAA launches."
-tags: ["Q1 2025", "Game Analysis", "Indie Games", "AAA Games", "Release Trends"]
+tags: ["Q1 2025", "Game Analysis", "Indie Games", "AAA Games", "Release Trends", "Schedule", "Split Fiction", "Kingdom Come", "Assassin’s Creed", "Civilization VII", "GTA V", "Monster Hunter Wilds", "My Summer Car"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q1-2025-game-releases/hero.png"
 ---
 

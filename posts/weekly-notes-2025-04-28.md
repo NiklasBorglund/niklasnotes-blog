@@ -2,8 +2,9 @@
 title: "Weekly Notes (April 28 - May 04): Builds, Cozy Catastrophes, and Audience Anomalies"
 slug: "weekly-notes-2025-04-28"
 date: "2025-05-05"
+category: "Weekly Notes"
 description: "Roguelite shooters, fashion RPGs, and Diablo-likes walk into Early Access. Here's what happened — and what players really thought, language by language."
-tags: ["Weekly Notes", "Steam Reviews", "Audience Breakdown", "RPG", "April 2025", "Game Analysis", "Early Access", "Conquest Dark", "Infinity Nikki", "Deadzone Rogue"]
+tags: ["Weekly Notes", "Steam Reviews", "Audience Breakdown", "RPG", "April 2025", "Game Analysis", "Early Access", "Ratopia", "Conquest Dark", "MEMORIAPOLIS", "Vellum", "Infinity Nikki", "Deadzone Rogue"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-28/hero.png"
 ---
 

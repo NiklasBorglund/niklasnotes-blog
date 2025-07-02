@@ -3,6 +3,7 @@
     "title": "Q1 2025: A Surprisingly Strong Start for Games",
     "slug": "q1-2025-game-releases",
     "date": "2025-04-13",
+    "category": "Quarterly Breakdown",
     "description": "An analytical recap of Q1 2025’s most notable game releases — from standout indies to rocky AAA launches.",
     "tags": ["Q1 2025", "Game Analysis", "Indie Games", "AAA Games", "Release Trends"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q1-2025-game-releases/hero.png"
@@ -11,6 +12,7 @@
     "title": "Weekly Notes: April 7–13, 2025",
     "slug": "weekly-notes-2025-04-07",
     "date": "2025-04-19",
+    "category": "Weekly Notes",
     "description": "A look at some of the standout releases and review trends from the second week of April 2025 — including Crashlands 2, Blue Prince, and more.",
     "tags": ["Weekly Recap", "Game Analysis", "April 2025", "Crashlands 2", "Indie Games"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png"
@@ -19,6 +21,7 @@
     "title": "Weekly Notes (April 14–20): Surprise Hits and RTS Flashbacks",
     "slug": "weekly-notes-2025-04-14",
     "date": "2025-04-21",
+    "category": "Weekly Notes",
     "description": "This week’s notes include RuneScape: Dragonwilds, a surprise DLC success, and a Command & Conquer throwback with Tempest Rising.",
     "tags": ["Weekly Recap", "Game Analysis", "April 2025", "RuneScape", "Tempest Rising", "Indie Games"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-14/hero.png"
@@ -27,6 +30,7 @@
     "title": "Weekly Notes (April 21–27): A Great Week for RPG Fans",
     "slug": "weekly-notes-2025-04-21",
     "date": "2025-04-28",
+    "category": "Weekly Notes",
     "description": "This week’s notes include Oblivion Remastered, Clair Obscur’s strong debut which creates a great week for RPGs",
     "tags": ["Weekly Recap", "Game Analysis", "April 2025", "Oblivion Remastered", "Clair Obscur", "Indie Games", "RPG"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-21/hero.png"
@@ -35,6 +39,7 @@
     "title": "Weekly Notes (April 28 - May 04): Builds, Cozy Catastrophes, and Audience Anomalies",
     "slug": "weekly-notes-2025-04-28",
     "date": "2025-05-05",
+    "category": "Weekly Notes",
     "description": "Roguelite shooters, fashion RPGs, and Diablo-likes walk into Early Access. Here's what happened — and what players really thought, language by language.",
     "tags": ["Weekly Notes", "Steam Reviews", "Audience Breakdown", "RPG", "April 2025", "Game Analysis", "Early Access", "Conquest Dark", "Infinity Nikki", "Deadzone Rogue"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-28/hero.png"
@@ -43,6 +48,7 @@
     "title": "Weekly Notes (May 5–11): Indie Wins, Franchise Fails, and a Claymation Surprise",
     "slug": "weekly-notes-2025-05-05",
     "date": "2025-05-12",
+    "category": "Weekly Notes",
     "description": "A claymation adventure from Gothenburg, literal money laundering, and multiple big-name DLCs with rough launches. Here's what Steam players actually thought - language by language.",
     "tags": ["Weekly Notes", "Steam Reviews", "Game Analysis", "Audience Breakdown", "Indie Games", "Simulator", "Early Access", "DLC", "Stellaris", "Among Us", "Yes Your Grace", "The Midnight Walk"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-05/hero.jpg"
@@ -51,6 +57,7 @@
     "title": "Weekly Notes (May 12–18): Why DOOM Dominated - and Slormancer Struggled Across Asia",
     "slug": "weekly-notes-2025-05-12",
     "date": "2025-05-19",
+    "category": "Weekly Notes",
     "description": "Fast-paced FPS, nostalgic Flash revivals, and ARPGs struggling to communicate - this week’s game releases reveal what players love and what drives them away",
     "tags": ["Weekly Notes", "Steam", "New Releases", "Game Reviews", "Localization", "Audience Analysis", "DOOM The Dark Ages", "The Slormancer", "Early Access", "Regional Reception"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-12/hero.jpg"
@@ -59,6 +66,7 @@
     "title": "Weekly Notes (May 19–25): Sequels, Surprises & Slow-Life RPGs",
     "slug": "weekly-notes-2025-05-19",
     "date": "2025-05-26",
+    "category": "Weekly Notes",
     "description": "From Fantasy Life i's slow-life charm to Monster Train 2’s triumphant sequel, and a curious Brazilian surge for 9 Kings - here’s what stood out on Steam this week.",
     "tags": ["Weekly Notes", "Steam", "Fantasy Life i", "Monster Train 2", "Game Analysis", "Early Access", "RoadCraft", "Deliver At All Costs"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-19/hero.jpg"
@@ -67,6 +75,7 @@
     "title": "Weekly Notes (May 26 – Jun 01): Elden Ring Nightreign Turbulence, Kabuto Park Buzz & May’s Top Releases",
     "slug": "weekly-notes-2025-05-26",
     "date": "2025-06-02",
+    "category": "Weekly Notes",
     "description": "From Elden Ring Nightreign’s rocky launch to Kabuto Park’s near-perfect debut—dive into this week’s top Steam releases and May’s complete leaderboard.",
     "tags": ["Weekly Notes", "Steam", "Game Launch", "Regional Differences", "Elden Ring Nightreign", "As We Descend", "Kabuto Park", "Game Analysis", "Early Access", "Steam Deck", "Localization"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-26/hero.jpg"
@@ -75,6 +84,7 @@
     "title": "Weekly Notes (Jun 02 – Jun 08): Dune, DELTARUNE, and a Farming-RPG Split",
     "slug": "weekly-notes-2025-06-02",
     "date": "2025-06-10",
+    "category": "Weekly Notes",
     "description": "A closer look at Dune: Awakening’s Advanced Access performance, DELTARUNE’s long-awaited Steam release, and how Rune Factory splits its audience nearly 50/50 between English and Chinese players. Plus more from this week’s top launches and demos.",
     "tags": ["Weekly Notes", "Steam", "Game Launch", "Regional Differences", "Dune Awakening", "DELTARUNE", "Rune Factory", "Lies of P", "Game Analysis", "Early Access"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-02/hero.jpg"
@@ -83,6 +93,7 @@
     "title": "Weekly Notes (Jun 09 – Jun 15): Showdowns, Clones, and Controversies",
     "slug": "weekly-notes-2025-06-09",
     "date": "2025-06-16",
+    "category": "Weekly Notes",
     "description": "This week, we look at Stellar Blade’s successful PC debut, the polarizing stealth horror of FNAF: Secret of the Mimic, and 11 bit studios’ philosophical survival game The Alters. Plus: a troubled launch for MindsEye, a nostalgic WW2 shooter, and Steam Next Fest demos",
     "tags": ["Weekly Notes", "Steam", "Game Launch", "Early Access", "Steam Next Fest", "Stellar Blade", "FNAF", "The Alters", "MindsEye", "Heroes of Valor"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-09/hero.jpg"
@@ -91,6 +102,7 @@
     "title": "Weekly Notes (Jun 16 – Jun 22): Roots, Chinese Revenge Dramas & Co-op Chaos",
     "slug": "weekly-notes-2025-06-16",
     "date": "2025-06-23",
+    "category": "Weekly Notes",
     "description": "A packed week of Steam releases, including the Roots DLC launch for Songs of Conquest, a hit narrative game from China, Landfall’s new viral co-op title, and Remedy’s new co-op game",
     "tags": ["Weekly Notes", "Steam Releases", "Songs of Conquest", "Chinese Narrative Games", "Co-op Games", "Firebreak", "Broken Arrow", "Landfall", "Early Access Graduates"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-16/hero.jpg"
@@ -99,6 +111,7 @@
     "title": "Weekly Notes (Jun 23 – Jun 29): A Quiet Week, But Some Interesting Drops",
     "slug": "weekly-notes-2025-06-23",
     "date": "2025-06-30",
+    "category": "Weekly Notes",
     "description": "This week on Steam saw fewer big releases, but cozy aquariums, a Persona F2P spinoff, a classic remaster, and a tiny shipping empire kept things interesting.",
     "tags": ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-23/hero.jpg"

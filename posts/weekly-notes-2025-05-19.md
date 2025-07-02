@@ -2,6 +2,7 @@
 title: "Weekly Notes (May 19–25): Sequels, Surprises & Slow-Life RPGs"
 slug: "weekly-notes-2025-05-19"
 date: "2025-05-26"
+category: "Weekly Notes"
 description: "From Fantasy Life i's slow-life charm to Monster Train 2’s triumphant sequel, and a curious Brazilian surge for 9 Kings - here’s what stood out on Steam this week."
 tags: ["Weekly Notes", "Steam", "Fantasy Life i", "Monster Train 2", "Game Analysis", "Early Access", "RoadCraft", "Deliver At All Costs"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-19/hero.jpg"

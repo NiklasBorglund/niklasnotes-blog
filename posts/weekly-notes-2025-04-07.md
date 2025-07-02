@@ -2,8 +2,9 @@
 title: "Weekly Notes (April 7–13): Nostalgia and Puzzles"
 slug: "weekly-notes-2025-04-07"
 date: "2025-04-19"
+category: "Weekly Notes"
 description: "A look at some of the standout releases and review trends from the second week of April 2025 — including Crashlands 2, Blue Prince, and more."
-tags: ["Weekly Recap", "Game Analysis", "April 2025", "Crashlands 2", "Indie Games"]
+tags: ["Weekly Recap", "Game Analysis", "April 2025", "Crashlands 2", "Indie Games", "South of Midnight", "Blue Prince", "Commandos: Origins", ]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-07/hero.png"
 ---
 

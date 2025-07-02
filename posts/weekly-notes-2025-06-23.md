@@ -2,8 +2,9 @@
 title: "Weekly Notes (Jun 23 – Jun 29): A Quiet Week, But Some Interesting Drops"
 slug: "weekly-notes-2025-06-23"
 date: "2025-06-30"
+category: "Weekly Notes"
 description: "This week on Steam saw fewer big releases, but cozy aquariums, a Persona F2P spinoff, a classic remaster, and a tiny shipping empire kept things interesting."
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development"]
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development", "Tiny Aquarium", "Persona5", "System Shock 2", "Ship, Inc."]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-23/hero.jpg"
 ---
 

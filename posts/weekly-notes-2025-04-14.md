@@ -2,8 +2,9 @@
 title: "Weekly Notes (April 14–20): Surprise Hits and RTS Flashbacks"
 slug: "weekly-notes-2025-04-14"
 date: "2025-04-21"
+category: "Weekly Notes"
 description: "This week’s notes include RuneScape: Dragonwilds, a surprise DLC success, and a Command & Conquer throwback with Tempest Rising."
-tags: ['Weekly Recap', 'Game Analysis', 'April 2025', 'RuneScape', 'Tempest Rising', 'Indie Games']
+tags: ['Weekly Recap', 'Game Analysis', 'April 2025', 'RuneScape', 'Tempest Rising', 'Indie Games', "White Knuckle", "Last Epoch"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-04-14/hero.png"
 ---
 

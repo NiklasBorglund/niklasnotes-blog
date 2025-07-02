@@ -2,6 +2,7 @@
 title: "Weekly Notes (May 26 – Jun 01): Elden Ring Nightreign Turbulence, Kabuto Park Buzz & May’s Top Releases"
 slug: "weekly-notes-2025-05-26"
 date: "2025-06-02"
+category: "Weekly Notes"
 description: "From Elden Ring Nightreign’s rocky launch to Kabuto Park’s near-perfect debut—dive into this week’s top Steam releases and May’s complete leaderboard."
 tags: ["Weekly Notes", "Steam", "Game Launch", "Regional Differences", "Elden Ring Nightreign", "As We Descend", "Kabuto Park", "Game Analysis", "Early Access", "Steam Deck", "Localization"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-26/hero.jpg"

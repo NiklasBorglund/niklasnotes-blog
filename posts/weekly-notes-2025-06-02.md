@@ -2,6 +2,7 @@
 title: "Weekly Notes (Jun 02 – Jun 08): Dune, DELTARUNE, and a Farming-RPG Split"
 slug: "weekly-notes-2025-06-02"
 date: "2025-06-10"
+category: "Weekly Notes"
 description: "A closer look at Dune: Awakening’s Advanced Access performance, DELTARUNE’s long-awaited Steam release, and how Rune Factory splits its audience nearly 50/50 between English and Chinese players. Plus more from this week’s top launches and demos."
 tags: ["Weekly Notes", "Steam", "Game Launch", "Dune Awakening", "DELTARUNE", "Rune Factory", "Lies of P"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-02/hero.jpg"

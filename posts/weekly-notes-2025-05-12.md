@@ -2,6 +2,7 @@
 title: "Weekly Notes (May 12–18): Why DOOM Dominated - and Slormancer Struggled Across Asia"
 slug: "weekly-notes-2025-05-12"
 date: "2025-05-19"
+category: "Weekly Notes"
 description: "Fast-paced FPS, nostalgic Flash revivals, and ARPGs struggling to communicate - this week’s game releases reveal what players love and what drives them away"
 tags: ["Weekly Notes", "Kingdom Come Deliverance II", "Steam", "New Releases", "Game Reviews", "Localization", "Audience Analysis", "DOOM The Dark Ages", "The Slormancer", "Early Access", "Regional Reception"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-05-12/hero.jpg"
