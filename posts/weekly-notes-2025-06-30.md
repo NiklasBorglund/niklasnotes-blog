@@ -30,8 +30,6 @@ Below are the top releases from last week, along with the top releases for all o
 
 ## 🔥 BONUS: Top Releases for all of June
 
-We just passed into July - so here's also the full list of top releases in June 2025
-
 ```customlist
 {
   "listName": "top-releases-2025-06",
