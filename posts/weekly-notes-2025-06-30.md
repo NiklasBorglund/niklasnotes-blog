@@ -73,6 +73,8 @@ After reading a lot of them, I felt they all fit in one of the following:
 - Feature: A feature of the game. Controller Support, Co-op, Multiplayer, Singleplayer etc.
 - Descriptor: Pretty much a catch-all, but mainly something that describes the game as a whole. Cosy, Classic, Story Rich, Stylized etc.
 
+And from this, I could build a system that tried to pick the best three Genre tags for each game.
+
 Still a work in progress - but the results are a bit better now I think:
 - Terraria: Building, Open World Survival Craft, Platformer
 - Elden Ring: Action RPG, Open World, Souls-like
