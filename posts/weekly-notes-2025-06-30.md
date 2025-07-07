@@ -22,7 +22,7 @@ Below are the top releases from last week, along with the top releases for all o
 
 ```customlist
 {
-  "listName": "top-releases-week-2025-06-23_to_2025-06-29",
+  "listName": "top-releases-week-2025-06-30_to_2025-07-06",
   "visibleColumns": ["impactScore", "index", "positivePercentageScore", "totalReviews", "estPlayTime", "age"]
 }
 ```
