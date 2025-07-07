@@ -115,5 +115,14 @@
     "description": "This week on Steam saw fewer big releases, but cozy aquariums, a Persona F2P spinoff, a classic remaster, and a tiny shipping empire kept things interesting.",
     "tags": ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-23/hero.jpg"
+  },
+  {
+    "title": "Weekly Notes (Jun 30 – Jul 06): Summer Lulls and Niklas Notes Updates",
+    "slug": "weekly-notes-2025-06-30",
+    "date": "2025-07-07",
+    "category": "Weekly Notes",
+    "description": "The Steam Summer Sale quieted releases this week, so I’m sharing what I’ve been building behind the scenes on Niklas Notes, from genre tagging improvements to advanced search, PDF reports, and what’s next.",
+    "tags": ["Weekly Notes", "Steam", "Game Development", "Game Industry", "Steam Trends", "Indie Dev", "PC Games"],
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-30/hero.jpg"
   }
 ]
