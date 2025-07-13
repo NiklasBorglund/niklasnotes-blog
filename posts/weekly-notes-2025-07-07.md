@@ -26,6 +26,7 @@ But lets dive in and see what we've got!
 
 Tynan Sylvester and his Ludeon Studios released the latest DLC of Rimworld. In this DLC you get to build your own ship and travel across the planet
 
+TODO:: ADD WHAT PEOPLE THINK.
 
 As a sidenote, I love this developer breakdown of their region system in Rimworld: https://www.youtube.com/watch?v=RMBQn_sg7DA. I'm a systems guy myself, and when I saw this I got very inspired and added a similar system to Songs of Conquest.
 
@@ -57,8 +58,12 @@ https://niklasnotes.com/dashboard/game/202147/mycopunk
 }
 ```
 
-TODO::
-https://niklasnotes.com/dashboard/game/195968/patapon_1_2_replay
+There's something about rhythm games that I love - and although there are many different games I think there is somewhat of an underdeveloped genre.
+Eventhough I can't say I've played all of them.
+
+I remember when Patapon was released, I even bought a used PSP to be able to play it - so it's nice to see it resurface again.
+
+Players are generally positive and the main praise is feelings of Nostalgia. On the contrary, lots of players report input lag - which is a big no no in timing based rhythm games.
 
 ---
 
