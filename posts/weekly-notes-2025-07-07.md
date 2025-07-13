@@ -1,17 +1,18 @@
 ﻿---
-title: "Weekly Notes (July 07 – July 13): TODO"
+title: "Weekly Notes (July 07 – 13): RimWorld Soars, Patapon Returns, Mycopunk Delivers Co-op Chaos"
 slug: "weekly-notes-2025-07-07"
 date: "2025-07-14"
 category: "Weekly Notes"
-description: "TODO!!"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development"]
+description: "The Steam Summer Sale is over, but launches didn’t slow down. This week’s breakdown covers RimWorld’s new DLC, a co-op surprise in Mycopunk, rhythm nostalgia with Patapon, and more."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development", "RimWorld Odyssey", "Mycopunk", "PATAPON 1+2 REPLAY", "Brickadia", "Tony Hawk's Pro Skater 3 + 4", "Last Report"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-07-07/hero.jpg"
 ---
 
-The Summer Sale is over, and I thought releases would cool down a bit, but we had quite a few this week. Released very shortly after the sale was over.
-My personal gut feeling would be that it's more beneficial to wait a bit - since so many players probably bought more than one game at the sale.
+The Summer Sale is over, and I expected things to slow down a bit. But a surprising number of games launched right after the sale ended.
 
-But lets dive in and see what we've got!
+My gut feeling is it’s better to wait a bit - most players probably picked up more than one game during the sale and still have things to play.
+
+But let’s dive in and see what showed up.
 
 ---
 
@@ -24,9 +25,9 @@ But lets dive in and see what we've got!
 }
 ```
 
-Tynan Sylvester and his Ludeon Studios released the latest DLC of Rimworld. In this DLC you get to build your own ship and travel across the planet
+Ludeon Studios just released their latest DLC for RimWorld. This time, you're building a ship and traveling across the planet.
 
-The players love the expansion in general and how it adds to the gameplay, brings in another level of depth to the whole experience. Some disagree with that, and think that some existing mods expand the loop better.
+Players generally love the added depth and new gameplay possibilities. Some feel that existing mods already offer similar (or better) systems - but that’s often the case when a game has a strong modding community.
 
 As a sidenote, I love this developer breakdown of their region system in Rimworld: https://www.youtube.com/watch?v=RMBQn_sg7DA. I'm a systems guy myself, and when I saw this I got very inspired and added a similar system to Songs of Conquest.
 
@@ -41,8 +42,11 @@ As a sidenote, I love this developer breakdown of their region system in Rimworl
 }
 ```
 
-TODO::
-https://niklasnotes.com/dashboard/game/202147/mycopunk
+I'm getting Borderlands vibes when looking at the screenshots for this game.
+
+Players really enjoy the gunplay, humor, and soundtrack. Negatives mostly mention visual noise, tech issues, and a lack of enemy variety.
+
+Still, very positive score across the board -and seems like a sleeper hit if you're into co-op shooters
 
 ---
 
@@ -55,12 +59,11 @@ https://niklasnotes.com/dashboard/game/202147/mycopunk
 }
 ```
 
-There's something about rhythm games that I love - and although there are many different games I think there is somewhat of an underdeveloped genre.
-Eventhough I can't say I've played all of them.
+There’s something I love about rhythm games - and I think the genre’s still a bit underdeveloped, even with all the variety we’ve seen over the years.
 
 I remember when Patapon was released, I even bought a used PSP to be able to play it - so it's nice to see it resurface again.
 
-Players are generally positive and the main praise is feelings of Nostalgia. On the contrary, lots of players report input lag - which is a big no no in timing based rhythm games.
+Players are generally positive and the main praise is feelings of nostalgia. That said, lots of players report input lag - which is a big no no in timing based rhythm games.
 
 ---
 
@@ -73,11 +76,11 @@ Players are generally positive and the main praise is feelings of Nostalgia. On 
 }
 ```
 
-Brickadia is described as a "next-generation brick building sandbox game" where they try and take creative freedom to the next level. By reading the reviews - it seems like it has a steady community that they've built up over time.
+Brickadia is described as a "next-generation brick building sandbox game" where they try and take creative freedom to the next level. Judging by the reviews, they’ve built up a solid community over time.
 
-And that is also what many of the players mention - the strong community support is a highlight of many. They also mention the excellent building system, so if you are a developer implementing something similar - this one might be worth checking out.
+Players highlight the strong community support and a really well-designed building system. If you’re working on anything similar, it might be worth taking a closer look.
 
-I sense an overall feeling of positivity and enthusiasm, some complaints about lack of content and bugs, but I'd believe those issues will be ironed out over time since it's the start of early access.
+General mood is positive, with some complaints about content and bugs, but I'd believe those issues will be ironed out over time since it's the start of early access.
 
 ---
 
@@ -92,7 +95,7 @@ I sense an overall feeling of positivity and enthusiasm, some complaints about l
 
 Two years after the remake of [Tony Hawk's™ Pro Skater™ 1 + 2](https://niklasnotes.com/dashboard/game/107686/tony_hawk_stm_pro_skatertm_1_2), they have now released the 3rd and 4th entry in the series as well.
 
-It's getting mixed reviews at the moment, and it's mostly regarding changes they made from the original games. The soundtrack, level design and career modes all got some changes - and they seem to not be received well in general for players who wants to relive the nostalgia.
+It's getting mixed reviews at the moment, and it's mostly regarding changes they made from the original games. The soundtrack, level design and career modes all got some changes - and they seem to not be received well in general for players who want to relive the nostalgia.
 
 ---
 
@@ -110,9 +113,9 @@ By the calculations on this site, it seems like you can finish this one just und
 
 Players love the atmosphere and story, but complain about the shortness. Some complain about the writing quality and the lack of save options. Mixed opinions about the gameplay mechanics. 
 
-Maybe if they had named the game with a subtitle would have improved the score even more - "Last Report - a short experience" or something of the like. These ultra-short games usually win big on setting the expectations perfectly - and I wonder if 
+Still, it has a 90+ score at the time of writing, which is very good for something this short.
 
-Still, it has a 90+ score at the time of writing, which is very good.
+A subtitle like ‘Last Report: A Short Experience’ might’ve helped set expectations better. These ultra-short games usually do best when they communicate clearly what you're getting.
 
 ---
 
