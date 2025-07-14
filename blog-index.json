@@ -124,5 +124,14 @@
     "description": "The Steam Summer Sale quieted releases this week, so I’m sharing what I’ve been building behind the scenes on Niklas Notes, from genre tagging improvements to advanced search, PDF reports, and what’s next.",
     "tags": ["Weekly Notes", "Steam", "Game Development", "Game Industry", "Steam Trends", "Indie Dev", "PC Games"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-06-30/hero.jpg"
+  },
+  {
+    "title": "Weekly Notes (July 07 – 13): RimWorld Soars, Patapon Returns, Mycopunk Delivers Co-op Chaos",
+    "slug": "weekly-notes-2025-07-07",
+    "date": "2025-07-14",
+    "category": "Weekly Notes",
+    "description": "The Steam Summer Sale is over, but launches didn’t slow down. This week’s breakdown covers RimWorld’s new DLC, a co-op surprise in Mycopunk, rhythm nostalgia with Patapon, and more.",
+    "tags": ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development", "RimWorld Odyssey", "Mycopunk", "PATAPON 1+2 REPLAY", "Brickadia", "Tony Hawk's Pro Skater 3 + 4", "Last Report"],
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-07-07/hero.jpg"
   }
 ]
