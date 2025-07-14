@@ -29,7 +29,7 @@ Ludeon Studios just released their latest DLC for RimWorld. This time, you're bu
 
 Players generally love the added depth and new gameplay possibilities. Some feel that existing mods already offer similar (or better) systems - but that’s often the case when a game has a strong modding community.
 
-As a sidenote, I love this developer breakdown of their region system in Rimworld: https://www.youtube.com/watch?v=RMBQn_sg7DA. I'm a systems guy myself, and when I saw this I got very inspired and added a similar system to Songs of Conquest.
+As a sidenote, I love this developer breakdown of [their region system in Rimworld](https://www.youtube.com/watch?v=RMBQn_sg7DA). I'm a systems guy myself, and when I saw this I got very inspired and added a similar system to Songs of Conquest.
 
 ---
 
