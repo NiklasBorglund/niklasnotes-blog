@@ -78,6 +78,85 @@ Looking only at the latest month, it seemed to have gone up to a respectable 70%
 
 ---
 
+### Dune: Awakening by Funcom
+
+```condensedgamecard
+{
+"gameId": "127032"
+}
+```
+
+TODO:: WRITE!!
+
+https://niklasnotes.com/dashboard/game/127032/dune_awakening
+
+---
+
+## The Almost Global Winners (Leaving money on the table?)
+
+Here are games that got attention in all the top 5 markets but one! Sometimes it's a matter of localization, sometimes it's something else.
+
+Let's dive into the games and see if we can find why!
+
+
+### DELTARUNE by tobyfox
+
+```condensedgamecard
+{
+"gameId": "139989"
+}
+```
+
+Missing Market: Chinese Simplified
+Localized Languages: English, Japanese
+
+In a strong second place in ALL of the other markets. I do believe that this is mainly a localization thing. 
+Widely acclaimed everywhere, and I get the sense that chinese market likes story heavy and unique gaming experiences.
+TODO:: WRITE!!
+
+https://niklasnotes.com/dashboard/game/139989/deltarune
+
+---
+
+### PEAK by Landfall, Aggro Crab, Landcrab & Team PEAK
+
+```condensedgamecard
+{
+"gameId": "139989"
+}
+```
+
+Missing Market: Chinese Simplified
+Localized Languages: Only English at the time!
+Sold a gigantic amount of copies in a very short time.
+Significantly high score, although the chinese market seems to judge bugs and connection issues more than others. So it will be interesting to see how this pans out.
+
+They JUST now in Q2 added support for a host of new languages. So I think this will change: https://store.steampowered.com/news/app/3527290/view/498325386812199726?snr=1_5_9_
+TODO:: WRITE!!
+
+https://niklasnotes.com/dashboard/game/210519/peak
+
+---
+
+### REMATCH by Sloclap
+
+```condensedgamecard
+{
+"gameId": "148924"
+}
+```
+
+Missing Market: Chinese Simplified
+Localized Languages: 14 Languages, including all of the top markets
+Football game, getting decent reviews but not raving. It actually has an audience anomaly here for Chinese (Simplified) - the ~500 reviews they had there would give the game only 57% positive.
+
+TODO:: FIND OUT WHY!
+Thought: Could it be because football/soccer is not a popular sport in china?
+
+TODO:: WRITE MORE.
+
+https://niklasnotes.com/dashboard/game/148924/rematch
+
 ---
 
 
