@@ -1,34 +1,26 @@
 ---
-title: "Q2 2025: TODO!"
+title: "Q2 2025: What Grabbed Player Attention (and Where)"
 slug: "q2-2025-quarterly-breakdown"
 date: "2025-07-17"
 category: "Quarterly Breakdown"
-description: "TODO"
-tags: ["Q2 2025", "Game Analysis", "Indie Games"]
+description: "This quarterly breakdown looks at Q2 2025’s most talked-about games on Steam—by language, region, and review trends. From global hits like Clair Obscur to region-locked remasters, here’s what got players talking (or rage-reviewing)"
+tags: ["Q2 2025", "Game Analysis", "Indie Games", "Clair Obscur: Expedition 33", "ELDEN RING NIGHTREIGN", "Dune: Awakening", "DELTARUNE", "PEAK", "REMATCH", "The Elder Scrolls IV: Oblivion Remastered", "Stellar Blade", "The Last of Us Part II Remastered", "DOOM: The Dark Ages"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q2-2025-quarterly-breakdown/hero.png"
 ---
 
 Hey!
 
-Since we are now a few weeks into Q3, I thought we could do a deeper dive into what actually happened during the previous quarter on Steam.
+We’re a few weeks into Q3, so I figured it was time to look back and break down what actually happened on Steam during Q2.
 
-I was thinking of how to do this and what is actually interesting and valuable information. 
+At first, I asked myself: is a global top list even that useful? Sure, it shows what’s broadly popular - but after analyzing hundreds of games for Niklas Notes, I’ve realized just how wildly audiences can differ.
 
-I thought - is a global list really that interesting to look at? And sure, it has its merit - what is globally popular. 
-But after analyzing so many games since the launch of Niklas Notes - the audiences can be wildly different depending on a multitude of factors.
-It could be localization, it could be cultural differences - or it could simply be that this type of game wasn't heavily marketed in that region.
+Sometimes it’s localization. Sometimes it’s culture. Sometimes a game simply didn’t get promoted in a region. Either way, what performs well globally doesn’t always line up with what captures attention locally.
 
-So I started to look if I could create something more interesting. Something that captures where the attention of different groups of players lies.
+So I built something new: **Attention Lists**.
 
-After some hammering on my keyboard, I got something that compiled into a new type of list. A list that I call "Attention Lists".
-It takes all the games released within the quarter, sorts them by amount of reviews of a specific language - and then I sort again on highest score. 
+They track which games got the most attention in each language group—not just by total reviews, but also by how well those games were received. Even if a game was review-bombed, if it got a large volume of feedback in a region, it shows up. Sometimes what didn’t go well tells you just as much as what did.
 
-That gives us a look, whether positive or negative - which game among this audience gathered most attention.
-If a game got absolutely poor reviews - but the amount was considerable - it will show up on the list. Sometimes it's just as important to see what didn't go well as opposed to what did go well.
-
-I have lists for all languages, but in order to not create a 200 page wall of text, I decided to focus on the languages that are the top 5 within all regions.
-
-Steam User Top 5 System Languages from the [Hardware & Software Survey](https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam)
+I’ve generated these lists for every major Steam language, but to keep things readable, we’ll focus on the top five system languages ([based on Steam's Hardware & Software Survey](https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam))
 * **English:** ~36%
 * **Simplified Chinese:** ~28%
 * **Russian:** ~9%
@@ -86,8 +78,11 @@ Looking only at the latest month, it seemed to have gone up to a respectable 70%
 }
 ```
 
-Dune: Awakening is the latest hit in the Open World Survival Craft genre. Players love spending time in the Dune universe and all that entails - whether it's story & lore or the immersive enviroment with the beautiful graphics.
-The main critique recently seems to be about the PvP Experience, the grindiness and the tedious slow progression. Overall it also seemed to have some server issues at launch, but looking at the latest month - it seems like they've been working to fix it.
+Dune: Awakening is the latest hit in the Open World Survival Craft genre.
+
+Players love the setting, lore, and immersive visuals.
+
+Criticism centers on the grindy progression, PvP balance, and launch server issues - though most of that seems to be improving based on recent feedback.
 
 Even with "just" 77% positive score - it managed to climb up to a steady place in all the top markets.
 
@@ -110,8 +105,8 @@ Let's dive into the games and see if we can find why!
 }
 ```
 
-Missing/Underperforming? Market: Chinese Simplified
-Localized Languages: English, Japanese
+- **Missing/Underperforming Market:** Chinese Simplified
+- **Localized Languages:** English, Japanese
 
 The very anticipated sequel to UNDERTALE did not disappoint its fans. It very quickly amassed a huge number of players and sits currently on an impressive 98% positive!
 Players love pretty much everything about it - the soundtrack, the engaging story, and the unique gameplay.
@@ -128,17 +123,16 @@ Although I'm not so sure that will happen. UNDERTALE also only supports only Eng
 
 ```condensedgamecard
 {
-"gameId": "139989"
+"gameId": "210519"
 }
 ```
 
-Missing/Underperforming? Market: Chinese Simplified
-Localized Languages: English (at the time)
+- **Missing/Underperforming Market:** Chinese Simplified
+- **Localized Languages:** English (at the time)
 
 A huge hit - PEAK sold over 5 million copies in [little under a month](https://bsky.app/profile/aggrocrabgames.bsky.social/post/3ltpjnrxth22n). 
 I actually bought and tried this with my colleagues at Lavapotion - and this co-op climbing game is great fun. 
 I love how they nudge players to use the in-game voice chat that gives you that spatial awareness and creates in itself memorable moments.
-
 
 They JUST now in Q2 added support for a host of new languages. So I think this will change: https://store.steampowered.com/news/app/3527290/view/498325386812199726?snr=1_5_9_
 It has a significantly high score, although the chinese market seems to judge bugs and connection issues more than others - which has been one of the main critiques. So it will be interesting to see how this pans out.
@@ -153,16 +147,12 @@ It has a significantly high score, although the chinese market seems to judge bu
 }
 ```
 
-Missing/Underperforming? Market: Chinese Simplified
-Localized Languages: 14 Languages, including all of the top markets
-Football game, getting decent reviews but not raving. It actually has an audience anomaly here for Chinese (Simplified) - the ~500 reviews they had there would give the game only 57% positive.
+- **Missing/Underperforming Market:** Chinese Simplified
+- **Localized Languages:** 14 Languages, including all of the top markets
 
-TODO:: FIND OUT WHY!
-Thought: Could it be because football/soccer is not a popular sport in china?
+REMATCH sits at 75% and is doing well in most regions. Players enjoy the unique mechanics, the fresh take on team sports, and the fun, fast-paced gameplay.
 
-TODO:: WRITE MORE.
-
-https://niklasnotes.com/dashboard/game/148924/rematch
+But the Chinese response is much colder -just 57%. Reviews mention crashes, lag, matchmaking issues, and frustration with the pricing and lack of crossplay. These things tend to land harder in regions where expectations for polish and value are higher.
 
 ---
 
@@ -174,12 +164,12 @@ https://niklasnotes.com/dashboard/game/148924/rematch
 }
 ```
 
-Missing/Underperforming? Market: Chinese Simplified
-Localized Languages: 9 Languages, including all of the top markets except russian
+- **Missing/Underperforming Market:** Chinese Simplified
+- **Localized Languages:** 9 Languages, including all of the top markets except russian
 
-TODO:: WRITE MORE.
+This remastered version of the 2006 RPG classic, got an 87% global rating - but looking only at the Simplified Chinese Crowd, it would only get 64%.
 
-https://niklasnotes.com/dashboard/game/200941/the_elder_scrolls_iv_oblivion_remastered
+This time around it seems to be related to localization, at least in part when looking at the top upvoted reviews. Players call out a lazy translation, stuttering, bugs, and a complete lack of mod support.
 
 ---
 
@@ -191,10 +181,12 @@ https://niklasnotes.com/dashboard/game/200941/the_elder_scrolls_iv_oblivion_rema
 }
 ```
 
-Missing/Underperforming? Market: Russian
-Localized Languages: 22 Languages, including all of the top markets
+- **Missing/Underperforming Market:** Russian
+- **Localized Languages:** 22 Languages, including all of the top markets
 
-Originally this game was a PS5 Exclusive, but now it has reached PS5. It's well-received for its fluid combat, stunning visuals, and engaging story, though some players express concerns about technical issues related to Denuvo, poor map design, and combat mechanics.
+Originally a PS5 exclusive, Stellar Blade made the jump to PC and quickly gained attention for its fluid combat, stunning visuals, and stylish presentation. Players praise its fast-paced action and engaging story, along with a well-received soundtrack and good performance across various hardware setups.
+
+That said, it’s not without critique. Some players mention technical concerns related to Denuvo, along with repetitive side quests and questionable map design. Still, it holds a strong score overall.
 
 I think the reason for why this one underperformed in Russian is simple, the game is not sold there. The game was region locked in over 130 countries when it was released, Russia one of them, and the [game developers are reportedly working on it](https://www.pcgamer.com/games/action/we-are-doing-our-best-to-resolve-most-of-it-stellar-blades-pc-release-will-be-restricted-in-130-countries-as-the-devs-fight-to-have-it-lifted/).
 
@@ -208,14 +200,13 @@ I think the reason for why this one underperformed in Russian is simple, the gam
 }
 ```
 
-Missing/Underperforming? Market: Russian
-Localized Languages: 25 Languages, including all of the top markets
+- **Missing/Underperforming Market:** Russian
+- **Localized Languages:** 25, including all of the top markets
 
-TODO:: WRITE MORE.
+The remastered version of The Last of Us Part II was one of the most anticipated releases of the quarter. Players praise its emotional weight, visual fidelity, optimized performance, and overall polish. It delivers a high-quality cinematic experience that resonates with longtime fans.
 
-I think, like stellar blade it's region locked.
+But, just like Stellar Blade, the game is region locked in Russia - effectively preventing it from reaching that audience at all. That likely explains its absence from the list despite strong numbers elsewhere.
 
-https://niklasnotes.com/dashboard/game/154625/the_last_of_ustm_part_ii_remastered
 
 ---
 
@@ -227,12 +218,12 @@ https://niklasnotes.com/dashboard/game/154625/the_last_of_ustm_part_ii_remastere
 }
 ```
 
-Missing/Underperforming? Market: Portuguese (Brazil)
-Localized Languages: 15 Languages, including all of the top markets
+- **Missing/Underperforming Market:** Portuguese (Brazil)
+- **Localized Languages:** 15 Languages, including all of the top markets
 
-TODO:: WRITE MORE.
+DOOM: The Dark Ages launched with a strong 87% score, praised for its satisfying combat, slick visuals, and solid optimization - even on mid-range systems.
 
-https://niklasnotes.com/dashboard/game/183324/doom_the_dark_ages
+That said, some players miss the faster pace of earlier entries. The absence of Mick Gordon’s soundtrack was a frequent gripe, and mandatory ray tracing caused performance issues for a few. Not sure - but in Brazil, that mix, plus a relatively short campaign, might have limited its reach.
 
 ---
 
@@ -328,6 +319,7 @@ The games that get attention get a lot of overlap between these two markets. Her
 
 ---
 
-TODO:: WRITE CONCLUSION!
+Phew! That's it! Some very interesting releases here, and I think we are seeing a slight shift that's been building for a while. It's not clear that AAA studios will top the list. Indies, smaller teams and even solo devs are sometimes topping the lists now. 
+It's exciting to see and I'll be here to break down the next quarter as well.
 
 Thanks for reading! If you enjoyed this, feel free to share it — or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to help support more data-driven game breakdowns like this one.
