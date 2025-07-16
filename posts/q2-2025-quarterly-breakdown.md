@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Q2 2025: TODO!"
 slug: "q2-2025-quarterly-breakdown"
 date: "2025-07-17"
@@ -86,7 +86,10 @@ Looking only at the latest month, it seemed to have gone up to a respectable 70%
 }
 ```
 
-TODO:: WRITE!!
+Dune: Awakening is the latest hit in the Open World Survival Craft genre. Players love spending time in the Dune universe and all that entails - whether it's story & lore or the immersive enviroment with the beautiful graphics.
+The main critique recently seems to be about the PvP Experience, the grindiness and the tedious slow progression. Overall it also seemed to have some server issues at launch, but looking at the latest month - it seems like they've been working to fix it.
+
+Even with "just" 77% positive score - it managed to climb up to a steady place in all the top markets.
 
 https://niklasnotes.com/dashboard/game/127032/dune_awakening
 
@@ -110,11 +113,14 @@ Let's dive into the games and see if we can find why!
 Missing/Underperforming? Market: Chinese Simplified
 Localized Languages: English, Japanese
 
-In a strong second place in ALL of the other markets. I do believe that this is mainly a localization thing. 
-Widely acclaimed everywhere, and I get the sense that chinese market likes story heavy and unique gaming experiences.
-TODO:: WRITE!!
+The very anticipated sequel to UNDERTALE did not disappoint its fans. It very quickly amassed a huge number of players and sits currently on an impressive 98% positive!
+Players love pretty much everything about it - the soundtrack, the engaging story, and the unique gameplay.
 
-https://niklasnotes.com/dashboard/game/139989/deltarune
+In all the other markets we cover today, it's in second place after Clair Obscur.
+
+So looking at it, I honestly believe this game could collect a lot more sales by selecting a few more languages to localize the game into. Specifically Simplified Chinese would probably.
+
+Although I'm not so sure that will happen. UNDERTALE also only supports only English and Japanese - so I'm not sure the developer has a reason for that or not.
 
 ---
 
@@ -127,14 +133,15 @@ https://niklasnotes.com/dashboard/game/139989/deltarune
 ```
 
 Missing/Underperforming? Market: Chinese Simplified
-Localized Languages: Only English at the time!
-Sold a gigantic amount of copies in a very short time.
-Significantly high score, although the chinese market seems to judge bugs and connection issues more than others. So it will be interesting to see how this pans out.
+Localized Languages: English (at the time)
+
+A huge hit - PEAK sold over 5 million copies in [little under a month](https://bsky.app/profile/aggrocrabgames.bsky.social/post/3ltpjnrxth22n). 
+I actually bought and tried this with my colleagues at Lavapotion - and this co-op climbing game is great fun. 
+I love how they nudge players to use the in-game voice chat that gives you that spatial awareness and creates in itself memorable moments.
+
 
 They JUST now in Q2 added support for a host of new languages. So I think this will change: https://store.steampowered.com/news/app/3527290/view/498325386812199726?snr=1_5_9_
-TODO:: WRITE!!
-
-https://niklasnotes.com/dashboard/game/210519/peak
+It has a significantly high score, although the chinese market seems to judge bugs and connection issues more than others - which has been one of the main critiques. So it will be interesting to see how this pans out.
 
 ---
 
@@ -187,9 +194,9 @@ https://niklasnotes.com/dashboard/game/200941/the_elder_scrolls_iv_oblivion_rema
 Missing/Underperforming? Market: Russian
 Localized Languages: 22 Languages, including all of the top markets
 
-TODO:: WRITE MORE.
+Originally this game was a PS5 Exclusive, but now it has reached PS5. It's well-received for its fluid combat, stunning visuals, and engaging story, though some players express concerns about technical issues related to Denuvo, poor map design, and combat mechanics.
 
-https://niklasnotes.com/dashboard/game/173476/stellar_bladetm
+I think the reason for why this one underperformed in Russian is simple, the game is not sold there. The game was region locked in over 130 countries when it was released, Russia one of them, and the [game developers are reportedly working on it](https://www.pcgamer.com/games/action/we-are-doing-our-best-to-resolve-most-of-it-stellar-blades-pc-release-will-be-restricted-in-130-countries-as-the-devs-fight-to-have-it-lifted/).
 
 ---
 
@@ -205,6 +212,8 @@ Missing/Underperforming? Market: Russian
 Localized Languages: 25 Languages, including all of the top markets
 
 TODO:: WRITE MORE.
+
+I think, like stellar blade it's region locked.
 
 https://niklasnotes.com/dashboard/game/154625/the_last_of_ustm_part_ii_remastered
 
@@ -245,6 +254,8 @@ Games ONLY in the English Top List:
 
 ## The Simplified Chinese Audience
 
+This market is the one with the most games not found in other games. Would be interesting for other breakdowns to see if we can see a pattern here on why. Whether its genre related, cultural or something else.
+
 Products ONLY in the Simplified Chinese Top List:
 * [PUBG: BATTLEGROUNDS Publisher Sale - Summer Ready Pack](https://niklasnotes.com/dashboard/game/210397/pubg_battlegrounds_publisher_sale_summer_ready_pack)
 * [情感反诈模拟器](https://niklasnotes.com/dashboard/game/205774/%E6%83%85%E6%84%9F%E5%8F%8D%E8%AF%88%E6%A8%A1%E6%8B%9F%E5%99%A8)
@@ -269,8 +280,8 @@ Products ONLY in the Simplified Chinese Top List:
 Products ONLY in the Russian Top List:
 * [Beholder: Conductor](https://niklasnotes.com/dashboard/game/170868/beholder_conductor)
 * [Скуф на рыбалке](https://niklasnotes.com/dashboard/game/54912/%D1%81%D0%BA%D1%83%D1%84_%D0%BD%D0%B0_%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B5)
-* [GeoGuessr Steam Edition](https://niklasnotes.com/dashboard/game/195585/geoguessr_steam_edition) - Rough Note - HATED 22% positive
-* [S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition](https://niklasnotes.com/dashboard/game/204539/s_t_a_l_k_e_r_shadow_of_chornobyl_enhanced_edition) - Rough Note - DISLIKED 44% positive
+* [GeoGuessr Steam Edition](https://niklasnotes.com/dashboard/game/195585/geoguessr_steam_edition) - This game is very disliked, but got a lot of attention - only 22% positive.
+* [S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition](https://niklasnotes.com/dashboard/game/204539/s_t_a_l_k_e_r_shadow_of_chornobyl_enhanced_edition) - Same with this one - only 44% positive
 
 ```customlist
 {
