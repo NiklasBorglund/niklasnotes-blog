@@ -20,3 +20,6 @@ drafts/
 # Ignore logs or temp build scripts
 *.log
 temp/
+
+# Claude
+.claude/

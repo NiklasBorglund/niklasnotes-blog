@@ -1,5 +1,5 @@
 ﻿---
-title: "Weekly Notes (Jun 09 – Jun 15): Showdowns, Clones, and Controversies"
+title: "Weekly Notes (Jun 09 - Jun 15): Showdowns, Clones, and Controversies"
 slug: "weekly-notes-2025-06-09"
 category: "Weekly Notes"
 description: "This week, we look at Stellar Blade’s successful PC debut, the polarizing stealth horror of FNAF: Secret of the Mimic, and 11 bit studios’ philosophical survival game The Alters. Plus: a troubled launch for MindsEye, a nostalgic WW2 shooter, and Steam Next Fest demos"
