@@ -134,7 +134,7 @@ A huge hit - PEAK sold over 5 million copies in [little under a month](https://b
 I actually bought and tried this with my colleagues at Lavapotion - and this co-op climbing game is great fun. 
 I love how they nudge players to use the in-game voice chat that gives you that spatial awareness and creates in itself memorable moments.
 
-They JUST now in Q2 added support for a host of new languages. So I think this will change: https://store.steampowered.com/news/app/3527290/view/498325386812199726?snr=1_5_9_
+They JUST now in [Q2 added support for a host of new languages](https://store.steampowered.com/news/app/3527290/view/498325386812199726?snr=1_5_9_). So I think this will change.
 It has a significantly high score, although the chinese market seems to judge bugs and connection issues more than others - which has been one of the main critiques. So it will be interesting to see how this pans out.
 
 ---
