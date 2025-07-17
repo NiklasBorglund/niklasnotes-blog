@@ -5,7 +5,7 @@ date: "2025-07-17"
 category: "Quarterly Breakdown"
 description: "This quarterly breakdown looks at Q2 2025’s most talked-about games on Steam—by language, region, and review trends. From global hits like Clair Obscur to region-locked remasters, here’s what got players talking (or rage-reviewing)"
 tags: ["Q2 2025", "Game Analysis", "Indie Games", "Clair Obscur: Expedition 33", "ELDEN RING NIGHTREIGN", "Dune: Awakening", "DELTARUNE", "PEAK", "REMATCH", "The Elder Scrolls IV: Oblivion Remastered", "Stellar Blade", "The Last of Us Part II Remastered", "DOOM: The Dark Ages"]
-image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q2-2025-quarterly-breakdown/hero.png"
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/q2-2025-quarterly-breakdown/hero.jpg"
 ---
 
 Hey!
