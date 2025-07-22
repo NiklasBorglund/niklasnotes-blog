@@ -3,12 +3,12 @@ title: "Weekly Notes (July 14 – 20): Destiny Stumbles, Indies Shine, Nostalgia
 slug: "weekly-notes-2025-07-14"
 date: "2025-07-22"
 category: "Weekly Notes"
-description: "This week brought a mix of the old and the new—Destiny's latest expansion got a rocky reception, while games like Eriksholm and Word Play charmed their audiences."
+description: "This week brought a mix of the old and the new - Destiny's latest expansion got a rocky reception, while games like Eriksholm and Word Play charmed their audiences."
 tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development", "Destiny 2", "Stronghold Crusader", "Neverwinter Nights 2", "Eriksholm", "Word Play", "The Drifter", "The Wandering Village", "Back to the Dawn", "Drill Core"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-07-14/hero.jpg"
 ---
 
-This week didn’t have one giant breakout hit, but we got a little of everything—expansions, remasters, stealthy indies, and word games from YouTubers.
+This week didn’t have one giant breakout hit, but we got a little of everything - expansions, remasters, stealthy indies, and word games from YouTubers.
 
 A surprisingly strong lineup if you're the kind of player (or dev) who likes variety over volume.
 
@@ -45,11 +45,11 @@ Let's see if they can patch the score of this one back to a positive one.
 "gameId": "119918"
 }
 ```
-Stronghold Crusader and FireFly Studios seem to be following the Age of Empires playbook—after the [HD version in 2012](https://niklasnotes.com/dashboard/game/38653/stronghold_crusader_hd_2012), we now have a definitive edition with modern upgrades.
+Stronghold Crusader and FireFly Studios seem to be following the Age of Empires playbook - after the [HD version in 2012](https://niklasnotes.com/dashboard/game/38653/stronghold_crusader_hd_2012), we now have a definitive edition with modern upgrades.
 
 The fanbase seems happy with the result. At 90 % positive, players praise the nostalgia hit, quality-of-life improvements, updated visuals, and added content.
 
-Main criticisms focus on the multiplayer experience and performance—especially the AI, which many feel still behaves erratically.
+Main criticisms focus on the multiplayer experience and performance - especially the AI, which many feel still behaves erratically.
 
 ---
 
@@ -62,7 +62,7 @@ Main criticisms focus on the multiplayer experience and performance—especially
 }
 ```
 
-I never played any of the Neverwinter Nights games. My brother did, and liked them a lot—so when I saw this, I thought maybe I’d finally try it out myself.
+I never played any of the Neverwinter Nights games. My brother did, and liked them a lot - so when I saw this, I thought maybe I’d finally try it out myself.
 
 But the launch reception has been rough. Sitting around ~50 % positive, players appreciate that you can now use a controller (it's Deck Verified), enjoy some QoL improvements, and welcome the return of multiplayer mode.
 
@@ -128,7 +128,7 @@ A murder mystery.
 
 I added this one to my ever-growing wishlist, hoping I’ll find time to play it someday.
 
-Currently sitting at 96 % positive—players love the voice acting, the story, and the absolutely gorgeous pixel art.  
+Currently sitting at 96 % positive - players love the voice acting, the story, and the absolutely gorgeous pixel art.  
 Some mention that the puzzles can get frustrating, and opinions on the game’s length are split: some feel it’s too short, others too long.
 
 ---
