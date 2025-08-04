@@ -81,4 +81,4 @@ Fans seem to love the nostalgia — but there’s also criticism around lack of 
 
 ---
 
-Thanks for reading! If you enjoyed this, feel free to share it — or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to help support more data-driven game breakdowns like this one.
+Thanks for reading! If you enjoyed this, feel free to share it — or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!

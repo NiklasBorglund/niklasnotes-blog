@@ -89,4 +89,4 @@ Several notable games exited Early Access:
 
 ---
 
-Thanks for reading! If you enjoyed this, feel free to share it — or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to support more data-driven game breakdowns like this one.
+Thanks for reading! If you enjoyed this, feel free to share it — or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!

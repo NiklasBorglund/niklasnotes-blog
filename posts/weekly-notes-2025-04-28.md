@@ -129,4 +129,4 @@ Since it's a new month - I thought I'd also share the entire list of the top rel
 
 Let me know what caught your eye this week — always curious what others are playing.
 
-Thanks for reading! If you enjoyed this, feel free to share it — or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to support more data-driven game breakdowns like this one.
+Thanks for reading! If you enjoyed this, feel free to share it — or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!

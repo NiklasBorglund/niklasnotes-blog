@@ -159,4 +159,4 @@ If there's anything you'd like to see on the site - I'm all ears.
 That’s it for this week. Thanks for reading and following along!
 
 Stay tuned!
-If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to support more data-driven game breakdowns like this one.
+If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!

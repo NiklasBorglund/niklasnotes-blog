@@ -322,7 +322,7 @@ The games that get attention get a lot of overlap between these two markets. Her
 Phew! That's it! Some very interesting releases here, and I think we are seeing a slight shift that's been building for a while. It's not clear that AAA studios will top the list. Indies, smaller teams and even solo devs are sometimes topping the lists now. 
 It's exciting to see and I'll be here to break down the next quarter as well.
 
-Thanks for reading! If you enjoyed this, feel free to share it — or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to help support more data-driven game breakdowns like this one.
+Thanks for reading! If you enjoyed this, feel free to share it — or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!
 
 ---
 

@@ -126,4 +126,4 @@ And that's it! Thank you for reading!
 Since it's a new quarter tomorrow, I'm working on a breakdown of the entire Q2 2025 that will hopefully come out soon. I'm working on highlighting some interesting data, but I just need to code that pesky code to support it first!
 
 Stay tuned! (hint: subscribing to my email newsletter will keep you posted about this!)
-If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to support more data-driven game breakdowns like this one.
+If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!
