@@ -323,3 +323,16 @@ Phew! That's it! Some very interesting releases here, and I think we are seeing 
 It's exciting to see and I'll be here to break down the next quarter as well.
 
 Thanks for reading! If you enjoyed this, feel free to share it — or [buy me a coffee](https://buymeacoffee.com/niklasnotes) to help support more data-driven game breakdowns like this one.
+
+---
+
+## BONUS! Full Global List: Top Releases from Q2 2025
+
+Global lists are also interesting! So here's the global top list for Q2 2025.
+
+```customlist
+{
+  "listName": "top-releases-q2-2025",
+  "visibleColumns": ["impactScore", "index", "positivePercentageScore", "totalReviews", "estPlayTime", "age"]
+}
+```
