@@ -1,14 +1,16 @@
 ﻿---
-title: "Weekly Notes (Aug 04 – Aug 10): TODO!"
+title: "Weekly Notes (Aug 04 – Aug 10): Mafia Returns to the Old Country and Puzzle Perfection by Managing Expectations"
 slug: "weekly-notes-2025-08-04"
 date: "2025-08-12"
 category: "Weekly Notes"
-description: "TODO!!"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development"]
+description: "Mafia returns with familiar issues, while smaller games like Is This Seat Taken? show how to nail expectations. Plus performance problems continue to plague major releases."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development", "Mafia: The Old Country", "GUNTOUCHABLES", "Is This Seat Taken?", "A Few Quick Matches", "Heretic + Hexen", "Performance Issues", "Expectation Management"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-08-04/hero.jpg"
 ---
 
-TODO!
+This week Mafia: The Old Country returned with the series' signature storytelling but familiar technical problems. Meanwhile, games like Is This Seat Taken? and Heretic + Hexen showed how to deliver exactly what players expect - whether that's cozy puzzles or polished remasters.
+
+Performance issues continue to plague major releases, but the smaller titles prove that getting the basics right still matters most.
 
 ---
 
@@ -21,8 +23,13 @@ TODO!
 }
 ```
 
-TODO!! Anomaly in Chinese - performance?
-https://niklasnotes.com/dashboard/game/87090/mafia_the_old_country
+The latest entry in the Mafia series brings back the franchise's signature storytelling and atmosphere.
+
+Players praise the strong story, graphics, and voice acting - the elements that made the original games memorable. The world-building and narrative quality get consistent positive mentions.
+However, some find the story too linear and predictable, calling it an average experience that doesn't meet expectations. At around 12 hours, many feel it's too short for the price.
+
+But I feel like a broken record when I say that the greatest complaints is something we see in so many new releases lately. Performance and Technical issues.
+The Chinese audience shows that familiar pattern - 55% positive compared to ~70% from other regions, with similar complaints but harsher judgment.
 
 ---
 
@@ -35,8 +42,11 @@ https://niklasnotes.com/dashboard/game/87090/mafia_the_old_country
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/132592/guntouchables
+A co-op roguelike shooter set in a post-apocalyptic world overrun by mutants - published by [Ghost Ship Publishing](https://niklasnotes.com/dashboard/search?query=publisher:Ghost%20Ship%20Publishing).
+
+Players love the fun gameplay and co-op experience, with many highlighting it as a great option for playing with friends. The unique art style gets consistent praise, along with responsive controls and variety in gameplay mechanics.
+
+The main complaints center on multiplayer issues (bugs and inability to rejoin games) and some finding the gameplay repetitive after a while.
 
 ---
 
@@ -49,22 +59,11 @@ https://niklasnotes.com/dashboard/game/132592/guntouchables
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/168019/is_this_seat_taken
+A logic puzzle game where you play matchmaker for groups of hilariously particular people is nailing the release with and almost perfect score.
 
----
+Players love the fun and engaging puzzles that provide satisfying challenge without being overly difficult. The charming art style and cute characters get consistent praise, along with the relaxing gameplay.
 
-## Strange Jigsaws by FLEB
-***Largest audiences**: ~87% English*
-
-```condensedgamecard
-{
-"gameId": "65693"
-}
-```
-
-TODO!!
-https://niklasnotes.com/dashboard/game/65693/strange_jigsaws
+This feels like a perfect example of managing expectations well as we've seen examples of and talked about before. Players know exactly what they're getting- a polished, cozy puzzle experience. And the game delivers exactly that.
 
 ---
 
@@ -77,8 +76,11 @@ https://niklasnotes.com/dashboard/game/65693/strange_jigsaws
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/217759/a_few_quick_matches
+A fast-paced platform fighter designed for 1-4 players that aims to evoke nostalgia for the stick fight era of the internet. Gives me Nidhogg vs Smash Bros vibes.
+
+Players find the gameplay fun and engaging, highlighting its accessibility with simple controls that are easy to learn. The character variety gets praise despite the small initial roster, and the community appreciates the potential for modding support.
+
+The main complaints center on clunky mechanics, limited content at launch, and input delay issues. Some feel the game needs more polish and depth to compete with established fighters.
 
 ---
 
@@ -91,8 +93,12 @@ https://niklasnotes.com/dashboard/game/217759/a_few_quick_matches
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/222308/heretic_hexen
+Nightdive Studios strikes again with another shooter remaster - this time bringing back two classic dark spell-casting games that shaped the genre.
+
+Players appreciate the high-quality remastering and the strong nostalgia factor, with many expressing emotional connections to the games from their childhood. 
+
+The improved gameplay mechanics, modern controls, and level design improvements all get praise.
+Save system issues in multiplayer and some visual rendering problems that affect gameplay are the main complaints.
 
 ---
 
@@ -115,6 +121,7 @@ Here are some games or DLCs that were on the top but didn't get its own section 
 * [Static Dread: The Lighthouse](https://niklasnotes.com/dashboard/game/147441/static_dread_the_lighthouse) - *(Life Sim. Survival Horror. Visual Novel)*
 * [ERA ONE](https://niklasnotes.com/dashboard/game/139259/era_one) - *(Action RTS. Real Time Tactics. Base Building)*
 * [The RPG](https://niklasnotes.com/dashboard/game/9573/the_rpg) - *(Open World, Exploration, RPG)*
+* [Strange Jigsaws](https://niklasnotes.com/dashboard/game/65693/strange_jigsaws) - *(Adventure. Casual. Puzzle)*
 
 ---
 
