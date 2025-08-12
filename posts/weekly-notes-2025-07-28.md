@@ -108,7 +108,7 @@ Here are some games or DLCs that were on the top but didn't get its own section 
 
 ---
 
-## Full List: Top Releases for July 21 - July 27 (2025)
+## Full List: Top Releases for July 28 - August 03 (2025)
 
 ```customlist
 {
