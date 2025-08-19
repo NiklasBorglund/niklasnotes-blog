@@ -79,11 +79,10 @@ However, the game seems to require an initial patch for the complete experience,
 
 A fast-paced multiplayer shooter set in a brine-powered underwater world - made here in Sweden in Skövde not too far from where I am.
 
-Players find the gameplay enjoyable and engaging, often describing it as addictive. The unique weapons and great aesthetic get frequent praise, along with strong multiplayer experiences when played with friends. 
+Players find the gameplay enjoyable and engaging, often describing it as addictive. The unique weapons and great aesthetic get frequent praise, along with strong multiplayer experiences when played with friends.
+Players express desire for additional content variety to enhance longevity as well.
 
-The interesting thing here is that the game is recognized for being well-polished at launch with minimal bugs AND some complain about technical issues. I suspect that might be from two different audiences with the audience anomaly with Chinese Simplified reviews - giving the game a lower score there.
-
-Players express desire for additional content variety to enhance longevity, with concerns about limited variety leading to repetitive experiences.
+The interesting thing here is that the game is recognized for being well-polished at launch with minimal bugs AND some complain about technical issues. I suspect that might be from two different audiences with the audience anomaly in Chinese Simplified reviews - giving the game a lower score there (around 60%, where the global average is 84%).
 
 ---
 
