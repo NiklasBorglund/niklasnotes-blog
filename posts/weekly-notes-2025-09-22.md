@@ -1,14 +1,16 @@
 ﻿---
-title: "Weekly Notes (Sep 22 – 28): TODO"
+title: "Weekly Notes (Sep 22 – 28): Gods and Karts - Hades II and Sonic Racing Lead the Week"
 slug: "weekly-notes-2025-09-22"
 date: "2025-09-30"
 category: "Weekly Notes"
-description: "TODO::"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development"]
+description: "Hades II exits Early Access alongside Slime Rancher 2. Sonic Racing: CrossWorlds hits 96% positive as a real Mario Kart PC competitor. Silent Hill f divides fans. Plus: EA FC 26 struggles and a gambling roguelite"
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Game Development", "Hades II", "Supergiant Games", "Sonic Racing CrossWorlds", "Sonic Team", "Silent Hill f", "NeoBards", "EA Sports FC 26", "EA", "Slime Rancher 2", "Tokyo Xtreme Racer", "Mars First Logistics", "CloverPit", "Endless Legend 2", "Early Access Graduates", "Racing Games", "Horror Games", "Roguelike"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-09-22/hero.jpg"
 ---
 
-TODO::
+Two very different games dominated this week: Hades II finally graduated from Early Access, while Sonic Racing: CrossWorlds launched to 96% positive reviews - possibly giving PC players their first real Mario Kart alternative.
+
+Let's dive in to this week's releases!
 
 ---
 
@@ -21,9 +23,16 @@ TODO::
 }
 ```
 
-Mario Kart Contender. Interesting that it's basically only English. Very directed marketing? tons of localization.
-https://niklasnotes.com/dashboard/game/174750/sonic_racing_crossworlds
-TODO::
+Mario Kart is one of those games that never really got any real competition. Massively popular, but only available on Nintendo consoles over the years.
+On PC? I'm not aware of any strong contender - but maybe we got one now. 
+
+Sonic Racing: CrossWorlds released in Advanced Access for a hefty extra fee and amassed an impressive score of 97% - which then dropped to 96% after release.
+
+The sentiment is mostly very positive. Players highly enjoy the gameplay, the soundtrack and the sheer variety of characters, vehicles and tracks. 
+Some players report network stability issues when playing online as well. A lot of players from Brazil are also vocal about a price increase in the region after launch.
+
+An interesting side note is that the audience is primarily English. Not much from any other audience subset - and the game is localized into many languages.
+Is this the result of very directed marketing? Or something else.
 
 ---
 
@@ -36,8 +45,11 @@ TODO::
 }
 ```
 
-https://niklasnotes.com/dashboard/game/188298/silent_hill_f
-TODO::
+Also released this week was the latest game in the Silent Hill series. Players love the 1960s Japan atmosphere & mood they managed to develop together with the great graphics. The soundtrack & voice acting are also generally well liked.
+
+The biggest criticism by far is the inventory and combat mechanics. A lot of reviews mention this as a specific pain point. 
+
+Second to that comes with a complaint about a lack of identity. Many players simply state "This is not Silent Hill" in their reviews and fans of the genre thinks that this game strays too far from the series heart.
 
 ---
 
@@ -50,8 +62,13 @@ TODO::
 }
 ```
 
-https://niklasnotes.com/dashboard/game/57897/cloverpit
-TODO:: Slot Machine sim?
+A gambling roguelite where players are trapped with a slot machine and an ATM, trying to pay off debt. Often compared mechanics-wise to Balatro.
+
+Players love the addictive gameplay loop and fun gambling mechanics, with the low price point making it accessible. The humorous tone and replayability keep players engaged.
+
+However, frustration with RNG mechanics is common and that often leads to unexpected losses particularly annoys players. 
+
+Some feel the gameplay becomes repetitive over time, with limited variety. 
 
 ---
 
@@ -64,7 +81,11 @@ TODO:: Slot Machine sim?
 }
 ```
 
-https://niklasnotes.com/dashboard/game/217936/ea_sports_fctm_26
+The annual football/soccer franchise returns with its second iteration since dropping the FIFA branding.
+Some players appreciate gameplay improvements and still find it fun despite issues.
+
+At 50% Mixed, problems dominate. Bugs and technical issues plague the experience, with controller problems particularly frustrating online players.
+Many feel the game lacks value for its price, with Career Mode remaining largely unchanged from previous entries.
 
 ---
 
@@ -77,7 +98,10 @@ https://niklasnotes.com/dashboard/game/217936/ea_sports_fctm_26
 }
 ```
 
-https://niklasnotes.com/dashboard/game/149958/endlesstm_legend_2
+The sequel to ENDLESS Legend enters Early Access with a feature that is periodic tidefalls that reshape the entire map as you play. Players seem to like this mechanic overall. 
+They also love the asymmetrical factions that play differently from each other, plus the smooth performance and beautiful art direction.
+
+It's Early Access, so expect the usual suspects: bugs, UI issues. The absence of multiplayer is a dealbreaker for some.
 
 ---
 
