@@ -108,11 +108,35 @@ It's Early Access, so expect the usual suspects: bugs, UI issues. The absence of
 ## ⚔️ Early Access Graduates
 
 * [Hades II](https://niklasnotes.com/dashboard/game/6726/hades_ii) - Arguably the most popular release this week. The successor of the ever popular [Hades](https://niklasnotes.com/dashboard/game/65058/hades) just exited Early Access. Players love the improved gameplay, rich storytelling and the variety of content the game offers. Although generally overwhelmingly positive, some players feel the combat is unbalanced in regards to enemy damage.
+```condensedgamecard
+{
+"gameId": "6726"
+}
+```
 * [Slime Rancher 2](https://niklasnotes.com/dashboard/game/121457/slime_rancher_2) - An open world FPS creature(slimes) collecting game. Players love the relaxing & addictive gameplay. The cute slimes are often noticed as a high point. High among the critiques is the general lack of content (hopefully addressed now), and a desire for a multiplayer mode.
+```condensedgamecard
+{
+"gameId": "121457"
+}
+```
 * [Tokyo Xtreme Racer](https://niklasnotes.com/dashboard/game/46994/tokyo_xtreme_racer) - A racing game set in a futuristic Tokyo. Top sentiment among players is that the player base loves the return to gameplay similar to previous entries in the series - invoking strong feelings of nostalgia. They think the game is fun, the gameplay loop is very addictive and the incredible depth of the car customization feature. Players dislike the audio design around the engine sounds and that the game becomes increasingly difficult at the end game.
+```condensedgamecard
+{
+"gameId": "46994"
+}
+```
 * [Mars First Logistics](https://niklasnotes.com/dashboard/game/26023/mars_first_logistics) - An open world physics simulation game where players design and build rovers to deliver cargo on Mars. Players are highly enthusiastic about the creative gameplay, satisfying physics, and charming visuals. Players dislike limited communication options in multiplayer, and a noted difficulty spike in missions have been highlighted as areas for improvement.
+```condensedgamecard
+{
+"gameId": "26023"
+}
+```
 * [SWORN](https://niklasnotes.com/dashboard/game/35204/sworn) - A 1-4 player co-op action rogue-like game. Players love the gameplay loop - especially when playing with friends. It's often compared unfavorably to Hades, which makes me think it might not have been the best release week to have picked. A lot of players are also complaining about the game having a considerable amount of bugs.
-
+```condensedgamecard
+{
+"gameId": "35204"
+}
+```
 
 ## Notable Mentions
 
