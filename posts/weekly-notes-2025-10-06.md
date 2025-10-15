@@ -1,14 +1,18 @@
 ﻿---
-title: "Weekly Notes (Oct 06 – Oct 12): TODO!!"
+title: "Weekly Notes (Oct 06 – Oct 12): Battlefield 6 Hits 700k Players, Little Nightmares III Disappoints"
 slug: "weekly-notes-2025-10-06"
-date: "2025-10-16"
+date: "2025-10-15"
 category: "Weekly Notes"
-description: "TODO!!"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access"]
+description: "Battlefield 6 launches to 700k concurrent players and positive reviews. Little Nightmares III stumbles with Mixed reviews. Plus: HoMM Olden Era demo, narrative indie CARIMARA, and Early Access graduates."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Game Industry", "Early Access", "Battlefield 6", "Little Nightmares III", "Supermassive Games", "Absolum", "CARIMARA", "Heroes of Might and Magic Olden Era", "Unfrozen", "The Farmer Was Replaced", "Project Unknown", "Lost Eidolons Veil of the Witch", "Forgotten Seas", "Early Access Graduates", "Horror Games", "Action RPG", "Programming Games"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-10-06/hero.jpg"
 ---
 
-TODO!!
+Battlefield 6 dominated the week with more than 700k concurrent players at launch, successfully returning to classic series elements. 
+In contrast, Little Nightmares III's shift to co-op proved controversial, landing at just 45% positive - a significant drop from its predecessors. 
+
+Meanwhile, several promising indies and Early Access graduates rounded out a diverse week.
+Let's dive in!
 
 ---
 
@@ -97,18 +101,45 @@ The main criticism is the extremely short playtime - at under 2 hours estimated 
 }
 ```
 
-https://niklasnotes.com/dashboard/game/235903/heroes_of_might_and_magic_olden_era_demo
-TODO::
+Unfrozen released their demo of HoMM Olden Era in time for Steam Next Fest. It's getting praise for capturing the nostalgia from HoMM 3, the improved game mechanics and just the overall potential of this entry compared to previous ones.
+
+The main criticism is regarding its art style, mainly said to have a mobile game feel over it. The UI also get criticism for needing more clarity and general usability.
+
+The eighth entry in a popular series like this always comes with quite a bit of expectations - so some players also feel like these expectations are not fully met.
+
+I'm a bit biased, but when we started developing [Songs of Conquest](https://niklasnotes.com/dashboard/game/149/songs_of_conquest) - one of our goals was to help revive this genre. 
+So I'm glad to see this game exist and getting a positive reception and I can't wait to try it out.
+
 
 ---
 
 
 ## ⚔️ Early Access Graduates
 
-* [The Farmer Was Replaced](https://niklasnotes.com/dashboard/game/91887/the_farmer_was_replaced) - TODO!!
-* [Project Unknown](https://niklasnotes.com/dashboard/game/116915/project_unknown) - A supernatural-themed game
-* [Lost Eidolons: Veil of the Witch](https://niklasnotes.com/dashboard/game/133060/lost_eidolons_veil_of_the_witch) - A turn-based tactical RPG. Players love the fun addictive gameplay with rougelike elements. The combat is challenging in a good way and requires strategic thinking from the players. Biggest criticism is balancing around enemy ability and damage points. 
+* [The Farmer Was Replaced](https://niklasnotes.com/dashboard/game/91887/the_farmer_was_replaced) - A strategy simulation programming game where you program a drone to automate farming tasks. Players love that you will learn programming in a python-esque language by simply playing the game - regarded as very good for beginners. Although some players think the learning curve is a bit too steep.
+```condensedgamecard
+{
+"gameId": "91887"
+}
+```
+* [Project Unknown](https://niklasnotes.com/dashboard/game/116915/project_unknown) - A multiplayer horror game where players exorcise ghosts. Players love the unique mechanics and the great experience when playing with friends. The atmosphere and mood are also highly praised. Criticism is mainly regarding its repetitiveness and limited content after playing for a while. 
+```condensedgamecard
+{
+"gameId": "116915"
+}
+```
+* [Lost Eidolons: Veil of the Witch](https://niklasnotes.com/dashboard/game/133060/lost_eidolons_veil_of_the_witch) - A turn-based tactical RPG. Players love the fun addictive gameplay with roguelike elements. The combat is challenging in a good way and requires strategic thinking from the players. Biggest criticism is balancing around enemy ability and damage points. 
+```condensedgamecard
+{
+"gameId": "133060"
+}
+```
 * [Forgotten Seas](https://niklasnotes.com/dashboard/game/68663/forgotten_seas) - A pirate survival and exploration game. Players love the engaging gameplay (especially with friends) and beautiful graphics. The Crafting system often stands out as a high point. Lately, some of the major criticisms is regarding the state of polish around the gameplay and the ship mechanics as well as significant bugs in multiplayer.
+```condensedgamecard
+{
+"gameId": "68663"
+}
+```
 
 ## Notable Mentions
 
