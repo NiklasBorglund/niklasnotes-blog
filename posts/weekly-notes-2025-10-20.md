@@ -8,7 +8,7 @@ tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "RV There Yet", "Vampir
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-10-20/hero.jpg"
 ---
 
-Another week, another Swedish success story with RV There Yet hitting 1.3 million sales. Meanwhile, Vampire: The Masquerade - Bloodlines 2 finally shipped after years of development troubles, but the 18-year wait seems to have built expectations too high. 
+Another week, another Swedish success story with RV There Yet hitting 1.3 million sales. Meanwhile, Vampire: The Masquerade - Bloodlines 2 finally shipped after years of development, but the 18-year wait seems to have built expectations too high. 
 
 Let's dive in!
 
