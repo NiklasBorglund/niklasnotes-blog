@@ -15,7 +15,6 @@ This week we’ve got a bit of everything: a desert survival epic launching earl
 Let’s dig in.
 
 ## Dune: Awakening by Funcom
-***Largest audiences**: 67% English Speakers, ~8% Russian, ~6% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -41,7 +40,6 @@ It’ll be interesting to see how the game holds up once it exits Expensive Acce
 ---
 
 ## DELTARUNE by tobyfox
-***Largest audiences**: 74% English Speakers, ~6% Russian, ~5% Spanish*
 
 ```condensedgamecard
 {
@@ -61,7 +59,6 @@ Making a successful, universally acclaimed sequel is not an easy feat - but Toby
 ---
 
 ## Rune Factory: Guardians of Azuma by Marvelous Inc.
-***Largest audiences**: 40% English Speakers, ~39% Chinese (Simplified), ~7% Japanese, ~7% Chinese (Traditional)*
 
 ```condensedgamecard
 {
@@ -78,7 +75,6 @@ Some are enjoying the more streamlined mechanics and quality-of-life features, w
 ---
 
 ## Lies of P: Overture by NEOWIZ.
-***Largest audiences**: 38% English Speakers, ~28% Chinese (Simplified), ~13% Korean*
 
 ```condensedgamecard
 {

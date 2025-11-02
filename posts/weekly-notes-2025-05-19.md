@@ -12,7 +12,6 @@ Hello everyone! This week delivered several strong releases. Many within the 1-5
 Here are some of the more interesting releases the week of May 19 to 25.
 
 ## FANTASY LIFE i: The Girl Who Steals Time by LEVEL5 Inc.
-***Largest audiences**: ~48% English Speakers, ~29% Chinese (Simplified), ~6% Japanese*
 
 ```condensedgamecard
 {
@@ -31,7 +30,6 @@ However, there are significant critique from players regarding limited multiplay
 ---
 
 ## Monster Train 2 by Shiny Shoe
-***Largest audiences**: ~64% English Speakers, ~21% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -51,7 +49,6 @@ Some players express mixed feelings about UI/Art changes and balance problems, b
 ---
 
 ## 🛠️ RoadCraft by Saber Interactive
-***Largest audiences**: ~55% English Speakers, ~14% Russian, ~9% German*
 
 ```condensedgamecard
 {
@@ -69,7 +66,6 @@ Those who like it enjoy the settings and the graphics and the fun gameplay.
 ---
 
 ## 🛠️ Deliver At All Costs by Studio Far Out Games
-***Largest audiences**: ~71% English Speakers, ~6% French, ~6% German*
 
 ```condensedgamecard
 {
@@ -86,7 +82,6 @@ One to revisit after a couple of patches, especially if the control issues get a
 ---
 
 ## 🛠️ 9 Kings by Sad Socket
-***Largest audiences**: ~37% English Speakers, ~26% Portuguese (Brazil), ~14% German*
 
 ```condensedgamecard
 {
@@ -128,11 +123,9 @@ Apart from the overall complaint about bugs, the simplified chinese mention prob
 
 Here are a few other games that didn’t break into the top tier but still earned a solid number of reviews and positive reception.
 
-* [Out of Sight by The Gang](https://niklasnotes.com/dashboard/game/10082/out_of_sight)
-* [Kathy Rain 2: Soothsayer by Clifftop Games](https://niklasnotes.com/dashboard/game/41326/kathy_rain_2_soothsayer)
-* [Desktop Survivors by Brandon Hesslau](https://niklasnotes.com/dashboard/game/119580/desktop_survivors_98)
-* [Tinkerlands by CodeManu & Endless Coffee](https://niklasnotes.com/dashboard/game/56908/tinkerlands)
-* [Onimusha 2: Samurai's Destiny by CAPCOM Co. Ltd](https://niklasnotes.com/dashboard/game/175198/onimusha_2_samurai_s_destiny)
+```minigamecardlist
+["10082", "41326", "119580", "56908", "175198"]
+```
 
 ---
 

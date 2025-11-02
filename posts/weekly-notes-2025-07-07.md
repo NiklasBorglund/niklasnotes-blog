@@ -17,7 +17,6 @@ But let’s dive in and see what showed up.
 ---
 
 ## RimWorld - Odyssey by Ludeon Studios
-***Largest audiences**: ~53% English, ~13% Russian, ~11% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -34,7 +33,6 @@ As a sidenote, I love this developer breakdown of [their region system in Rimwor
 ---
 
 ## Mycopunk by Pigeons at Play
-***Largest audiences**: ~81% English, ~6% Russian, ~4% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -51,7 +49,6 @@ Still, very positive score across the board -and seems like a sleeper hit if you
 ---
 
 ## PATAPON 1+2 REPLAY by SAS CO.,LTD.
-***Largest audiences**: ~49% English, ~20% Chinese (Simplified), ~6% Korean, ~6% Russian*
 
 ```condensedgamecard
 {
@@ -68,7 +65,6 @@ Players are generally positive and the main praise is feelings of nostalgia. Tha
 ---
 
 ## Brickadia by Brickadia, LLC
-***Largest audiences**: ~90% English, ~4% Russian*
 
 ```condensedgamecard
 {
@@ -85,7 +81,6 @@ General mood is positive, with some complaints about content and bugs, but I'd b
 ---
 
 ## Tony Hawk's™ Pro Skater™ 3 + 4 by Iron Galaxy Studios
-***Largest audiences**: ~86% English*
 
 ```condensedgamecard
 {
@@ -100,7 +95,6 @@ It's getting mixed reviews at the moment, and it's mostly regarding changes they
 ---
 
 ## Last Report by Monopixel Games
-***Largest audiences**: ~68% English, ~19% Russian*
 
 ```condensedgamecard
 {
@@ -123,13 +117,9 @@ A subtitle like ‘Last Report: A Short Experience’ might’ve helped set expe
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. 
 
-* [A Solitaire Mystery](https://niklasnotes.com/dashboard/game/206057/a_solitaire_mystery) - *(Solitaire. Card Game. Puzzle)*
-* [ISLANDERS: New Shores](https://niklasnotes.com/dashboard/game/186275/islanders_new_shores) - *(City Builder. Colony Sim. Turn-Based Strategy)*
-* [Crisis in the Kremlin: The Cold War](https://niklasnotes.com/dashboard/game/50457/crisis_in_the_kremlin_the_cold_war) - *(Grand Strategy. Political Sim. Simulation)*
-* [American Truck Simulator - Iowa](https://niklasnotes.com/dashboard/game/68415/american_truck_simulator_iowa) - *(Automobile Sim. Open World. Management)*
-* [Ground of Aces](https://niklasnotes.com/dashboard/game/148460/ground_of_aces) - *(Wargame. City Builder. RTS)*
-* [Striving for Light](https://niklasnotes.com/dashboard/game/66646/striving_for_light) - *(Hack and Slash. Action Roguelike. Dungeon Crawler)*
-* [STRIDEN](https://niklasnotes.com/dashboard/game/32328/striden) - *(Looter Shooter. Wargame. FPS)*
+```minigamecardlist
+["206057", "186275", "50457", "68415", "148460", "66646", "32328"]
+```
 
 
 ---

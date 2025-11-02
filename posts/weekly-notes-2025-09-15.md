@@ -17,7 +17,6 @@ Let's dive in and see what was released.
 ---
 
 ## Dying Light: The Beast by Techland
-***Largest audiences**: ~42% English, ~20% Chinese (Simplified), ~11% Russian*
 
 ```condensedgamecard
 {
@@ -34,7 +33,6 @@ But it's not without its problems. The biggest criticism is bugs and glitches, w
 ---
 
 ## No, I'm not a Human by Trioskaz
-***Largest audiences**: ~36% English, ~32% Russian, ~8% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -54,7 +52,6 @@ Personally, I like the look of it. I'm a sucker for game's with lots mood & atmo
 ---
 
 ## skate. by Full Circle
-***Largest audiences**: ~76% English, ~7% Portuguese (Brazil)*
 
 ```condensedgamecard
 {
@@ -77,7 +74,6 @@ Since it's released in Early Access, I guess this game will be updated and patch
 ---
 
 ## Megabonk by vedinad
-***Largest audiences**: ~79% English*
 
 ```condensedgamecard
 {
@@ -94,7 +90,6 @@ Minor criticisms include some balance issues with scaling, grindiness that can d
 ---
 
 ## Jump Space by Keepsake Games
-***Largest audiences**: ~73% English, ~7% Russian, ~5% German*
 
 ```condensedgamecard
 {
@@ -115,7 +110,6 @@ As one of the main "winners" of the latest steam next fest and [garnering over a
 ---
 
 ## Town to City by Galaxy Grove
-***Largest audiences**: ~70% English, ~10% German, ~5% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -144,14 +138,9 @@ Minor criticisms include performance issues with larger cities, micro-management
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-### Other Significant Releases
-
-* [Trails in the Sky 1st Chapter](https://niklasnotes.com/dashboard/game/57508/trails_in_the_sky_1st_chapter) - *(Party-Based RPG. JRPG. Adventure)*
-* [Ratatan](https://niklasnotes.com/dashboard/game/49658/ratatan) - *(2D Platformer. Action Roguelike. Rhythm)*
-* [Voyagers of Nera](https://niklasnotes.com/dashboard/game/151048/voyagers_of_nera) - *(Action-Adventure. Open World Survival Craft. RPG)*
-* [Easy Delivery Co.](https://niklasnotes.com/dashboard/game/128915/easy_delivery_co) - *(Automobile Sim. Interactive Fiction. Racing)*
-* [Strange Antiquities](https://niklasnotes.com/dashboard/game/24480/strange_antiquities) - *(Adventure. Casual. Detective)*
-* [Arena Breakout: Infinite](https://niklasnotes.com/dashboard/game/155967/arena_breakout_infinite) - *(Extraction Shooter. MOBA. Tactical RPG)*
+```minigamecardlist
+["57508", "49658", "151048", "128915", "24480", "155967"]
+```
 
 ---
 

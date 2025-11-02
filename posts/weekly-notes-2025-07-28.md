@@ -19,7 +19,6 @@ Let’s take a look.
 ---
 
 ## Grounded 2 by Obsidian Entertainment & Eidos-Montréal
-***Largest audiences**: ~60% English, ~16% Chinese (Simplified), ~7% German*
 
 ```condensedgamecard
 {
@@ -38,7 +37,6 @@ Players recognize the potential for growth, but right now it feels like paying t
 ---
 
 ## Titan Quest II by Grimlore Games
-***Largest audiences**: ~45% English, ~14% Russian, ~13% Chinese (Simplified), ~9% German*
 
 ```condensedgamecard
 {
@@ -54,7 +52,6 @@ Generally well liked, but some players feel the content is too thin even for ear
 ---
 
 ## NINJA GAIDEN: Ragebound by The Game Kitchen
-***Largest audiences**: ~44% English, ~22% Chinese (Simplified), ~9% Russian*
 
 ```condensedgamecard
 {
@@ -71,7 +68,6 @@ The main criticisms center on a lack of unique mechanics compared to other title
 ---
 
 ## Tales of the Shire: A The Lord of The Rings™ Game by Wētā Workshop
-***Largest audiences**: ~78% English, ~7% German, ~6% French*
 
 ```condensedgamecard
 {
@@ -98,13 +94,9 @@ It seems to appeal to fans of the cozy genre but may leave others wanting more. 
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. 
 
-* [Keep on Mining!](https://niklasnotes.com/dashboard/game/212523/keep_on_mining) - *(Collectathon. Idler. Mining)*
-* [Achilles: Survivor](https://niklasnotes.com/dashboard/game/137440/achilles_survivor) - *(Action Roguelike. Bullet Hell. Top-Down Shooter)*
-* [Terminull Brigade™](https://niklasnotes.com/dashboard/game/139011/terminull_brigadetm) - *(Action Roguelike. Hack and Slash. Looter Shooter)*
-* [A World of Keflings](https://niklasnotes.com/dashboard/game/20862/a_world_of_keflings) - *(City Builder. Base Building. Resource Management)*
-* [Dead Take](https://niklasnotes.com/dashboard/game/208680/dead_take) - *(Walking Simulator, Survival Horror, Puzzle)*
-* [FUMES](https://niklasnotes.com/dashboard/game/134097/fumes) - *(Automobile Sim, Driving, Open World)*
-* [Dead by Daylight: The Walking Dead](https://niklasnotes.com/dashboard/game/219711/dead_by_daylight_the_walking_dead) - *(Action. Strategy. Survival Horror)*
+```minigamecardlist
+["212523", "137440", "139011", "20862", "208680", "134097", "219711"]
+```
 
 ---
 

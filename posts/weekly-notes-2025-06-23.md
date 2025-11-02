@@ -13,7 +13,6 @@ After a flood of recent releases, this week was surprisingly quiet. I also didn'
 Let's dive in!
 
 ## Tiny Aquarium: Social Fishkeeping by Lunheim Studios
-***Largest audiences**: ~74% English, ~11% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -30,7 +29,6 @@ Players love the relaxing gameplay, cute graphics, and variety of fish - but it 
 ---
 
 ## Persona5: The Phantom X by ATLUS, SEGA & Perfect World
-***Largest audiences**: ~64% English, ~8% Spanish, ~6% Portuguese (Brazil)*
 
 ```condensedgamecard
 {
@@ -54,7 +52,6 @@ Interesting to see how a beloved IP can pull in players despite F2P friction.
 ---
 
 ## System Shock 2: 25th Anniversary Remaster by Irrational Games, Looking Glass Studios & Nightdive Studios
-***Largest audiences**: ~80% English, ~9% Russian*
 
 ```condensedgamecard
 {
@@ -72,7 +69,6 @@ On the downside, the multiplayer and co-op modes seem to get a lot of critique, 
 ---
 
 ## Ship, Inc. by Rogue Duck Interactive
-***Largest audiences**: ~53% English, ~20% Chinese (Simplified), ~5% Turkish*
 
 ```condensedgamecard
 {
@@ -99,15 +95,9 @@ I actually didn't find any Early Access Graduates this week! A first? Or did my 
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. Many Warhammer 40k DLCs from different games coming out the same week - a coordinated effort?
 
-* [Warhammer 40,000: Darktide - Arbites Class Deluxe Edition](https://niklasnotes.com/dashboard/game/209697/warhammer_40_000_darktide_arbites_class_deluxe_edition) - *(Hack and Slash. FPS. Horror)*
-* [Warhammer 40,000: Darktide - Arbites Class](https://niklasnotes.com/dashboard/game/206260/warhammer_40_000_darktide_arbites_class) - *(Hack and Slash. FPS. Horror)*
-* [Warhammer 40,000: Rogue Trader - Lex Imperialis](https://niklasnotes.com/dashboard/game/206093/warhammer_40_000_rogue_trader_lex_imperialis) - *(CRPG. Party-Based RPG. Strategy)*
-* [Warhammer 40,000: Space Marine 2 - Blood Angels Cosmetic Pack](https://niklasnotes.com/dashboard/game/213917/warhammer_40_000_space_marine_2_blood_angels_cosmetic_pack) - *(RPG. Adventure. Action)*
-* [Project Silverfish](https://niklasnotes.com/dashboard/game/158355/project_silverfish) - *(Open World. Survival Horror. FPS)*
-* [Not Monday Cafe](https://niklasnotes.com/dashboard/game/147609/not_monday_cafe) - *(Life Sim. Idler. Resource Management)*
-* [ToHeart](https://niklasnotes.com/dashboard/game/186052/toheart) - *(Interactive Fiction. Visual Novel. Drama)*
-* [Darkest Dungeon® II: Hero Origin Pack](https://niklasnotes.com/dashboard/game/212838/darkest_dungeon_ii_hero_origin_pack) - *(RPG. Strategy. Indie)*
-* [Shambles: Sons of Apocalypse](https://niklasnotes.com/dashboard/game/99674/shambles_sons_of_apocalypse) - *(Turn-Based Strategy. Card Battler. Deckbuilding)*
+```minigamecardlist
+["209697", "206260", "206093", "213917", "158355", "147609", "186052", "212838", "99674"]
+```
 
 ---
 

@@ -13,7 +13,6 @@ Hello everyone! Hope you had a good midsommar!
 Last week we had a literal TON of releases and early access graduates. I'm actually joining the list of releases myself along with my colleagues at Lavapotion with the release of our latest faction - Roots!
 
 ## Songs of Conquest - Roots by Lavapotion
-***Largest audiences**: ~64% English, ~18% Russian, ~9% Polish*
 
 ```condensedgamecard
 {
@@ -37,7 +36,6 @@ P.S. We also released the game on [Nintendo Switch](https://www.nintendo.com/us/
 ---
 
 ## 捞女游戏 by 前方工作室
-***Largest audiences**: ~98% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -55,7 +53,6 @@ Don't know if there's much more to say since it's basically unavailable for play
 ---
 
 ## PEAK by Landfall and Aggro Crab
-***Largest audiences**: ~70% English, ~10% Russian*
 
 ```condensedgamecard
 {
@@ -73,7 +70,6 @@ Still, Landfall keeps showing how to make something that gets people talking - a
 ---
 
 ## FBC: Firebreak by Remedy Entertainment
-***Largest audiences**: ~71% English, ~8% Chinese (Simplified), ~7% Russian*
 
 ```condensedgamecard
 {
@@ -92,7 +88,6 @@ If Remedy can follow through on content and polish, there’s a solid foundation
 ---
 
 ## Broken Arrow by Steel Balalaika
-***Largest audiences**: ~41% English, ~22% Russian, ~21% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -128,19 +123,9 @@ Chinese (Simplified) stands out with a 56% rating and is 20+ percent of the play
 
 Here are some games and demos that were on the top but didn't get its own section in the weekly notes.
 
-* [Date Everything!](https://niklasnotes.com/dashboard/game/57284/date_everything) - *(Choose Your Own Adventure. Psychological Horror. Visual Novel)*
-* [Dead by Daylight: Five Nights at Freddy’s](https://niklasnotes.com/dashboard/game/212651/dead_by_daylight_five_nights_at_freddy_s) - *(Survival Horror. Strategy. Action)*
-* [Cast n Chill](https://niklasnotes.com/dashboard/game/169452/cast_n_chill) - *(Creature Collector. Idler. Resource Management)*
-* [Tower Wizard](https://niklasnotes.com/dashboard/game/123415/tower_wizard) - *(Idler. Clicker. Resource Management)*
-* [Kindergarten 3](https://niklasnotes.com/dashboard/game/122730/kindergarten_3) - *(Choose Your Own Adventure. Interactive Fiction. Puzzle)*
-* [REMATCH](https://niklasnotes.com/dashboard/game/148924/rematch) - *(Action RTS. Real Time Tactics. Sports)*
-* [RAIDOU Remastered: The Mystery of the Soulless Army](https://niklasnotes.com/dashboard/game/196072/raidou_remastered_the_mystery_of_the_soulless_army) - *(Creature Collector. JRPG. Detective)*
-* [Victoria 3: Charters of Commerce](https://niklasnotes.com/dashboard/game/196509/victoria_3_charters_of_commerce) - *(Grand Strategy. Resource Management. Political Sim)*
-* [BitCraft Online](https://niklasnotes.com/dashboard/game/186993/bitcraft_online) - *(Open World Survival Craft. MMORPG. Base Building)*
-* [Crime Simulator](https://niklasnotes.com/dashboard/game/71337/crime_simulator) - *(Open World. Simulation. Heist)*
-* [A Building Full of Cats 2](https://niklasnotes.com/dashboard/game/170702/a_building_full_of_cats_2) - *(Creature Collector. Hidden Object. Collectathon)*
-* [Lost in Random: The Eternal Die](https://niklasnotes.com/dashboard/game/83155/lost_in_random_the_eternal_die) - *(Traditional Roguelike. Hack and Slash. Dungeon Crawler)*
-* [After Inc: Revival](https://niklasnotes.com/dashboard/game/148378/after_inc_revival) - *(Outbreak Sim. 4X. City Builder)*
+```minigamecardlist
+["57284", "212651", "169452", "123415", "122730", "148924", "196072", "196509", "186993", "71337", "170702", "83155", "148378"]
+```
 
 ---
 

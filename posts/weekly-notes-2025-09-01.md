@@ -15,7 +15,6 @@ Let's dive in to the top releases last week!
 ---
 
 ## Hollow Knight: Silksong by Team Cherry
-***Largest audiences**: ~39% English, ~27% Chinese (Simplified), ~8% Spanish, ~7% Russian*
 
 ```condensedgamecard
 {
@@ -37,7 +36,6 @@ Turns out, that the Chinese Translation is using overly archaic language and eve
 ---
 
 ## Cronos: The New Dawn by Bloober Team
-***Largest audiences**: 46% English, 13% Russian, ~12% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -55,7 +53,6 @@ However, performance issues significantly impact the experience, with frame drop
 ---
 
 ## Hell is Us by Rogue Factor
-***Largest audiences**: 56% English, 12% Russian, ~6% German*
 
 ```condensedgamecard
 {
@@ -73,7 +70,6 @@ Technical issues including crashes frustrate some players, while others find the
 ---
 
 ## NBA 2K26 by Visual Concepts
-***Largest audiences**: ~50% English, ~28% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -93,7 +89,6 @@ And as usual with big titles, it is plagued by performance issues and a buggy ex
 ---
 
 ## METAL EDEN by Reikon Games
-***Largest audiences**: ~62% English, ~13% Chinese (Simplified), ~5% Russian*
 
 ```condensedgamecard
 {
@@ -110,7 +105,6 @@ Some players also feel the story is underdeveloped or rushed.
 ---
 
 ## Overlooting by Posing Possums
-***Largest audiences**: ~44% English, ~19% Chinese (Simplified), ~10% Russian*
 
 ```condensedgamecard
 {
@@ -135,9 +129,9 @@ However, balance issues frustrate some, with certain item sets and builds affect
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-* [Daemon X Machina: Titanic Scion](https://niklasnotes.com/dashboard/game/198498/daemon_x_machina_titanic_scion) - *(Hack and Slash. Beat 'em up. Dungeon Crawler)*
-* [MechWarrior 5: Mercenaries - Shadow of Kerensky](https://niklasnotes.com/dashboard/game/213676/mechwarrior_5_mercenaries_shadow_of_kerensky) - *(FPS. Resource Management. Shooter)*
-* [Bad Cheese](https://niklasnotes.com/dashboard/game/72495/bad_cheese) - *(Walking Simulator. Psychological Horror. Action-Adventure)*
+```minigamecardlist
+["198498", "213676", "72495"]
+```
 
 ---
 

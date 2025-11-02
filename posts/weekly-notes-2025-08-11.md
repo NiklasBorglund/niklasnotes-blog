@@ -17,7 +17,6 @@ Dawn of War joined the growing list of "definitive editions", while smaller titl
 ---
 
 ## The Bazaar by Tempo
-***Largest audiences**: ~75% English, ~7% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -35,7 +34,6 @@ But monetization issues dominate the negative feedback. Players express dissatis
 ---
 
 ## Warhammer 40,000: Dawn of War - Definitive Edition by Relic Entertainment
-***Largest audiences**: ~59% English, ~20% Russian*
 
 ```condensedgamecard
 {
@@ -52,7 +50,6 @@ However, significant concerns dominate the feedback. Technical issues including 
 ---
 
 ## Black Souls by Eeny, meeny, miny, moe?
-***Largest audiences**: ~41% Chinese (Simplified), ~30% English, ~12% Russian*
 
 ```condensedgamecard
 {
@@ -69,7 +66,6 @@ However, the game seems to require an initial patch for the complete experience,
 ---
 
 ## Abyssus by DoubleMoose Games
-***Largest audiences**: ~72% English, ~9% Russian, ~8% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -87,7 +83,6 @@ The interesting thing here is that the game is recognized for being well-polishe
 ---
 
 ## OFF by Mortis Ghost & Fangamer
-***Largest audiences**: ~80% English, ~5% Russian*
 
 ```condensedgamecard
 {
@@ -115,13 +110,9 @@ Might be a good time to release this game now, just after the release of DELTARU
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. 
 
-* [Bendy: Lone Wolf](https://niklasnotes.com/dashboard/game/124082/bendy_lone_wolf) - *(Hack and Slash. Action Roguelike. Psychological Horror)* 
-* [The Dark Queen of Mortholme](https://niklasnotes.com/dashboard/game/206717/the_dark_queen_of_mortholme) - *(Souls-like. Otome. Side Scroller)* 
-* [Supraworld](https://niklasnotes.com/dashboard/game/40985/supraworld) - *(Metroidvania. 3D Platformer. Collectathon)* [Wagotabi: A Japanese Journey](https://niklasnotes.com/dashboard/game/30851/wagotabi_a_japanese_journey) - *(RPG. Education. Immersive Sim)*
-* [The Scouring](https://niklasnotes.com/dashboard/game/95441/the_scouring) - *(MOBA. Action RTS. Real Time Tactics)*
-* [Dice Gambit](https://niklasnotes.com/dashboard/game/39663/dice_gambit) - *(Tactical RPG. JRPG. Turn-Based Combat)*
-* [Age of Wonders 4: Archon Prophecy](https://niklasnotes.com/dashboard/game/42370/age_of_wonders_4_archon_prophecy) - *(Grand Strategy. 4X. Tactical RPG)*
-* [Echoes of the End](https://niklasnotes.com/dashboard/game/209563/echoes_of_the_end) - *(Action-Adventure. Adventure. Puzzle Platformer)*
+```minigamecardlist
+["124082", "206717", "40985", "30851", "95441", "39663", "42370", "209563"]
+```
 
 ---
 

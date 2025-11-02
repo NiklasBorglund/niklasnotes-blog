@@ -17,7 +17,6 @@ Let’s take a look.
 ---
 
 ## Destiny 2: The Edge of Fate by Bungie
-***Largest audiences**: ~84% English*
 
 ```condensedgamecard
 {
@@ -38,7 +37,6 @@ Let's see if they can patch the score of this one back to a positive one.
 ---
 
 ## Stronghold Crusader: Definitive Edition by FireFly Studios
-***Largest audiences**: ~41% English, ~23% German, ~12% Russian*
 
 ```condensedgamecard
 {
@@ -54,7 +52,6 @@ Main criticisms focus on the multiplayer experience and performance - especially
 ---
 
 ## Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition by Aspyr Media
-***Largest audiences**: ~58% English, ~23% Russian*
 
 ```condensedgamecard
 {
@@ -74,7 +71,6 @@ Managing expectations with your base is tricky - but it’s also crucial.
 ---
 
 ## Eriksholm: The Stolen Dream by RiverEnd Games
-***Largest audiences**: ~45% English, ~13% Chinese(Simplified), ~13% German, ~11% Russian*
 
 ```condensedgamecard
 {
@@ -94,7 +90,6 @@ The main criticism is that players want more - they feel it’s too short. Maybe
 ---
 
 ## Word Play by Game Maker's Toolkit
-***Largest audiences**: ~96% English*
 
 ```condensedgamecard
 {
@@ -113,7 +108,6 @@ Some players wish the upgrade system had more depth, but overall it seems to hav
 ---
 
 ## The Drifter by Dave Lloyd & Powerhoof
-***Largest audiences**: ~83% English, ~6% German*
 
 ```condensedgamecard
 {
@@ -145,17 +139,9 @@ Some mention that the puzzles can get frustrating, and opinions on the game’s 
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. 
 
-* [MoteMancer](https://niklasnotes.com/dashboard/game/197263/motemancer) - *(Base Building. Strategy. Open World)*
-* [Astro Prospector](https://niklasnotes.com/dashboard/game/191270/astro_prospector) - *(Beat 'em up. Bullet Hell. Idler)*
-* [Kaizen: A Factory Story](https://niklasnotes.com/dashboard/game/186454/kaizen_a_factory_story) - *(Puzzle. Sandbox. Strategy)*
-* [Dawn Apart](https://niklasnotes.com/dashboard/game/146520/dawn_apart) - *(Colony Sim. Strategy. Wargame)*
-* [Fretless - The Wrath of Riffson](https://niklasnotes.com/dashboard/game/91630/fretless_the_wrath_of_riffson) - *(Rhythm. Turn-Based Strategy. Tactical RPG)*
-* [RoboCop: Rogue City - Unfinished Business](https://niklasnotes.com/dashboard/game/187128/robocop_rogue_city_unfinished_business) - *(Action RPG. Adventure. Shooter)*
-* [Little Fighter 2 Remastered](https://niklasnotes.com/dashboard/game/49510/little_fighter_2_remastered) - *(Beat 'em up. 2D Fighter. Action)*
-* [He is Coming](https://niklasnotes.com/dashboard/game/173780/he_is_coming) - *(Roguelike Deckbuilder. Auto Battler. Turn-Based Strategy)*
-* [Who's at the door?](https://niklasnotes.com/dashboard/game/203635/who_s_at_the_door) - *(Choose Your Own Adventure. Walking Simulator. Survival Horror)*
-* [The Karters 2: Turbo Charged](https://niklasnotes.com/dashboard/game/120674/the_karters_2_turbo_charged) - *(eSports. Racing. Sports)*
-* [Saloon Simulator](https://niklasnotes.com/dashboard/game/20643/saloon_simulator) - *(Life Sim. Management. Crime)*
+```minigamecardlist
+["197263", "191270", "186454", "146520", "91630", "187128", "49510", "173780", "203635", "120674", "20643"]
+```
 
 ---
 

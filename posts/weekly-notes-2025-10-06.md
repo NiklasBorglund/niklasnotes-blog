@@ -17,7 +17,6 @@ Let's dive in!
 ---
 
 ## Battlefield™ 6 by Battlefield Studios
-***Largest audiences**: ~49% English, ~18% Chinese (Simplified), ~8% Russian*
 
 ```condensedgamecard
 {
@@ -37,7 +36,6 @@ Map design gets criticized as small and chaotic, often compared to the maps of C
 ---
 
 ## Little Nightmares III by Supermassive Games
-***Largest audiences**: ~44% English, ~17% Russian, ~15% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -58,7 +56,6 @@ I wonder if that was one part in the low reception of this title among its many 
 ---
 
 ## Absolum by Dotemu, Guard Crush, Supamonks
-***Largest audiences**: ~50% English, ~16% Chinese (Simplified), ~11% Russian*
 
 ```condensedgamecard
 {
@@ -76,7 +73,6 @@ The ~9-hour median playtime suggests a solid experience of beat 'em up and rogue
 ---
 
 ## CARIMARA: Beneath the forlorn limbs by Bastinus Rex
-***Largest audiences**: ~40% English, ~18% Russian, ~12% French*
 
 ```condensedgamecard
 {
@@ -93,7 +89,6 @@ The main criticism is the extremely short playtime - at under 2 hours estimated 
 ---
 
 ## Heroes of Might and Magic: Olden Era Demo by Unfrozen
-***Largest audiences**: ~38% English, ~37% Russian, ~6% Chinese (Simplified), ~6% Polish*
 
 ```condensedgamecard
 {
@@ -145,14 +140,9 @@ So I'm glad to see this game exist and getting a positive reception and I can't 
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-### Other Significant Releases
-
-* [Battlefield™ 6 - Phantom Upgrade](https://niklasnotes.com/dashboard/game/236118/battlefieldtm_6_phantom_upgrade) - *(Action. FPS. Shooter)*
-* [Seafarer: The Ship Sim](https://niklasnotes.com/dashboard/game/186695/seafarer_the_ship_sim) - *(Casual. Exploration. Immersive Sim)*
-* [Little Rocket Lab](https://niklasnotes.com/dashboard/game/89271/little_rocket_lab) - *(Life Sim. Strategy RPG. Exploration)*
-* [Deathground](https://niklasnotes.com/dashboard/game/33385/deathground) - *(Hunting. Survival Horror. Action-Adventure)*
-* [Yooka-Replaylee](https://niklasnotes.com/dashboard/game/107326/yooka_replaylee) - *(3D Platformer. Collectathon. Open World)*
-* [Bye Sweet Carole](https://niklasnotes.com/dashboard/game/77274/bye_sweet_carole) - *(Survival Horror. Puzzle Platformer. Action-Adventure)*
+```minigamecardlist
+["236118", "186695", "89271", "33385", "107326", "77274"]
+```
 
 ---
 

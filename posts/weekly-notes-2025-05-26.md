@@ -16,7 +16,6 @@ From a blockbuster launch with region-specific backlash to a wholesome bug-colle
 Let’s get into it!
 
 ## ELDEN RING NIGHTREIGN by FromSoftware, Inc.
-***Largest audiences**: ~58% English Speakers, ~14% Chinese (Simplified), ~4% Russian*
 
 ```condensedgamecard
 {
@@ -51,7 +50,6 @@ I find this incredibly interesting, and it goes to show that releasing in anothe
 ---
 
 ## Kabuto Park by Doot & Zakku.
-***Largest audiences**: ~82% English Speakers, ~8% French*
 
 ```condensedgamecard
 {
@@ -73,7 +71,6 @@ These are the literal opening lines of their store description - and they set th
 ---
 
 ## F1® 25 by Codemasters
-***Largest audiences**: ~51% English Speakers, ~11% German, ~6% French*
 
 ```condensedgamecard
 {
@@ -87,7 +84,6 @@ Players love the improved handling mechanics & better AI. Fans of this genre see
 ---
 
 ## Sol Cesto by Tambouille, Géraud Zucchini & Chariospirale
-***Largest audiences**: ~55% French, ~27% English, ~9% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -102,7 +98,6 @@ Players praise the addictive and unique gameplay. Criticism is that players does
 ---
 
 ## As We Descend by Box Dragon
-***Largest audiences**: ~55% English, ~25% Chinese (Simplified), ~5% Russian*
 
 ```condensedgamecard
 {
@@ -118,7 +113,6 @@ Players love the unique deckbuilding mechanics, beautiful arty style, and gamepl
 ---
 
 ## PaperKlay by WhyKev
-***Largest audiences**: ~91% English speakers*
 
 ```condensedgamecard
 {
@@ -145,12 +139,9 @@ It also has an impressive 16% of players playing it primarily on Steam Deck!
 
 Here are a few other games that didn’t get its own section, but is still in the top!
 
-* [Nice Day for Fishing](https://niklasnotes.com/dashboard/game/145323/nice_day_for_fishing)
-* [Car Dealer Simulator](https://niklasnotes.com/dashboard/game/33173/car_dealer_simulator)
-* [Pipistrello and the Cursed Yoyo](https://niklasnotes.com/dashboard/game/20478/pipistrello_and_the_cursed_yoyo) - (100% positive, perfect score!)
-* [Wrap House Simulator](https://niklasnotes.com/dashboard/game/180375/wrap_house_simulator)
-* [Fuga: Melodies of Steel 3](https://niklasnotes.com/dashboard/game/16022/fuga_melodies_of_steel_3)
-* [Small Spaces](https://niklasnotes.com/dashboard/game/33658/small_spaces)
+```minigamecardlist
+["145323", "33173", "20478", "180375", "16022", "33658"]
+```
 
 ---
 

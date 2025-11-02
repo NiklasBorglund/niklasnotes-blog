@@ -15,7 +15,6 @@ Let's dive in!
 ---
 
 ## RV There Yet? by NUGGETS ENTERTAINMENT
-***Largest audiences**: ~51% English, ~20% Russian, ~6% German*
 
 ```condensedgamecard
 {
@@ -34,7 +33,6 @@ Some complain about optimization and issues with voice chat - but to me it sound
 ---
 
 ## Dispatch by AdHoc Studio
-***Largest audiences**: ~67% English, ~14% Russian, ~4% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -51,7 +49,6 @@ However, players really seem to dislike the episodic release schedule. Looking a
 ---
 
 ## NINJA GAIDEN 4 by PlatinumGames Inc. / Team NINJA / KOEI TECMO GAMES CO., LTD.
-***Largest audiences**: ~56% Chinese (Simplified), ~28% English*
 
 ```condensedgamecard
 {
@@ -68,7 +65,6 @@ The focus on the character Yakumo over Ryu Hayabusa has also left some series ve
 ---
 
 ## Vampire: The Masquerade® - Bloodlines™ 2 by The Chinese Room
-***Largest audiences**: ~61% English, ~19% Russian*
 
 ```condensedgamecard
 {
@@ -87,7 +83,6 @@ There are also quite a few reviews mentioning technical issues, bugs and perform
 ---
 
 ## MISERY by Platypus Entertainment
-***Largest audiences**: ~45% English, ~30% Russian*
 
 ```condensedgamecard
 {
@@ -145,25 +140,9 @@ They had a [demo during Steam Next Fest](https://niklasnotes.com/dashboard/game/
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-### Other Significant Releases
-
-* [Jurassic World Evolution 3](https://niklasnotes.com/dashboard/game/209385/jurassic_world_evolution_3) - *(Base Building. City Builder. Open World)*
-* [Slots & Daggers](https://niklasnotes.com/dashboard/game/219215/slots_daggers) - *(Card Battler. Deckbuilding. Roguelite) *
-* [Politics The Game](https://niklasnotes.com/dashboard/game/160816/politics_the_game) - *(Choose Your Own Adventure. Political Sim. Turn-Based Strategy)*
-* [VEIN](https://niklasnotes.com/dashboard/game/76872/vein) - *(Base Building. Open World. Third-Person Shooter)*
-* [Super Fantasy Kingdom](https://niklasnotes.com/dashboard/game/114187/super_fantasy_kingdom) - *(4X. City Builder. Grand Strategy)*
-* [PowerWash Simulator 2](https://niklasnotes.com/dashboard/game/188256/powerwash_simulator_2) - *(Immersive Sim. Sandbox. Simulation)*
-* [Plants vs. Zombies™: Replanted](https://niklasnotes.com/dashboard/game/220163/plants_vs_zombiestm_replanted) - *(Minigames. Strategy. Tower Defense)*
-* [Species: Unknown](https://niklasnotes.com/dashboard/game/56773/species_unknown) - *(Action. Psychological Horror. Sci-fi)*
-* [Once Upon A KATAMARI](https://niklasnotes.com/dashboard/game/220248/once_upon_a_katamari) - *(Action. Adventure. Casual)*
-* [GOD FORSAKEN](https://niklasnotes.com/dashboard/game/54259/god_forsaken) - *(Strategy. Hack and Slash. Action Roguelike)*
-* [World of Sea Battle](https://niklasnotes.com/dashboard/game/169968/world_of_sea_battle) - *(3D Platformer. MMORPG. Open World)*
-* [Refate: Echoes of Desire](https://niklasnotes.com/dashboard/game/228010/refate_echoes_of_desire) - *(Action-Adventure. Immersive Sim. Interactive Fiction)*
-* [Crown and Adventure](https://niklasnotes.com/dashboard/game/126528/crown_and_adventure) - *(Grand Strategy. Real Time Tactics. Tactical RPG)*
-* [GODBREAKERS](https://niklasnotes.com/dashboard/game/219806/godbreakers) - *(Character Action Game. Hack and Slash. Spectacle fighter)*
-* [Tormented Souls 2](https://niklasnotes.com/dashboard/game/153985/tormented_souls_2) - *(Third-Person Shooter. Psychological Shooter. Puzzle)*
-* [Painkiller](https://niklasnotes.com/dashboard/game/194060/painkiller) - *(Action. FPS. Boomer Shooter)*
-* [The Jackbox Party Pack 11](https://niklasnotes.com/dashboard/game/212608/the_jackbox_party_pack_11) - *(Casual. Party Game. Strategy)*
+```minigamecardlist
+["209385", "219215", "160816", "76872", "114187", "188256", "220163", "56773", "220248", "54259", "169968", "228010", "126528", "219806", "153985", "194060", "212608"]
+```
 
 ---
 

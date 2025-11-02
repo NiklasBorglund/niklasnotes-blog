@@ -17,7 +17,6 @@ Let's dive in!
 ---
 
 ## METAL GEAR SOLID Δ: SNAKE EATER by KONAMI
-***Largest audiences**: ~63% English, ~8% Russian, ~5% Spanish*
 
 ```condensedgamecard
 {
@@ -38,7 +37,6 @@ Generally very positive across all the audience, but with an anomaly with the Si
 ---
 
 ## Gears of War: Reloaded by The Coalition
-***Largest audiences**: ~78% English, ~5% Russian*
 
 ```condensedgamecard
 {
@@ -59,7 +57,6 @@ My guess is that they will fix this eventually, but we'll just have to wait and 
 ---
 
 ## Whisper of the House by 元气弹工作室(GD Studio)
-***Largest audiences**: ~57% Chinese (Simplified), ~32% English*
 
 ```condensedgamecard
 {
@@ -76,7 +73,6 @@ However, some players feel the game lacks sufficient content, leading to concern
 ---
 
 ## STORY OF SEASONS: Grand Bazaar by Marvelous Inc.
-***Largest audiences**: ~38% English, ~37% Chinese (Simplified), ~9% Chinese (Traditional), ~6% Japanese*
 
 ```condensedgamecard
 {
@@ -93,7 +89,6 @@ However, technical issues frustrate some, with crashes and performance problems 
 ---
 
 ## SHINOBI: Art of Vengeance by SEGA & Lizardcube
-***Largest audiences**: ~46% Chinese (Simplified), ~33% English*
 
 ```condensedgamecard
 {
@@ -123,11 +118,9 @@ The jumping mechanics appear to be the dividing factor, where the Simplified Chi
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-* [Garten of Banban 8: Anti Devil](https://niklasnotes.com/dashboard/game/162899/garten_of_banban_8_anti_devil) - *(Action-Adventure. Survival Horror. Walking Simulator)*
-* [SUPER ROBOT WARS Y](https://niklasnotes.com/dashboard/game/196101/super_robot_wars_y) - *(JRPG. Tactical RPG. Turn-Based Strategy)*
-* [Dungeon Warfare 3](https://niklasnotes.com/dashboard/game/182321/dungeon_warfare_3) - *(Tower Defense. Real Time Tactics. Base Building)*
-* [DAVY x JONES](https://niklasnotes.com/dashboard/game/206838/davy_x_jones) - *(Action RPG, FPS, Open World)*
-* [The Knightling](https://niklasnotes.com/dashboard/game/12996/the_knightling) - *(3D Platformer, Hack and Slash, Open World)*
+```minigamecardlist
+["162899", "196101", "182321", "206838", "12996"]
+```
 
 ---
 

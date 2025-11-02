@@ -14,7 +14,6 @@ We’ve got a packed week: a PS5 port that people love on Steam, a Five Nights a
 Dune: Awakening technically launched this week - but since I already covered it in last week’s post, I won’t repeat myself. You can find that write-up [HERE](https://niklasnotes.com/dashboard/blog/weekly-notes-2025-06-02).
 
 ## Stellar Blade™ by SHIFT UP Corporation
-***Largest audiences**: ~46% Chinese(Simplified), ~27% English, ~8% Korean*
 
 ```condensedgamecard
 {
@@ -30,7 +29,6 @@ Criticism is minor: some mention sluggish movement, technical issues, and mixed 
 ---
 
 ## Five Nights at Freddy's: Secret of the Mimic by Steel Wool Studios
-***Largest audiences**: ~69% English, ~10% Russian*
 
 ```condensedgamecard
 {
@@ -45,7 +43,6 @@ Players appreciate the gameplay variety, visuals, and overall atmosphere. Bugs, 
 ---
 
 ## The Alters by 11 bit studios
-***Largest audiences**: ~33% English, ~28% Chinese (Simplified), ~15% Russian*
 
 ```condensedgamecard
 {
@@ -60,7 +57,6 @@ Players are responding well to the story, gameplay concept and is generally very
 ---
 
 ## MindsEye by Build A Rocket Boy
-***Largest audiences**: ~52% English, ~16% Chinese (Simplified), ~6% Portuguese (Brazil)*
 
 ```condensedgamecard
 {
@@ -77,7 +73,6 @@ Among the positives we see that players like the engaging story, and it's potent
 ---
 
 ## Heroes of Valor by Fancy Cat Interactive
-***Largest audiences**: ~64% English, ~11% German, ~5% Polish*
 
 ```condensedgamecard
 {
@@ -108,10 +103,9 @@ They seem to have had some server issues, but the early reception is very positi
 
 Here are some games and demos that were on the top but didn't get its own section in the weekly notes.
 
-* [Ertugrul of Ulukayin](https://niklasnotes.com/dashboard/game/98716/ertugrul_of_ulukayin) - *(Open World. Action-Adventure. Exploration)*
-* [Big Winner](https://niklasnotes.com/dashboard/game/185662/big_winner) - *(Card Battler. Strategy RPG. Deckbuilding)*
-* [School 666](https://niklasnotes.com/dashboard/game/179633/school_666) - *(Psychological Horror. Action-Adventure. Exploration)*
-* [Kanade](https://niklasnotes.com/dashboard/game/194094/kanade) - *(Visual Novel. Sci-fi. Drama)*
+```minigamecardlist
+["98716", "185662", "179633", "194094"]
+```
 
 ---
 

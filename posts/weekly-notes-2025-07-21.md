@@ -15,7 +15,6 @@ WUCHANG: Fallen Feathers and Killing Floor 3 both struggled with performance pro
 ---
 
 ## WUCHANG: Fallen Feathers by Leenzee
-***Largest audiences**: ~89% Chinese(Simplified), ~6% English*
 
 ```condensedgamecard
 {
@@ -37,7 +36,6 @@ It’s safe to say the backlash runs deeper than just frame drops.
 ---
 
 ## Killing Floor 3 by Tripwire Interactive
-***Largest audiences**: ~53% English, ~15% Russian, ~11% Chinese(Simplified)*
 
 ```condensedgamecard
 {
@@ -58,7 +56,6 @@ I've seen this pattern a lot now. If you're targeting the Chinese audience, perf
 ---
 
 ## The King is Watching by Hypnohead
-***Largest audiences**: ~44% Chinese(Simplified), ~33% English, ~8% Russian*
 
 ```condensedgamecard
 {
@@ -75,7 +72,6 @@ Main complaints center on the lack of a save feature (ouch for a ~13-hour game) 
 ---
 
 ## Mage Arena by jrsjams
-***Largest audiences**: ~78% English, ~6% Russian*
 
 ```condensedgamecard
 {
@@ -92,7 +88,6 @@ At 3 hours estimated playtime, it seems to be more of a "try this wild thing" ex
 ---
 
 ## Wildgate by Moonshot Games
-***Largest audiences**: ~83% English*
 
 ```condensedgamecard
 {
@@ -109,7 +104,6 @@ The problems are classic multiplayer growing pains: microtransactions frustrate 
 ---
 
 ## s.p.l.i.t by Mike Klubnika
-***Largest audiences**: ~76% English, ~15% Russian*
 
 ```condensedgamecard
 {
@@ -139,14 +133,9 @@ The main complaints center on length and confusion. At around 1.5 hours, many pl
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. 
 
-* [WolfQuest: Classic](https://niklasnotes.com/dashboard/game/118988/wolfquest_classic) - *(Education. Hunting. Life Sim)*
-* [Hell Clock](https://niklasnotes.com/dashboard/game/33495/hell_clock) - *(Hack and Slash. Looter Shooter. Mystery Dungeon)*
-* [Grimshire](https://niklasnotes.com/dashboard/game/20850/grimshire) - *(Farming Sim. Resource Management. Agriculture)*
-* [Abiotic Factor - Supporter's Pack](https://niklasnotes.com/dashboard/game/218753/abiotic_factor_supporter_s_pack) - *(Action. Adventure. RPG)*
-* [Monument Valley 3](https://niklasnotes.com/dashboard/game/196050/monument_valley_3) - *(3D Platformer. Point & Click. Puzzle)*
-* [The Great Villainess: Strategy of Lily](https://niklasnotes.com/dashboard/game/58951/the_great_villainess_strategy_of_lily) - *(Grand Strategy. Tactical RPG. Auto Battler)*
-* [Wheel World](https://niklasnotes.com/dashboard/game/1625/wheel_world) - *(Cycling. Racing. Open World)*
-* [Let Them Trade](https://niklasnotes.com/dashboard/game/84073/let_them_trade) - *(City Builder. Board Game. Base Building)*
+```minigamecardlist
+["118988", "33495", "20850", "218753", "196050", "58951", "1625", "84073"]
+```
 
 ---
 

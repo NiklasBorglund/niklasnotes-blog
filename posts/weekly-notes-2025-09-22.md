@@ -15,7 +15,6 @@ Let's dive in to this week's releases!
 ---
 
 ## Sonic Racing: CrossWorlds by Sonic Team
-***Largest audiences**: ~76% English*
 
 ```condensedgamecard
 {
@@ -37,7 +36,6 @@ Is this the result of very directed marketing? Or something else.
 ---
 
 ## SILENT HILL f by NeoBard Entertainment Ltd.
-***Largest audiences**: ~51% English, ~11% Chinese (Simplified), ~11% Russian*
 
 ```condensedgamecard
 {
@@ -54,7 +52,6 @@ Second to that comes with a complaint about a lack of identity. Many players sim
 ---
 
 ## CloverPit by Panik Arcade
-***Largest audiences**: ~57% English, ~12% Russian, ~5% Korean*
 
 ```condensedgamecard
 {
@@ -73,7 +70,6 @@ Some feel the gameplay becomes repetitive over time, with limited variety.
 ---
 
 ## EA SPORTS FC™ 26 by EA Canada
-***Largest audiences**: ~33% English, ~9% Turkish, ~8% Spanish, ~8% Portuguese (Brazil)*
 
 ```condensedgamecard
 {
@@ -90,7 +86,6 @@ Many feel the game lacks value for its price, with Career Mode remaining largely
 ---
 
 ## ENDLESS™ Legend 2 by AMPLITUDE Studios
-***Largest audiences**: ~54% English, ~12% Russian, ~10% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -142,14 +137,9 @@ It's Early Access, so expect the usual suspects: bugs, UI issues. The absence of
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-### Other Significant Releases
-
-* [导演，请多多指教](https://niklasnotes.com/dashboard/game/220082/%E5%AF%BC%E6%BC%94_%E8%AF%B7%E5%A4%9A%E5%A4%9A%E6%8C%87%E6%95%99) - *(Choose Your Own Adventure. Immersive Sim. Interactive Fiction)*. A chinese only choose your own adventure game. These games seems to have been going quite well in this market lately.
-* [Touhou Makuka Sai ~ Fantastic Danmaku Festival Part III](https://niklasnotes.com/dashboard/game/85817/touhou_makuka_sai_fantastic_danmaku_festival_part_iii) - *(Bullet Hell. Otome. Top-Down Shooter)*
-* [Aethermancer](https://niklasnotes.com/dashboard/game/64246/aethermancer) - *(Creature Collector. Dungeon Crawler. Party-Based RPG)*
-* [Baby Steps](https://niklasnotes.com/dashboard/game/50052/baby_steps) - *(Walking Simulator. Psychological Horror. Exploration)*. Takes the genre "Walking Simulator" quite literally!
-* [PAC-MAN WORLD 2 Re-PAC](https://niklasnotes.com/dashboard/game/220200/pac_man_world_2_re_pac) - *(3D Platformer. Action. Action-Adventure)*
-* [Dead by Daylight - Sinister Grace](https://niklasnotes.com/dashboard/game/232601/dead_by_daylight_sinister_grace) - *(Action. Strategy. Survival Horror)*
+```minigamecardlist
+["220082", "85817", "64246", "50052", "220200", "232601"]
+```
 
 ---
 

@@ -15,7 +15,6 @@ Performance issues continue to plague major releases, but the smaller titles pro
 ---
 
 ## Mafia: The Old Country by Hangar 13
-***Largest audiences**: ~43% English, ~14% Russian, ~9% Chinese (Simplified)*
 
 ```condensedgamecard
 {
@@ -34,7 +33,6 @@ The Chinese audience shows that familiar pattern - 55% positive compared to ~70%
 ---
 
 ## GUNTOUCHABLES by Game Swing
-***Largest audiences**: ~37% English, ~25% Chinese (Simplified), ~17% Russian*
 
 ```condensedgamecard
 {
@@ -51,7 +49,6 @@ The main complaints center on multiplayer issues (bugs and inability to rejoin g
 ---
 
 ## Is This Seat Taken? by Poti Poti Studio
-***Largest audiences**: ~69% English, ~6% Chinese (Simplified), ~6% French*
 
 ```condensedgamecard
 {
@@ -68,7 +65,6 @@ This feels like a perfect example of managing expectations well as we've seen ex
 ---
 
 ## A Few Quick Matches by Studio Bidou
-***Largest audiences**: ~90% English*
 
 ```condensedgamecard
 {
@@ -85,7 +81,6 @@ The main complaints center on clunky mechanics, limited content at launch, and i
 ---
 
 ## Heretic + Hexen by id Software & Nightdive Studios
-***Largest audiences**: ~75% English, ~5% Spanish, ~5% Portuguese (Brazil)*
 
 ```condensedgamecard
 {
@@ -111,17 +106,9 @@ Save system issues in multiplayer and some visual rendering problems that affect
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes. 
 
-* [Tiny Bookshop](https://niklasnotes.com/dashboard/game/72753/tiny_bookshop) - *(Life Sim. Collectathon. Resource Management)*
-* [Öoo](https://niklasnotes.com/dashboard/game/171647/%C3%B6oo) - *(Metroidvania. Puzzle Platformer. Exploration)*
-* [Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2](https://niklasnotes.com/dashboard/game/186552/demon_slayer_kimetsu_no_yaiba_the_hinokami_chronicles_2) - *(Adventure. Ninja. Spectacle fighter)*
-* [Artis Impact](https://niklasnotes.com/dashboard/game/7502/artis_impact) - *(Choose Your Own Adventure. JRPG. Turn-Based Strategy)*
-* [Castle Crashers - Painter Boss Paradise](https://niklasnotes.com/dashboard/game/170808/castle_crashers_painter_boss_paradise) - *(Beat 'em up. Hack and Slash. RPG)*
-* [Gemporium: A Cute Mining Sim](https://niklasnotes.com/dashboard/game/175556/gemporium_a_cute_mining_sim) - *(Shop Keeper. Job Simulator. Minigames)*
-* [Fate/hollow ataraxia REMASTERED](https://niklasnotes.com/dashboard/game/220285/fate_hollow_ataraxia_remastered) - *(Choose Your Own Adventure. Point & Click. Visual Novel)*
-* [Static Dread: The Lighthouse](https://niklasnotes.com/dashboard/game/147441/static_dread_the_lighthouse) - *(Life Sim. Survival Horror. Visual Novel)*
-* [ERA ONE](https://niklasnotes.com/dashboard/game/139259/era_one) - *(Action RTS. Real Time Tactics. Base Building)*
-* [The RPG](https://niklasnotes.com/dashboard/game/9573/the_rpg) - *(Open World, Exploration, RPG)*
-* [Strange Jigsaws](https://niklasnotes.com/dashboard/game/65693/strange_jigsaws) - *(Adventure. Casual. Puzzle)*
+```minigamecardlist
+["72753", "171647", "186552", "7502", "170808", "175556", "220285", "147441", "139259", "9573", "65693"]
+```
 
 ---
 

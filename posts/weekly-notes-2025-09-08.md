@@ -18,7 +18,6 @@ Let's explore this week's releases!
 ---
 
 ## Borderlands 4 by Gearbox Software
-***Largest audiences**: ~73% English, ~9% Chinese (Simplified), ~5% Spanish*
 
 ```condensedgamecard
 {
@@ -40,7 +39,6 @@ It will be interesting to follow this game more going ahead.
 ---
 
 ## Road To Empress by New One Studio
-***Largest audiences**: ~90% Chinese (Simplified), ~4% Chinese (Traditional)*
 
 ```condensedgamecard
 {
@@ -58,7 +56,6 @@ The biggest criticisms are that they feel that many of the choices often lead to
 ---
 
 ## Shape of Dreams by Lizard Smoothie
-***Largest audiences**: ~42% Chinese (Simplified), ~30% English, ~11% Korean*
 
 ```condensedgamecard
 {
@@ -75,7 +72,6 @@ However, the grindy progression system frustrates many players, with some findin
 ---
 
 ## Keep Digging by Wild Dog
-***Largest audiences**: ~35% English, ~23% Japanese, ~18% Chinese (Traditional)*
 
 ```condensedgamecard
 {
@@ -92,7 +88,6 @@ The most frequent frustrations are with the game length and performance issues. 
 ---
 
 ## Firefighting Simulator: Ignite by weltenbauer. Software Entwicklung GmbH
-***Largest audiences**: ~43% English, ~28% German, ~8% French*
 
 ```condensedgamecard
 {
@@ -117,13 +112,9 @@ However, AI behavior frustrates many players, often leading to poor performance 
 
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
-* [Star Birds](https://niklasnotes.com/dashboard/game/170999/star_birds) - *(Base Building. City Builder. Collectathon)*
-* [Kingdom Come: Deliverance II Legacy of the Forge](https://niklasnotes.com/dashboard/game/225618/kingdom_come_deliverance_ii_legacy_of_the_forge) - *(Action-Adventure. Open World. RPG)*
-* [Trainatic](https://niklasnotes.com/dashboard/game/166886/trainatic) - *(Clicker. Idler. Management)*
-* [Chrono Gear: Warden of Time](https://niklasnotes.com/dashboard/game/166860/chrono_gear_warden_of_time) - *(2D Platformer. Metroidvania. Side Scroller)*
-* [Dungeons of Eternity](https://niklasnotes.com/dashboard/game/21040/dungeons_of_eternity) - *(Action RPG. Dungeon Crawler. Hack and Slash)*
-* [Dead Reset](https://niklasnotes.com/dashboard/game/161407/dead_reset) - *(Choose Your Own Adventure. Interactive Fiction. Point & Click)*
-* [Machick 2](https://niklasnotes.com/dashboard/game/64646/machick_2) - *(Action Roguelike. Bullet Hell. Roguelite)*
+```minigamecardlist
+["170999", "225618", "166886", "166860", "21040", "161407", "64646"]
+```
 
 ---
 
