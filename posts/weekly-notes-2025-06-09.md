@@ -113,19 +113,9 @@ Here are some games and demos that were on the top but didn't get its own sectio
 
 My system picked up some of the Demos from Next fest. So I checked the steam store over which was marked popular - thought I'd list them here!
 
-* [Dispatch](https://niklasnotes.com/dashboard/game/207843/dispatch_demo) - *(Choose Your Own Adventure. Point & Click. Strategy)*
-* [Eriksholm: The Stolen Dream](https://niklasnotes.com/dashboard/game/209635/eriksholm_the_stolen_dream_demo) - *(Action-Adventure, Story-Rich, Exploration)*
-* [Wildgate](https://niklasnotes.com/dashboard/game/205794/wildgate_open_beta) - *(Extraction Shooter, FPS, Space Sim)*
-* [Jump Ship](https://niklasnotes.com/dashboard/game/206668/jump_ship_demo) - *(Action Roguelike, FPS, Sci-fi)*
-* [Vindictus: Defying Fate](https://niklasnotes.com/dashboard/game/205743/vindictus_defying_fate_demo) - *(Hack and Slash, Open World, Souls-like)*
-* [Dead as Disco](https://niklasnotes.com/dashboard/game/206992/dead_as_disco_demo) - *(Character Action Game, Rhythm, Spectacle fighter)*
-* [BALL x PIT](https://niklasnotes.com/dashboard/game/209335/ball_x_pit_demo) - *(Action Roguelike, Bullet Hell, Base Building)*
-* [PIONER](https://niklasnotes.com/dashboard/game/209828/pioner_demo) - *(MMORPG, Open World, FPS)*
-* [Backseat Drivers](https://niklasnotes.com/dashboard/game/198391/backseat_drivers_free_test_drive) - *(Psychological Horror, Racing, Simulation)*
-* [Ratatan](https://niklasnotes.com/dashboard/game/205709/ratatan_demo) - *(Rhythm, Roguelite, Traditional Roguelike)*
-* [Neon Abyss 2](https://niklasnotes.com/dashboard/game/206794/neon_abyss_2_demo) - *(2D Platformer, Bullet Hell, Traditional Roguelike)*
-* [Cast n Chill](https://niklasnotes.com/dashboard/game/202998/cast_n_chill_demo) - *(Creature Collector, Idler, Simulation)*
-* [Town To City](https://niklasnotes.com/dashboard/game/207488/town_to_city_demo) - *(City Builder, Simulation, Strategy)*
+```minigamecardlist
+["207843", "209635", "205794", "206668", "205743", "206992", "209335", "209828", "198391", "205709", "206794", "202998", "207488"]
+```
 
 ---
 
