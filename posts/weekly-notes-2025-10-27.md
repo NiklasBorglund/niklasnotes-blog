@@ -1,14 +1,18 @@
 ﻿---
-title: "Weekly Notes (Oct 27 – Nov 02): TODO!"
+title: "Weekly Notes (Oct 27 – Nov 02): ARC Raiders launch becomes a mega hit, Outer Worlds 2 Arrives"
 slug: "weekly-notes-2025-10-27"
-date: "2025-11-05"
+date: "2025-11-06"
 category: "Weekly Notes"
-description: "TODO!!"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends"]
-image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-10-20/hero.jpg"
+description: "ARC Raiders from Stockholm reaches 300k daily users. The Outer Worlds 2 launches at 79% with improved companions. Battlefield REDSEC's Battle Royale pivot struggles. Plus: Master of Command, Escape Simulator 2, and CK3's Asia expansion"
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "ARC Raiders", "The Outer Worlds 2", "Battlefield REDSEC", "Master of Command", "Escape Simulator 2", "Crusader Kings III", "Swedish Game Dev", "Embark Studios", "Obsidian Entertainment", "Early Access Graduates", "Steam Analysis", "Game Industry"]
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-10-27/hero.jpg"
 ---
 
-TODO!!
+I'm lucky to be working as a game developer in Sweden, because it continues its hot streak with ARC Raiders hitting 300k concurrent daily users. So many hits coming from here lately, and it's exciting!
+
+The Outer Worlds 2 launched this week with improved companion interactions, while Battlefield's free-to-play Battle Royale experiment struggles below 50%. Master of Command surprised with over 90% positive reviews.
+
+Let's dive in!
 
 ---
 
@@ -20,8 +24,13 @@ TODO!!
 }
 ```
 
-TODO!
-https://niklasnotes.com/dashboard/game/86681/arc_raiders
+Players praise the visuals and audio quality, with the AI enemy design adding depth to gameplay.
+The forced PvP elements frustrate many players though - they came for PvE but feel pushed into unwanted PvP encounters. 
+However, many reviews specifically write about the nice interactions and moments they have with other players as a positive note.
+
+For some, Looting mechanics feel tedious and unrewarding, leading to frustration.
+
+All in all, another mega hit from Sweden. ARC Raiders got a great start with having consistently about 300k concurrent daily users.
 
 ---
 
@@ -33,8 +42,12 @@ https://niklasnotes.com/dashboard/game/86681/arc_raiders
 }
 ```
 
-TODO!
-https://niklasnotes.com/dashboard/game/41485/the_outer_worlds_2
+Obsidian's sequel to [The Outer Worlds](https://niklasnotes.com/dashboard/game/158834/the_outer_worlds) is the other big release this week. 
+
+Players appreciate the companion interactions and their depth - which is seen as a great improvement. However, the story and writing quality in general receive mixed feedback - some find it lacking compared to the first game.
+Combat mechanics receive mixed feedback, with some finding them simplistic and lacking depth. The world design feels expansive but often empty according to reviews.
+
+The game shows improvement in some areas while lacking in others, which might explain the "Mostly Positive" instead of "Very Positive" rating.
 
 ---
 
@@ -46,8 +59,13 @@ https://niklasnotes.com/dashboard/game/41485/the_outer_worlds_2
 }
 ```
 
-TODO!
-https://niklasnotes.com/dashboard/game/239217/battlefieldtm_redsec
+A free-to-play Battle Royale entry in the Battlefield franchise that's not landing well. At below 50% positive, players are frustrated with the forced Battle Royale integration, feeling that it's not true to the core Battlefield experience.
+
+The game reportedly has some technical issues with bugs, glitches, and poor hit registration. The Battle Pass challenges that require participating in the game mode frustrate players who don't enjoy that.
+
+The community response is heavily divided. Some defend the game while others express strong dissatisfaction with the Battle Royale focus.
+
+Looking at the audience split, we can see that the Portuguese (Brazil) players are more positive than pretty much everyone else at 73% positive. Server quality differences by region, perhaps?
 
 ---
 
@@ -59,8 +77,15 @@ https://niklasnotes.com/dashboard/game/239217/battlefieldtm_redsec
 }
 ```
 
-TODO!
-https://niklasnotes.com/dashboard/game/143592/master_of_command
+A real-time tactical strategy game set during the Seven Years' War that launches with over 90 percent positive.
+Players praise the extensive unit customization options and the engaging gameplay mechanics. 
+
+The historical context and details are appreciated, though some feel it lacks depth when played. The art style is well liked. 
+Many players mention the game's high replayability due to its roguelike elements and procedural generation.
+
+However, performance issues affect some players during large-scale battles. The campaign structure feels linear and lacking depth according to some reviews.
+
+Seems like the game offers a solid tactical experience that resonates well with history buffs and strategy fans.
 
 ---
 
@@ -72,8 +97,11 @@ https://niklasnotes.com/dashboard/game/143592/master_of_command
 }
 ```
 
-TODO!
-https://niklasnotes.com/dashboard/game/849/escape_simulator_2
+I actually just started playing [the first Escape Simulator](https://niklasnotes.com/dashboard/game/64345/escape_simulator) the other day with a friend, and now it's time for my wishlist to grow yet again with this game.
+
+Players praise the intricate and challenging puzzles. The graphical improvements are significant compared to the first game, with larger and more immersive room designs.
+
+Focusing a lot on UGC is also something noted as positive by many. However, multiplayer issues frustrate some players with bugs and desynchronization problems.
 
 ---
 
@@ -85,21 +113,25 @@ https://niklasnotes.com/dashboard/game/849/escape_simulator_2
 }
 ```
 
-TODO!
-https://niklasnotes.com/dashboard/game/188000/crusader_kings_iii_all_under_heaven
+Paradox's major Asia-focused expansion for CK3 launches at Mostly Positive. Players appreciate the new government mechanics, which many feels adds depth.
+
+The visual improvements and cultural representation of Asian nations are well-received, though some find historical inaccuracies in the representation.
+Isolating to only chinese reviews, the historical inaccuracy complaints is at the top - so I suspect that is also why Chinese players rate it much lower compared to English players.
+
+The gameplay mechanics are seen as overly complex or confusing by some as well as the feeling of lack of content after a few initial runs.
 
 ---
 
 
 ## ⚔️ Early Access Graduates
 
-* [ScootX](https://niklasnotes.com/dashboard/game/213207/scootx) - TODO!!
+* [ScootX](https://niklasnotes.com/dashboard/game/213207/scootx) - A physics-driven scooter simulation game. Players love the realistic physics and the developer engagement with the community. Some have concerns about input delay from controllers and technical issues in the form of bugs and crashes. 
 ```condensedgamecard
 {
 "gameId": "213207"
 }
 ```
-* [Lost Lullabies: The Orphanage Chronicles](https://niklasnotes.com/dashboard/game/182467/lost_lullabies_the_orphanage_chronicles) - TODO!!
+* [Lost Lullabies: The Orphanage Chronicles](https://niklasnotes.com/dashboard/game/182467/lost_lullabies_the_orphanage_chronicles) - A co-op horror game. Players love the atmosphere and how enjoyable the experience is playing with friends. They like the ghost hunting and puzzle solving mechanics. Players dislike the steep learning curve and lackluster tutorials, as well as it often gets compared negatively to [Phasmophobia](https://niklasnotes.com/dashboard/game/2864/phasmophobia) in reviews
 ```condensedgamecard
 {
 "gameId": "182467"
