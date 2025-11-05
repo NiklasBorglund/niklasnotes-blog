@@ -113,7 +113,7 @@ https://niklasnotes.com/dashboard/game/188000/crusader_kings_iii_all_under_heave
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
 ```minigamecardlist
-["177932", "163003", "16755", "151720", "239219", "135740", "133621", "5824", "103529", "208951", "84077", "48727", "2246670", "97455", "239042"]
+["177932", "163003", "16755", "151720", "239219", "135740", "133621", "5824", "103529", "208951", "84077", "48727", "2246670", "97455", "239042", "52971"]
 ```
 
 ---
