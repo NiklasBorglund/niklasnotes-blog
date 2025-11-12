@@ -148,7 +148,7 @@ The top complaints revolve around monetization as it often is around F2P-titles.
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
 ```minigamecardlist
-["93049", "227837", "183411", "162565", "5539", "237649", "95026", "182377", "201927", "174198", "174198", "205490", "175598", "220434", "240217", "54950", "67894", "30362"]
+["93049", "227837", "183411", "162565", "5539", "237649", "95026", "182377", "201927", "174198", "205490", "175598", "220434", "240217", "54950", "67894", "30362"]
 ```
 
 ---
