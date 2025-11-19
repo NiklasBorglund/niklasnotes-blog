@@ -20,7 +20,12 @@ TODO!!
 }
 ```
 
-https://niklasnotes.com/dashboard/game/197637/where_winds_meet
+An open-world action RPG set in tenth-century China. Players praise the stunning visuals and beautiful environments that bring the historical setting to life.
+
+The combat mechanics receive strong praise for being engaging and enjoyable, though some mention minor control issues. Exploration stands out as a highlight, with players appreciating the world design and environmental variety.
+
+However, localization problems significantly hurt the experience. Particularly the lack of Russian and Brazilian Portuguese language support, both which are currently in the top 3 audiences looking at the audience breakdown.
+The time-gating mechanics frustrate players who feel restricted in character progression and many also feel like the co-op features are limited.
 
 ---
 
@@ -32,7 +37,14 @@ https://niklasnotes.com/dashboard/game/197637/where_winds_meet
 }
 ```
 
-https://niklasnotes.com/dashboard/game/50650/anno_117_pax_romana
+The latest Anno entry moves the series to the Roman Empire. Players appreciate the core gameplay mechanics, including city-building and management features that feel engaging.
+
+Players love the graphics - and I have to say I agree. It looks amazing.
+
+However, the Ubisoft Connect launcher frustrates many players who see it as unnecessary when already purchasing it through steam. Performance issues including FPS drops and optimization problems are widely mentioned.
+
+The campaign structure itself disappoints with a feeling of it being incomplete. 
+Also, AI-generated artwork draws significant criticism from some players. They feel like it's not worthy of a premium priced game.
 
 ---
 
