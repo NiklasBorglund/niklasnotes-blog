@@ -1,14 +1,17 @@
 ﻿---
-title: "Weekly Notes (Nov 10 – Nov 16): TODO!!"
+title: "Weekly Notes (Nov 10 – Nov 16): Tarkov's Troubled Steam Debut & A Week of Mixed Launches"
 slug: "weekly-notes-2025-11-10"
 date: "2025-11-19"
 category: "Weekly Notes"
-description: "TODO!!"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends"]
+description: "Escape from Tarkov stumbles onto Steam at 31% positive. Call of Duty: Black Ops 7 faces campaign criticism. Where Winds Meet impresses visually. Plus: Anno 117, Inazuma Eleven nostalgia, and Rue Valley's Disco Elysium vibes."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Escape from Tarkov", "Call of Duty Black Ops 7", "Where Winds Meet", "Anno 117 Pax Romana", "Inazuma Eleven", "Rue Valley", "Kingdom Come Deliverance", "Early Access Graduates", "Battlestate Games", "Ubisoft"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-11-10/hero.jpg"
 ---
 
-TODO!!
+Escape from Tarkov's long-awaited Steam launch hit severe technical problems, while Call of Duty struggles with campaign design choices. 
+Where Winds Meet brings beautiful tenth-century China, and Anno 117 impresses visually.
+
+Let's dive in!
 
 ---
 
@@ -55,8 +58,12 @@ Also, AI-generated artwork draws significant criticism from some players. They f
 "gameId": "51093"
 }
 ```
+A football-themed RPG where nostalgia drives much of the positive sentiment. Players appreciate [returning to the series](https://en.wikipedia.org/wiki/Inazuma_Eleven) with fond memories of previous games and the anime.
+The story mode receives praise for engaging characters and well-developed plotlines. Players enjoy the Chronicle Mode, which lets them relive stories from previous games in the series.
 
-https://niklasnotes.com/dashboard/game/51093/inazuma_eleven_victory_road
+The gacha system is appreciated for allowing character unlocking and at the same time being free - it doesn't cost anything to use apparently.
+
+However, technical issues including bugs and matchmaking problems affect the gameplay experience. UI/UX problems frustrate players, particularly around team management and equipment changes.
 
 ---
 
@@ -68,7 +75,13 @@ https://niklasnotes.com/dashboard/game/51093/inazuma_eleven_victory_road
 }
 ```
 
-https://niklasnotes.com/dashboard/adult/game/230942/escape_from_tarkov
+Escape from Tarkov finally released on steam with their 1.0 release. Despite technical issues, some players find the gameplay experience rewarding and addictive, highlighting its unique mechanics.
+
+However, the launch has been severely problematic. Server overload issues prevent many players from logging in, especially during the launch period. Account creation problems due to server maintenance and login issues block access to the game.
+
+Performance issues including low FPS and crashes affect the gameplay experience. Cheating and unfair gameplay mechanics frustrate players and impact their overall experience.
+
+Launching at only 31% positive, it will be interesting to see if they can bounce back from this.
 
 ---
 
@@ -80,7 +93,12 @@ https://niklasnotes.com/dashboard/adult/game/230942/escape_from_tarkov
 }
 ```
 
-https://niklasnotes.com/dashboard/game/209908/call_of_duty_black_ops_7
+The latest Black Ops entry launches with mixed reviews.  The campaign design draws heavy criticism for lacking checkpoints, requiring online play, and having a co-op only structure that detracts from the single-player experience.
+Multiplayer experiences suffer reportedly from poor matchmaking, server issues, and unbalanced gameplay.
+
+The Zombies mode gets mixed feedback - some enjoy the content while others find it lacking compared to previous games, citing changes that detract from the experience they are used to in CoD.
+
+Many players feel the game is overpriced for the content provided (at 79.99 euro).
 
 ---
 
@@ -92,7 +110,12 @@ https://niklasnotes.com/dashboard/game/209908/call_of_duty_black_ops_7
 }
 ```
 
-https://niklasnotes.com/dashboard/game/76959/rue_valley
+A time-loop RPG published by [Owlcat Games](https://niklasnotes.com/dashboard/search?query=developer:Owlcat%20Games). Players are highly engaged with the narrative depth and intricate storytelling, often comparing it to [Disco Elysium](https://niklasnotes.com/dashboard/game/138583/disco_elysium_the_final_cut).
+Gameplay mechanics, particularly the time loop and exploration elements, are well-received.
+
+Voice acting quality gets mixed feedback - as well as some players experience technical issues. The character personality system receives criticism for its simplicity and lack of depth.
+
+Personally I'm intrigued, even though it got mixed reviews. Playing Disco Elysium a few years ago left me wanting more - so this one is going on my wishlist.
 
 ---
 
@@ -104,14 +127,17 @@ https://niklasnotes.com/dashboard/game/76959/rue_valley
 }
 ```
 
-https://niklasnotes.com/dashboard/game/238274/kingdom_come_deliverance_ii_mysteria_ecclesiae
+The third and final story DLC for Kingdom Come: Deliverance II. Some players appreciate the atmospheric design and graphics of the new monastery location.
+
+However, the DLC faces significant criticism. Many feel it's too short, lacking substantial content and depth for a paid expansion. The forced stealth mechanics frustrate players who find them tedious and poorly implemented.
+The storyline receives complaints for being predictable and lacking engaging twists.
 
 ---
 
 
 ## Early Access Graduates
 
-* [Salt 2: Shores of Gold](https://niklasnotes.com/dashboard/game/82907/salt_2_shores_of_gold) - TODO!
+* [Salt 2: Shores of Gold](https://niklasnotes.com/dashboard/game/82907/salt_2_shores_of_gold) - An open world pirate game. Players love exploring island and the many quests you can discover along with the crafting and looting system. Players dislike the lack of a ship combat feature, which many would expect from a pirate game. Some players also report technical and performance issues that causes crashes and freezing during gameplay.
 ```condensedgamecard
 {
 "gameId": "82907"
