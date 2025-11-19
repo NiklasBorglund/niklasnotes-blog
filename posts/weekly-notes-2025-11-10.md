@@ -151,7 +151,7 @@ The storyline receives complaints for being predictable and lacking engaging twi
 Here are some games or DLCs that were on the top but didn't get its own section in the weekly notes.
 
 ```minigamecardlist
-["237297", "238728", "218643", "202396", "241430", "143404", "187988", "227217, "220311", "184348", "209037", "225546", "157284", "213842", "238648", "241226"]
+["237297", "238728", "218643", "202396", "241430", "143404", "187988", "227217", "220311", "184348", "209037", "225546", "157284", "213842", "238648", "241226"]
 ```
 
 ---
