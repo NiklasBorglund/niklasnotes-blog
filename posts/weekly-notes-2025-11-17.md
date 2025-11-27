@@ -29,7 +29,7 @@ Players love the visual and aesthetic design of the new stages, along with creat
 
 The new Operator character is the standout addition - praised for fluid gameplay and unique abilities.
 
-However, another character, Drifter, divides opinion - some find it underwhelming due ![img.png](img.png)to its reliance on gimmicks. 
+However, another character, Drifter, divides opinion - some find it underwhelming due to its reliance on gimmicks. 
 Some technical issues affect multiplayer in particular.
 
 In general, a highly successful DLC. Granted, it's a popular base game, but over 2k reviews for a DLC is quite uncommon from the numbers I've seen.
