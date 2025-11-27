@@ -113,7 +113,7 @@ Since the chinese reviews had such a big difference compared to the global posit
 
 They seem to have similar complaints as other audiences, but we also see complaints about the localization. So there might be a combination of issues here.
 
-![Monsters are Coming Chinese Anomaly](./isolated-chinese-reviews-analysis.png)
+![Monsters are Coming Chinese Anomaly](https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-11-17/isolated-chinese-reviews-analysis.png)
 
 ---
 
