@@ -24,7 +24,7 @@ Let's dive in!
 }
 ```
 
-Not that common for a DLC to be at the very top of the list, but the new DLC for Risk of Rain 2 launched with Overwhelmingly Positive reviews. 
+Not that common for a DLC to be among the top of the list, but the new DLC for Risk of Rain 2 launched with Overwhelmingly Positive reviews. 
 Players love the visual and aesthetic design of the new stages, along with creative new items and boss designs. The soundtrack also receives high marks for quality and atmosphere.
 
 The new Operator character is the standout addition - praised for fluid gameplay and unique abilities.
