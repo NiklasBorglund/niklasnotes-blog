@@ -1,14 +1,16 @@
 ﻿---
-title: "Weekly Notes (Nov 24 – Nov 30): TODO"
+title: "Weekly Notes (Nov 24 – Nov 30): Mount & Blade Gets Naval Warfare & Solo Leveling Arrives on Steam"
 slug: "weekly-notes-2025-11-24"
-date: "2025-12-03"
+date: "2025-12-04"
 category: "Weekly Notes"
-description: "TODO::"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends"]
+description: "Mount & Blade II: Bannerlord's long-awaited first DLC introduces naval warfare. Solo Leveling: ARISE OVERDRIVE brings the popular Korean web novel series to Steam. Plus: BLACK SOULS II, Of Ash and Steel, Constance, and more."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Mount & Blade Bannerlord", "Solo Leveling", "BLACK SOULS II", "Project Motor Racing", "Of Ash and Steel", "Constance", "TaleWorlds", "Netmarble", "Giants Software", "DLC"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-11-24/hero.jpg"
 ---
 
-TODO
+Mount & Blade II: Bannerlord fans finally get their hands on naval warfare with the game's first DLC. Solo Leveling: ARISE OVERDRIVE brings the beloved Korean web novel series to Steam.
+
+Let's dive in!
 
 ---
 
@@ -19,16 +21,14 @@ TODO
 "gameId": "154913"
 }
 ```
-TODO!!
-https://niklasnotes.com/dashboard/game/154913/solo_leveling_arise_overdrive
 
-Random blurb:
-A multiplayer action RPG based on the popular Solo Leveling series. Players appreciate the combat mechanics - fluid and engaging - along with the graphics quality and visual presentation.
-The story adaptation receives praise from fans of the original Solo Leveling story, and players appreciate the character progression system for its depth and variety. The removal of gacha mechanics from the mobile version is welcomed, favoring a more straightforward gameplay experience.
-However, the always-online requirement frustrates players who want to play solo, as it requires a constant internet connection and impacts the single-player experience.
-Co-op experience has significant issues including bugs and lack of functionality. Performance issues with lag and FPS drops during gameplay are widely reported. The loot and crafting system draws criticism for excessive grinding, and the user interface gets complaints for lag and confusing menus.
-The story and narrative quality is criticized for feeling rushed and lacking depth compared to the source material.
-Korean and Chinese players show notably different sentiment patterns compared to the global audience.
+A multiplayer action RPG based on the korean web novel series [Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling).
+Players appreciate the combat mechanics along with the graphics quality and visual presentation.
+
+The story adaptation receives praise from fans, and players appreciate the character progression system for its depth and variety. 
+However, the biggest complaint is the always-online requirement that frustrates players who want to play solo. The Co-op experience also gets significant criticism in the reviews.
+
+Korean and Chinese players gives the game notably lower rating compared to the global audience
 
 ---
 
@@ -39,13 +39,11 @@ Korean and Chinese players show notably different sentiment patterns compared to
 "gameId": "194035"
 }
 ```
-TODO::
-https://niklasnotes.com/dashboard/game/194035/mount_blade_ii_bannerlord_war_sails
 
-Random Blurb:
-An expansion for Mount & Blade II: Bannerlord that introduces naval warfare, letting players command fleets and engage in sea battles while exploring a new Viking-inspired faction.
-However, the DLC launches at 53% Mixed reviews. Technical issues with bugs, crashes, and performance problems are widely reported. Naval combat mechanics receive criticism for both potential and execution issues.
-Players debate the value of the DLC compared to its cost and content. Tutorial experience frustrates players who report bugs and poor design. Gameplay balance issues arise around factions and mechanics.
+After waiting for a long time, fans finally get to lay their hands on the first DLC of [Mount & Blade II: Bannerlord](https://niklasnotes.com/dashboard/game/120340/mount_blade_ii_bannerlord). The DLC introduces naval warfare and commanding fleets.
+However, the DLC launches only at 53% Mixed reviews. The overwhelming critique is regarding technical issues with bugs, crashes, and performance problems.
+
+Players debate the value of the DLC compared to its cost and content, but a lot of players seems to see the potential in it with hopes that the bugs and issues will be ironed out over time.
 
 
 ---
@@ -57,14 +55,13 @@ Players debate the value of the DLC compared to its cost and content. Tutorial e
 "gameId": "44206"
 }
 ```
-TODO::
-https://niklasnotes.com/dashboard/game/44206/of_ash_and_steel
 
-blurbiblurb:
-An action RPG set in a dark fantasy world published by tinyBuild. Players appreciate the exploration aspect and the design of the game world. The game offers a substantial amount of content and playtime. Some note the perceived value in relation to its price.
-However, the game launches at 62% Mixed. Quest progression issues are the top complaint - players frequently encounter broken quests and unclear directions. Technical bugs including crashes and graphical glitches are widely reported. Graphics quality receives criticism for being outdated and poorly executed.
-Combat mechanics get mixed feedback, with players citing both challenges and frustrations. Controller support issues significantly affect gameplay experience for those using controllers.
-Chinese and Polish players show notably different sentiment patterns compared to the global audience.
+An action RPG set in a dark fantasy world published by [tinyBuild](https://niklasnotes.com/dashboard/search?query=publisher:tinyBuild). 
+Marketed as an "RPG created by a passionate team that values the essence of classic old-school RPGs and modern design" on the store page - which I do personally like the sound of.
+
+The game launched with Mixed reviews though. Quest progression issues are the top complaint with frequent encounters with broken quests and unclear directions. Second largest complaint is about technical issues including crashes and graphical glitches.
+
+However, players appreciate the exploration aspect and the design of the game world. The game offers a substantial amount of content and playtime, which is generally very appreciated.
 
 
 ---
@@ -77,15 +74,12 @@ Chinese and Polish players show notably different sentiment patterns compared to
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/202361/project_motor_racing
+A racing simulation game [from the makers of Farming Simulator](https://niklasnotes.com/dashboard/search?query=developer:Giants%20Software) that launched with an incredibly low rating of only ~30% positive.
 
-blurb of data:
-A racing simulation from the makers of Farming Simulator. Some players see potential in the game despite its current issues, expressing hope for future improvements.
-However, the game launches at just 30% Mostly Negative. AI behavior issues are the top complaint - AI lacks awareness and often behaves erratically, leading to frustrating racing experiences. Graphics quality receives heavy criticism for being subpar, with unfavorable comparisons to other racing titles.
-Force feedback issues make the driving experience inconsistent or lacking altogether. Performance stability problems including crashes, lag, and poor optimization affect gameplay. Game optimization concerns lead to poor performance on various systems.
-Career mode disappoints for lacking depth and engagement. Menu navigation is cumbersome and poorly designed. False advertising complaints suggest the game was misrepresented in marketing.
-Day 1 DLC presence frustrates players who feel it detracts from the game's value.
+AI behavior issues are the top complaint. Reportedly, the AI lacks awareness and often behaves erratically, leading to a lot of frustration. Graphics quality receives heavy criticism for being not nearly as good compared to other racing titles.
+Force feedback issues make the driving experience inconsistent. In general, it seems like players complain about game feel, which I would think is vitally important in a game like this.
+Performance stability problems including crashes, lag, and poor optimization affect gameplay also seem to be a major complaint.
+
 
 ---
 
@@ -97,16 +91,14 @@ Day 1 DLC presence frustrates players who feel it detracts from the game's value
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/225120/black_souls_ii
+A dark fantasy RPG inspired by Alice in Wonderland. The second game in the series started only earlier this year with [BLACK SOULS](https://niklasnotes.com/dashboard/game/210086/black_souls).
 
-data blurb for inspiration:
-A dark fantasy RPG inspired by Alice in Wonderland that mixes psychological horror with cute characters. Players engage in tactical turn-based combat while exploring a mad world.
-Launching at 98% Overwhelmingly Positive, players express a strong desire to find the character Alice throughout the game, indicating her significance in the narrative. The intricate story and world-building receive frequent praise for depth and emotional impact.
-Character development is appreciated, particularly the emotional connections to characters like Mabel and Alice. The emotional weight of the narrative and character arcs often leaves players feeling deeply affected. Visual and audio design receive positive comments for quality.
-Gameplay mechanics including the SEN system and turn-based combat show improvements over the first game.
-However, the game requires a patch to access full content, which several reviews mention as a significant issue with the initial release. Some technical issues including bugs and gameplay difficulties are reported. Dark themes and content draw mixed reactions - some find it compelling while others criticize it.
+Impressive to release a second game (and have both games selling well!), just a couple of months after each other. I assume the tools & the workflow is quite optimized.
 
+In this game players engage in tactical turn-based combat while exploring a mad world. They express a strong desire to find Alice throughout the game. The intricate story and world-building receive frequent praise for depth and emotional impact.
+Character development is appreciated, particularly the emotional connections to characters.
+
+However, the game seems to require a patch to access full content, which several reviews mention as a significant issue with the initial release
 
 ---
 
@@ -118,15 +110,15 @@ However, the game requires a patch to access full content, which several reviews
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/91777/constance
+A hand-drawn 2D action-adventure metroidvania. Players consistently praise the beautiful art style and animation quality. Players report that game feel in movement and combat are smooth, enjoyable, and rewarding.
 
-Data blurb:
-A hand-drawn 2D action-adventure metroidvania featuring a female protagonist who uses paint-based mechanics to navigate a colorful world. Published by ByteRockers' Games and PARCO GAMES.
-Players consistently praise the beautiful art style and animation quality, noting its visual appeal and creativity. Gameplay mechanics including movement and combat are smooth, enjoyable, and rewarding. The emotional impact resonates with players through themes of personal struggle and emotional depth. The soundtrack enhances the overall experience.
-However, game length and content disappoint many - reviews express that it's short with a perceived lack of content, suggesting it could benefit from more areas and challenges. Exploration and map design get mixed feedback - some find it enjoyable while others feel it lacks depth and guidance.
-Character design receives mixed feelings, particularly regarding the mute protagonist and the narrative connection. The healing system frustrates players who find it limited and punishing, impacting gameplay experience.
-Chinese players show notably different sentiment patterns compared to the global audience.
+Game length and content disappoint many. This site estimates the playtime to be around 9 hours. 
+It's a complex issue, but often when I see criticism about game length I wonder if that could have been prevented with just obviously stating it on the store page - to really manage expectations. 
+Because I guess most players expect a certain game length when it comes to this genre. (e.g. [Hollow Knight: Silksong](https://niklasnotes.com/dashboard/game/39445/hollow_knight_silksong) seems to take around 40 hours to complete)
+
+Anyway, exploration and map design also get mixed feedback - some find it enjoyable while others feel it lacks depth and guidance.
+
+But the emotional impact resonates with players through themes of personal struggle and emotional depth along with a soundtrack that enhances the overall experience.
 
 ---
 
