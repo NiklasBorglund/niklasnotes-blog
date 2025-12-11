@@ -8,7 +8,7 @@ tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Guild Wars", "ELDEN RI
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-12-01/hero.jpg"
 ---
 
-Guild Wars Reforged brings back the classic MMORPG with strong nostalgia at 89% Very Positive. ELDEN RING NIGHTREIGN's new DLC disappoints at 46% Mixed with map design complaints. ROUTINE and Dungeon Rampage impress with 91% and 94% respectively.
+Guild Wars Reforged brings back the classic MMORPG with strong nostalgia. ELDEN RING NIGHTREIGN's new DLC disappoints with map design complaints. ROUTINE and Dungeon Rampage impress with as high scores as 91% and 94% respectively.
 
 Let's have a look!
 
