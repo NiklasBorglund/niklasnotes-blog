@@ -129,4 +129,4 @@ Since it's a new month - I thought I'd also share the entire list of the top rel
 
 Let me know what caught your eye this week — always curious what others are playing.
 
-Thanks for reading! If you enjoyed this, feel free to share it — or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!
+Thanks for reading! If you enjoyed this, feel free to share it — or get your hands on the advanced, visual search, timeline (and other features) by [upgrading your account to a PRO membership](https://niklasnotes.com/dashboard/upgrade).!

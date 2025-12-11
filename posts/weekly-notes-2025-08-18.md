@@ -149,4 +149,4 @@ I will keep writing and updating these weekly blog posts, fixing small bugs & ad
 And that's it! Thank you for reading!
 
 Stay tuned! 
-If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or get your hands on the advanced & visual search (and other features) by supporting me on Patreon.
+If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or get your hands on the advanced, visual search, timeline (and other features) by [upgrading your account to a PRO membership](https://niklasnotes.com/dashboard/upgrade).
