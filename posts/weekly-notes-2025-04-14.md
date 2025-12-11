@@ -74,4 +74,4 @@ It’s rare to see a DLC top the charts like this, but *Last Epoch* fans are all
 
 ---
 
-Thanks for reading! If you enjoyed this, feel free to share it — or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!
+Thanks for reading! If you enjoyed this, feel free to share it — or get your hands on the advanced, visual search, timeline (and other features) by [upgrading your account to a PRO membership](https://niklasnotes.com/dashboard/upgrade).

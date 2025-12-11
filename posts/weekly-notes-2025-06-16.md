@@ -140,4 +140,4 @@ Here are some games and demos that were on the top but didn't get its own sectio
 ---
 
 Thanks for reading!
-If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or [support me on Patreon](https://niklasnotes.com/dashboard/support) to help make this site sustainable and unlock exclusive features!
+If you enjoyed this, feel free to share it with someone who you think it'd bring value to - or get your hands on the advanced, visual search, timeline (and other features) by [upgrading your account to a PRO membership](https://niklasnotes.com/dashboard/upgrade).
