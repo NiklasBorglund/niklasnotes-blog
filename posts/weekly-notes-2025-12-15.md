@@ -18,7 +18,7 @@ Let's check it out!
 
 ```condensedgamecard
 {
-"gameId": "231597"
+"gameId": "181388"
 }
 ```
 
@@ -36,7 +36,7 @@ A rough launch, but the majority of issues seems to be around bugs - so hopefull
 
 ```condensedgamecard
 {
-"gameId": "231597"
+"gameId": "213188"
 }
 ```
 
@@ -74,7 +74,7 @@ However, despite the issues players appreciate the unique gameplay mechanics, ar
 * [Swordhaven: Iron Conspiracy](https://niklasnotes.com/dashboard/game/130576/swordhaven_iron_conspiracy) - A fantasy CRPG. Players love the exploration rewards, the variety in quests and the complexity in the dialogue and characters. They also love the effort in translating the game to simplified chinese. Some express mixed feelings about the combat system and map design. A number of reviews also mention technical issues.
 ```condensedgamecard
 {
-"gameId": "53872"
+"gameId": "130576"
 }
 ```
 
