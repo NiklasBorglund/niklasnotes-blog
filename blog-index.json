@@ -349,5 +349,14 @@
     "description": "A quiet Christmas week on Steam. PIONER launches in Early Access with server issues. A Game About Feeding A Black Hole brings dopamine-heavy incremental gameplay. Raiders of Blackveil faces always-online criticism. Plus: Mon Bazou and Swordhaven graduate Early Access.",
     "tags": ["Weekly Notes", "Steam Releases", "Steam Trends", "PIONER", "A Game About Feeding A Black Hole", "Raiders of Blackveil", "Mon Bazou", "Swordhaven", "Early Access Graduates", "Christmas Week"],
     "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-12-15/hero.jpg"
+  },
+  {
+    "title": "Weekly Notes (Dec 22 – Dec 28): Year in Review & What's Next for Niklas Notes",
+    "slug": "weekly-notes-2025-12-22",
+    "date": "2025-12-30",
+    "category": "Weekly Notes",
+    "description": "The quietest week of 2025 becomes a look back at what's been built. New recommendation system, developer analytics, OAuth login, Stripe payments, review timeline improvements, and thoughts about the future",
+    "tags": ["Weekly Notes", "Steam Releases", "Steam Trends", "Year in Review", "Product Updates", "Recommendation System", "Developer Analytics", "Game Discovery", "OAuth", "Stripe", "Review Timeline", "2025 Recap", "Roadmap 2026"],
+    "image": "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-12-22/hero.png"
   }
 ]
