@@ -17,7 +17,7 @@ I'll be going through a bit what's been done since the site was released, and wh
 
 ## "More Like This" Recommendation System
 
-The "More like this" on Steam is not very good and this is my latest release on the website.
+The "More like this" on Steam is not very good. So I decided to make a better one - and this is my latest release on the website.
 
 #### What this will unlock
 
