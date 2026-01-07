@@ -294,6 +294,30 @@ Doesn't always work, but this time I assume that they are very happy about that!
 
 ---
 
+## Closing Thoughts
+
+My main takeaway and question after going through this is - Did Sweden win the Steam Awards 2025?
+
+4 of the winners were developed in Sweden:
+
+- The Midnight Walk
+- PEAK
+- ARC Raiders
+- RV There Yet?
+
+And out of the nominees we had quite a few as well:
+
+- Helldivers 2
+- Split Fiction
+- R.E.P.O
+- Battlefield 6
+- Europa Universalis V (At least published, Paradox Tinto seems to be Spanish based. But it's Paradox - so I'll count it)
+- Blue Prince (Published by Raw Fury)
+
+So yeah, I guess Sweden won! ;)
+
+---
+
 ## Full List: Top Releases for Dec 29 - Jan 04 (2026)
 
 ```customlist
@@ -317,26 +341,6 @@ Since it's a new month, here's the full list for all the top games in December
 ```
 
 ---
-
-My main takeaway and question after going through this is - Did Sweden win the Steam Awards 2025?
-
-4 of the winners were developed in Sweden:
-
-- The Midnight Walk
-- PEAK
-- ARC Raiders
-- RV There Yet?
-
-And out of the nominees we had quite a few as well:
-
-- Helldivers 2
-- Split Fiction
-- R.E.P.O
-- Battlefield 6
-- Europa Universalis V (At least published, Paradox Tinto seems to be Spanish based. But it's Paradox - so I'll count it)
-- Blue Prince (Published by Raw Fury)
-
-So yeah, I guess Sweden won! ;)
 
 See you next week!
 
