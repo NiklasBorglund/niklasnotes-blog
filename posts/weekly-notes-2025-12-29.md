@@ -5,7 +5,7 @@ date: "2026-01-07"
 category: "Weekly Notes"
 description: "The 2025 Steam Awards results are in. Hollow Knight: Silksong wins GOTY, but the real story? Sweden took home 4 out of 11 awards. Full breakdown of all winners, nominees, and what the data shows."
 tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Steam Awards", "Steam Awards 2025", "Hollow Knight Silksong", "Swedish Game Industry", "PEAK", "ARC Raiders", "The Midnight Walk", "RV There Yet", "Baldur's Gate 3", "Hades II"]
-image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-12-29/hero.png"
+image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2025-12-29/hero.jpg"
 ---
 
 Another slow week because of holiday, winter sale and new year season. But the Steam Awards just concluded, so I thought we could check those out instead.
