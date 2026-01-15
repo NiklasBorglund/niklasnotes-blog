@@ -34,6 +34,7 @@ Green Hell got a review spike with thousands of new reviews.
 And with solid cross promotion strategy, StarRupture got a nice 4k amount of reviews the first week.
 
 Players appreciate the core gameplay mechanics, particularly the factory building and automation aspects. Graphics and visual performance receive praise, with many finding it visually appealing. However, Early Access concerns dominate the criticism. Many reviews highlight bugs, incomplete features, and the expectation that significant work remains.
+
 The Simplified Chinese audience shows notably lower sentiment at 51% Mixed compared to 84-93% in other regions. I did a quick custom report, and it doesn't seem to be localization issues - but more the same issues but judged more harshly.
 
 ---
