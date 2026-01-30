@@ -1,14 +1,16 @@
 ---
-title: "Weekly Notes (Jan 19 – Jan 25): TODO"
+title: "Weekly Notes (Jan 19 – Jan 25): Metroidvania Beauty Meets Early Access Growing Pains"
 slug: "weekly-notes-2026-01-19"
-date: "2026-01-22"
+date: "2026-01-30"
 category: "Weekly Notes"
-description: "TODO::"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends"]
+description: "MIO's gorgeous art style impresses in metroidvania format. LORT's solo balance issues frustrate. Duel Corp needs polish. Duet Night Abyss removes gacha for gear. Cult of the Lamb: Woolhaven DLC hits 92%."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "MIO Memories in Orbit", "LORT", "Duel Corp", "Duet Night Abyss", "Cult of the Lamb", "Woolhaven", "Douze Dixièmes", "Big Distraction", "Dreameffect Entertainment", "Pan Studio", "Massive Monster", "Devolver Digital", "Early Access", "Metroidvania", "DLC", "Eldegarde", "Dwarves Glory Death and Loot", "Solargene"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2026-01-19/hero.jpg"
 ---
 
-TODO!!
+A week where visual polish meets mechanical roughness. MIO: Memories in Orbit brings stunning art but divisive health mechanics. LORT shows multiplayer promise despite solo balance struggles. Multiple Early Access launches reveal the challenge of shipping unfinished games, while Cult of the Lamb's Woolhaven DLC demonstrates how polished content still wins with 92% positive reviews.
+
+Let's dive in!
 
 ---
 
@@ -58,21 +60,13 @@ Launched in Early Access, so hopefully these balancing issues will be ironed out
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/134132/duel_corp
+A Souls-inspired action RPG in Early Access set in a sandbox open world with MMO elements. Looks like they use a similar aesthetic like [Octopath Traveler](https://niklasnotes.com/dashboard/game/47394/octopath_travelertm), but with full 3d instead of the use of billboards.
 
-datadump:
-A Souls-inspired action RPG in Early Access set in a sandbox open world with MMO elements. Players explore a non-linear story while customizing their characters and classes, engaging solo or with friends.
+Some players appreciate the unique art style and visuals, noting the aesthetic. Technical issues dominate the criticism along with players reporting that the combat mechanics are frustrating due to reliance on parrying and directional attacks.
 
-Some players appreciate the unique art style and visuals, noting the aesthetic.
+The grindy nature of progression draws heavy criticism. NPC interactions frustrate players due to aggressive responses and bugs that disrupt. 
 
-However, technical issues dominate the criticism - players report numerous bugs and glitches affecting gameplay, including issues with NPC interactions and combat mechanics. Combat mechanics are challenging and often frustrating due to reliance on parrying and directional attacks.
-
-The grindy nature of progression draws heavy criticism, with players citing lack of meaningful progression leading to frustration. NPC interactions frustrate players due to aggressive responses and bugs that disrupt questing. Early Access state is apparent - many express that the game feels unfinished and requires further development and polishing.
-
-Difficulty balance frustrates players, particularly with boss encounters and enemy scaling. The loot system is criticized for being uninteresting and lacking unique items. Multiplayer experience receives mixed feelings, with some finding it cluttered and distracting. The class system disappoints players who feel it lacks uniqueness and depth.
-
-At ~11 hours estimated playthrough, there's content but the execution needs work.
+This is also launched in Early Access, which is apparent - and many express that the game feels unfinished and requires further development and polishing.
 
 ---
 
@@ -84,20 +78,13 @@ At ~11 hours estimated playthrough, there's content but the execution needs work
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/228140/duet_night_abyss
+A free-to-play co-op action RPG where you control two protagonists navigating a fantasy world filled with demons and conspiracies.
 
-datadump:
-A free-to-play action RPG where you control two protagonists navigating a fantasy world filled with demons and conspiracies. Players can switch between melee and ranged weapons while crafting their character loadouts.
+Players appreciate the removal of gacha mechanics for characters and weapons, allowing for direct acquisition through gameplay. If I read the reviews correctly, they've used gacha mechanics for the cosmetics instead.
 
-Interesting note: 100% of purchases are from outside Steam, suggesting this is a mobile port or has a primary platform elsewhere.
+This game has been out on mobile, their own launcher and on the epic games store since october 2025 before it reached Steam now. So a lot of players already have played it for a while before switching to steam.
 
-Players appreciate the removal of gacha mechanics for characters and weapons, allowing for direct acquisition through gameplay. Community engagement is noted positively - developers are responsive to feedback and making ongoing improvements. Character designs are generally appreciated for their attractiveness and uniqueness. The storyline is often praised for its depth and engagement.
-
-However, repetitive gameplay frustrates many players - the grinding nature of gameplay is a major complaint. Technical issues are reported, including bugs, login problems, and performance concerns. Gameplay mechanics receive mixed feelings, noting both enjoyment and repetitiveness. Monetization strategy draws mixed reactions, particularly regarding character purchases. Character balance concerns emerge, with some characters appearing underperforming.
-
-At ~12 hours estimated playthrough, it offers decent content for a free-to-play game.
-
+The grinding nature of gameplay is a major complaint. Technical issues are reported, including bugs, login problems, and performance concerns. Gameplay mechanics receive mixed feelings, noting both enjoyment and repetitiveness.
 
 ---
 
@@ -109,15 +96,14 @@ At ~12 hours estimated playthrough, it offers decent content for a free-to-play 
 }
 ```
 
-TODO!!
-https://niklasnotes.com/dashboard/game/225554/cult_of_the_lamb_woolhaven
+A DLC for [Cult of the Lamb](https://niklasnotes.com/dashboard/game/125545/cult_of_the_lamb) published by [Devolver Digital](https://niklasnotes.com/dashboard/publisher/Devolver%20Digital). 
+In Woolhaven, players face new challenges including harsh winter conditions and uncovering the forgotten history of lambkind. DLCs generally get lower review counts, and it launches with an impressive 92% Very Positive from ~700 reviews.
 
-datadump:
-A DLC for [Cult of the Lamb](https://niklasnotes.com/dashboard/game/30426/cult_of_the_lamb) published by Devolver Digital. In Woolhaven, players face new challenges including harsh winter conditions and uncovering the forgotten history of lambkind. The DLC launches with an impressive 92% Very Positive from 689 reviews.
+Players appreciate the extensive new content and features added, enhancing the overall gameplay experience. 
+New mechanics like ranching and winter survival elements are well-received. The art style and music in the DLC receive high praise. 
+Many note the DLC adds significant replayability and extends gameplay time, making it worthwhile. Cult management mechanics are appreciated, with new depth added including rituals and follower interactions.
 
-Players appreciate the extensive new content and features added in the Woolhaven DLC, enhancing the overall gameplay experience. New mechanics like ranching and winter survival elements are well-received. The art style and music in the DLC receive high praise, contributing to the overall atmosphere. Many note the DLC adds significant replayability and extends gameplay time, making it worthwhile. Cult management mechanics are appreciated, with new depth added including rituals and follower interactions.
-
-Difficulty and challenge are noted - the increased difficulty is found enjoyable by some while frustrating to others. Community engagement is appreciated, with developers addressing issues. However, technical bugs and crashes are reported, affecting the overall experience. Some balance concerns emerge regarding difficulty and mechanics, particularly in combat.
+Community engagement is appreciated, with developers addressing issues. However, technical bugs and crashes are reported, affecting the overall experience. Some balance concerns emerge regarding difficulty and mechanics, particularly in combat.
 
 A strong DLC reception for an already popular game.
 
