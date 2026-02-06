@@ -8,8 +8,12 @@ tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Highguard", "Half Swor
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2026-01-26/hero.jpg"
 ---
 
-A week where expectations collided with reality. Highguard stumbled out of The Game Awards with performance issues. Half Sword's 95% playtest turned into a 57% launch as changes disappointed players. 
-Meanwhile, Cairn proved you can manage hype properly with 94% positive. CODE VEIN II joined the performance issues club. A recurring theme: technical execution struggling to match ambitious launches.
+Last week was filled with unfulfilled expectations.
+
+Players wanted another brilliant team shooter with Highguard (from Apex/Titanfall/CoD veterans), but technical problems and maps too large for 3v3 let them down.
+
+Half Sword racked up 1.6 million wishlists with their demo, then disappointed players with combat changes and technical issues at launch.
+Meanwhile, Cairn launched to 94% positive by delivering exactly what players expected.
 
 Let's dive in!
 
