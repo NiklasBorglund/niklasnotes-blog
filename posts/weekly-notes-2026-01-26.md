@@ -1,14 +1,17 @@
 ---
-title: "Weekly Notes (Jan 26 – Feb 01): TODO"
+title: "Weekly Notes (Jan 26 – Feb 01): When Expectations Meet Reality"
 slug: "weekly-notes-2026-01-26"
-date: "2026-02-04"
+date: "2026-02-06"
 category: "Weekly Notes"
-description: "TODO::"
-tags: ["Weekly Notes", "Steam Releases", "Steam Trends"]
+description: "Highguard's rocky launch from industry veterans. Half Sword's demo promises clash with release reality. Cairn shows how to manage expectations right. CODE VEIN II struggles as a sequel. A week highlighting the gap between pre-launch hype and technical delivery."
+tags: ["Weekly Notes", "Steam Releases", "Steam Trends", "Highguard", "Half Sword", "Cairn", "CODE VEIN II", "Millennium Dream", "Wildlight Entertainment", "Half Sword Games", "The Game Bakers", "BANDAI NAMCO Studios", "LucidDreamLab", "Demo", "Early Access", "Performance Issues", "Game Awards", "Project Gorgon", "Occupy Mars", "Folklore Hunter", "Bogos Binted"]
 image: "https://media.githubusercontent.com/media/NiklasBorglund/niklasnotes-blog/main/posts/weekly-notes-2026-01-26/hero.jpg"
 ---
 
-TODO!!
+A week where expectations collided with reality. Highguard stumbled out of The Game Awards with performance issues. Half Sword's 95% playtest turned into a 57% launch as changes disappointed players. 
+Meanwhile, Cairn proved you can manage hype properly with 94% positive. CODE VEIN II joined the performance issues club. A recurring theme: technical execution struggling to match ambitious launches.
+
+Let's dive in!
 
 ---
 
@@ -27,7 +30,7 @@ Made by industry veterans who worked on titles like Apex Legends, Titanfall and 
 Players appreciate the unique gameplay loop that combines looting and combat phases, though opinions vary. 
 Game optimization issues dominate the criticism though - unfortunately not uncommon with big profile releases.
 
-Another thing is the 3v3 game mode. Many that the maps are too large to just have 3v3 - but I noticed that the developers are actively listening to feedback and just released [a 5v5 mode](https://store.steampowered.com/news/app/4128260?emclan=103582791475413365&emgid=538877446766724427).
+Another thing is the 3v3 game mode. Many feel that the maps are too large to just have 3v3 - but I noticed that the developers are actively listening to feedback and just released [a 5v5 mode](https://store.steampowered.com/news/app/4128260?emclan=103582791475413365&emgid=538877446766724427).
 
 ---
 
@@ -48,7 +51,7 @@ Players noted changes in weapon handling and overall combat feel as well as game
 
 Performance optimization issues is also highly mentioned in the criticism - many report severe performance problems, leading to low frame rates and stuttering.
 
-Players do express hope for future improvements and acknowledge the developers' efforts to address issues. And it is an early access game, so let's hope they will iron these issues out over time.
+Players do express hope for future improvements and acknowledge the developers' efforts to address issues. And it is an early access game, so let's hope they will fix these issues over time.
 
 ---
 
@@ -93,19 +96,19 @@ A follow-up that struggles to meet expectations set by its predecessor.
 
 ## Early Access Graduates
 
-* [Project: Gorgon](https://niklasnotes.com/dashboard/game/113276/project_gorgon) - TODO
+* [Project: Gorgon](https://niklasnotes.com/dashboard/game/113276/project_gorgon) - A 3D fantasy MMORPG. Players appreciate the unique gameplay mechanics, the character customization options and the crafting system. The recent leveling system changes got some critique lately which is showing up in the reviews. Some reviews also mention the communication from the developers as a negative point.
 ```condensedgamecard
 {
 "gameId": "113276"
 }
 ```
-* [Occupy Mars: The Game](https://niklasnotes.com/dashboard/game/140499/occupy_mars_the_game) - TODO
+* [Occupy Mars: The Game](https://niklasnotes.com/dashboard/game/140499/occupy_mars_the_game) - An open-world sandbox survival game about colonizing Mars. Players like the sandbox mode that is available in the game, highlighting its exploration mode. Biggest criticisms are bugs and technical issues and that the gameplay mechanics feel a bit clunky and unintuitive.
 ```condensedgamecard
 {
 "gameId": "140499"
 }
 ```
-* [Folklore Hunter](https://niklasnotes.com/dashboard/game/26520/folklore_hunter) - A multiplayer horror game. Players love the scary atmosphere and many reviews state that its highly enjoyable playing with friends. Lost of players think it has great potential, but that it doesn't quite reach the goal just yet in terms of content, game feel and the amount of bugs still in the game.  
+* [Folklore Hunter](https://niklasnotes.com/dashboard/game/26520/folklore_hunter) - A multiplayer horror game. Players love the scary atmosphere and many reviews state that its highly enjoyable playing with friends. Lots of players think it has great potential, but that it doesn't quite reach the goal just yet in terms of content, game feel and the amount of bugs still in the game.  
 ```condensedgamecard
 {
 "gameId": "26520"
