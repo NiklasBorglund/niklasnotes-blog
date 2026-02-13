@@ -47,7 +47,7 @@ The praise is mostly about gameplay and overall presentation - players also appr
 
 The criticism is more about systems friction: balancing comes up a lot, AI behavior gets called out repeatedly, and the supply system seems to create more frustration than intended.
 
-It seems like the game has a solid foundation, and sits exactly where you want to be in terms of criticism for an Early Access game. The core holds up, and balancing and technical issues can be ironed out over time.
+It seems like the game has a solid foundation for an Early Access launch. The core holds up, and balancing and technical issues can be ironed out over time. The core holds up, and balancing and technical issues can be ironed out over time.
 
 
 ---
@@ -78,9 +78,9 @@ There’s also some frustration around limited customization and replayability.
 }
 ```
 
-PUBG Corporation's first game after the ever popular [PUBG: BATTLEGROUNDS](https://niklasnotes.com/dashboard/game/72698/pubg_battlegrounds).
+PUBG Corporation's first game after the massive [PUBG: BATTLEGROUNDS](https://niklasnotes.com/dashboard/game/72698/pubg_battlegrounds).
 
-It is a top-down shooter game that got luke warm reception with Mixed reviews at the time of writing. 
+It is a top-down shooter game that got a lukewarm reception with Mixed reviews at the time of writing. 
 I imagine there are some sky-high expectations to be met from the already existing player base even though this is a completely different game.
 
 The top-down format and teamwork-heavy design are the main positives, especially for players looking for something more tactical than a standard run-and-gun shooter.
