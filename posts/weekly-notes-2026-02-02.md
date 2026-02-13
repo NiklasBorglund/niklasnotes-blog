@@ -20,7 +20,12 @@ TODO!!
 }
 ```
 
-TODO:: https://niklasnotes.com/dashboard/game/208851/nioh_3
+Nioh 3 is certainly the top release this week. It got a strong start with very positive reviews. 
+The combat is getting a lot of praise, and the customization side seems to land well too. Players can feel that the core formula is still doing its job.
+
+Most of the criticism is around polish. 
+Performance is the biggest recurring complaint, with visual quality and difficulty tuning also showing up a lot. 
+There are also some frustrations around AI/enemy behavior and parts of the loot experience, but those are secondary compared to the technical issues reported.
 
 ---
 
@@ -34,6 +39,15 @@ TODO:: https://niklasnotes.com/dashboard/game/208851/nioh_3
 
 TODO:: https://niklasnotes.com/dashboard/game/37689/menace
 
+MENACE is a turn-based tactical RPG from the same developers that created [Battle Brothers](https://niklasnotes.com/dashboard/game/66233/battle_brothers) and published by Hooded Horse.
+
+The game is TODO!!
+
+The praise is mostly about gameplay and overall presentation. The criticism is more about systems friction: balancing comes up a lot, AI behavior gets called out repeatedly, and the supply system seems to create more frustration than intended. UI and customization are mentioned too, but less often.
+
+So the read right now is pretty straightforward: solid foundation, but still in that Early Access phase where tuning decisions will decide how far it goes.
+
+
 ---
 
 ## YAP YAP by BAP HQ & Maison Bap
@@ -45,6 +59,12 @@ TODO:: https://niklasnotes.com/dashboard/game/37689/menace
 ```
 
 TODO:: https://niklasnotes.com/dashboard/game/217986/yapyap
+
+YAP YAP is getting a pretty warm reception overall, mostly because the style is distinct and the core idea feels fresh. Players seem to like the vibe, the visual direction, and parts of the multiplayer/community experience.
+
+Where it starts to wobble is in long-session friction. Repetition shows up often in reviews, and technical issues (including crashes) are a recurring pain point. There’s also some frustration around limited customization and replayability.
+
+So this looks like a game people want to stick with, but right now it needs updates to keep that momentum.
 
 ---
 
@@ -58,6 +78,12 @@ TODO:: https://niklasnotes.com/dashboard/game/217986/yapyap
 
 TODO:: https://niklasnotes.com/dashboard/game/185409/pubg_blindspot
 
+PUBG: BLINDSPOT seems to be landing as an interesting experiment rather than a universally loved one. The top-down format and teamwork-heavy design are the main positives, especially for players looking for something more tactical than a standard run-and-gun shooter.
+
+At the same time, reception is being held back by practical issues: balance concerns, server/connectivity complaints, and matchmaking friction. Those are the kind of problems that can drag sentiment quickly if they linger.
+
+The upside is that players are still engaging with the core concept. If they tighten stability and matchmaking, this one could shift in a better direction.
+
 ---
 
 ## DRAGON QUEST VII Reimagined by Square Enix & HEXADRIVE Inc.
@@ -69,6 +95,12 @@ TODO:: https://niklasnotes.com/dashboard/game/185409/pubg_blindspot
 ```
 
 TODO:: https://niklasnotes.com/dashboard/game/230450/dragon_quest_vii_reimagined
+
+Players who came in for nostalgia and quality-of-life improvements seem pretty happy with it.
+
+The pushback mainly comes from players who feel the reimagined version streamlined too much. Simplified difficulty, removed content, and reduced depth are common complaints, with technical issues adding extra friction on top.
+
+So the reception isn’t really about whether Dragon Quest still works — it’s more about where the line should be between modernization and preserving what long-time fans expected.
 
 ---
 
