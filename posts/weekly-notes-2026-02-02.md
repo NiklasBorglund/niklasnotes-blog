@@ -47,8 +47,7 @@ The praise is mostly about gameplay and overall presentation - players also appr
 
 The criticism is more about systems friction: balancing comes up a lot, AI behavior gets called out repeatedly, and the supply system seems to create more frustration than intended.
 
-It seems like the game has a solid foundation for an Early Access launch. The core holds up, and balancing and technical issues can be ironed out over time. The core holds up, and balancing and technical issues can be ironed out over time.
-
+It seems like the game has a solid foundation for an Early Access launch. The core holds up, and balancing and technical issues can be ironed out over time. 
 
 ---
 
