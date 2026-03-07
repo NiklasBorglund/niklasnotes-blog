@@ -163,7 +163,7 @@ Negatives are nearly absent with just some technical performance issues mentione
 
 There are lots and lots of more demos than these I covered that are worth looking into, but these are some of the ones that stood out to me. 
 
-Niklas Notes tracks demos with a separate page and with steam reviews available, so the site cannot analyze all of them. I compiled this list with some of the demos from this next fest that was tracked: https://niklasnotes.com/lists/dp46rj/steam-next-fest-2026-feb-23-mar-02
+Niklas Notes tracks demos with a separate page and with steam reviews available, so the site cannot analyze all of them. I compiled this list with some of the demos from this next fest that was tracked: [LINK TO THE LIST](https://niklasnotes.com/lists/dp46rj/steam-next-fest-2026-feb-23-mar-02)
 
 ---
 
