@@ -98,8 +98,8 @@ Tactical party-based CRPG in Early Access, sequel to [Solasta](https://niklasnot
 
 Gameplay mechanics and combat get genuine praise, carrying over the tactical fun from the first game. Visual quality is improved and voice acting is appreciated.
 
-The dominant complaint is character creation limitations, specifically the lack of options for distinctly male or female characters according to many and thus creating an androgynous look.
-Some reviews also think the faces look odd and easily enter into uncanny valley. Clearly an issue that drives the negative reviews and mentioned alot.
+Character creation gets the most criticism, with many players noting limited options for distinguishing male and female characters and finding the default faces fall into uncanny valley territory.
+Clearly an issue that drives the negative reviews and mentioned alot.
 
 Technical issues with crashes and bugs add to it. I assume some of these issues will be ironed out during Early Access. 75% positive is not the best, but it's entirely possible to get back from.
 
