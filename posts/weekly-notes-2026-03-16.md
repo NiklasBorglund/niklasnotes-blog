@@ -69,7 +69,7 @@ Overall a successful launch and port to PC.
 }
 ```
 
-A free to play open-world action RPG based on [the anime/manga series](https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga) with the same name. It had a rough launch, with only 52% positive.
+A free to play open-world action RPG based on [the anime/manga series](https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)) with the same name. It had a rough launch, with only 52% positive.
 
 The positives are not that many. Some mention visual appeal, community engagement, and story engagement for existing fans.
 
