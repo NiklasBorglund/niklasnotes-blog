@@ -62,7 +62,7 @@ The Chinese audience is notably more negative in score than other regions, while
 }
 ```
 
-The classic 1928 Mickey Mouse short film Steamboat Willie (https://en.wikipedia.org/wiki/Steamboat_Willie) entered the public domain in 2024, helping bring renewed attention to early black-and-white cartoon aesthetics. Fast forward to 2026, and we get creations like this. 
+The classic 1928 Mickey Mouse short film [Steamboat Willie](https://en.wikipedia.org/wiki/Steamboat_Willie) entered the public domain in 2024, helping bring renewed attention to early black-and-white cartoon aesthetics. Fast forward to 2026, and we get creations like this. 
 Looks fantastic, and placed in a noir world. 
 
 You play as a detective mouse in the town of Mouseburg, shooting your way through corruption and crime. Overwhelmingly Positive with more than 5k reviews, and the art style is clearly the star.
